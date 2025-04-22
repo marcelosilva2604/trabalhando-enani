@@ -15,6 +15,8 @@ O objetivo deste processamento é simplificar o conjunto de dados, removendo as 
 
 - **remover_bloco_e.py**: Script que remove as colunas do bloco E do conjunto de dados e mantém a classificação AME
 - **criancas_menores_6_meses_classificadas_sem_bloco_e.csv**: Arquivo final com a remoção do bloco E e a manutenção da classificação AME
+- **reorganizar_csv.py**: Script que reorganiza o CSV movendo a coluna 'aleitamento_materno_exclusivo' para a primeira posição (coluna A)
+- **criancas_menores_6_meses_reorganizado.csv**: Arquivo final reorganizado com a coluna AME na primeira posição
 
 ## Como Executar
 
@@ -24,17 +26,29 @@ Para executar o script e gerar o arquivo sem o bloco E, utilize:
 python remover_bloco_e.py
 ```
 
+Para reorganizar o arquivo e mover a coluna AME para a primeira posição:
+
+```
+python reorganizar_csv.py
+```
+
 ## Resultados Esperados
 
-O script irá:
+O script de remoção irá:
 1. Carregar o arquivo completo da pasta anterior
 2. Identificar e remover todas as colunas que começam com 'e' seguido de números (bloco E)
 3. Manter a coluna 'aleitamento_materno_exclusivo' criada anteriormente
 4. Salvar um novo arquivo CSV sem as colunas do bloco E
 
+O script de reorganização irá:
+1. Carregar o arquivo sem o bloco E
+2. Identificar a posição da coluna 'aleitamento_materno_exclusivo'
+3. Mover essa coluna para a primeira posição (coluna A) no CSV
+4. Salvar um novo arquivo reorganizado para facilitar a análise
+
 ## Próximos Passos
 
-Com esta versão simplificada do conjunto de dados, você pode proceder com:
+Com esta versão simplificada e reorganizada do conjunto de dados, você pode proceder com:
 
 1. Análises estatísticas da prevalência de AME
 2. Cruzamentos com outras variáveis socioeconômicas e demográficas
