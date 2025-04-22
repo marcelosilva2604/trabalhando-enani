@@ -1,0 +1,4891 @@
+Variável: a00_regiao
+Significado: a00_regiao - Macrorregião 
+Valores possíveis:
+      1 - Norte
+      2 - Nordeste
+      3 - Sudeste
+      4 - Sul
+      5 - Centro-Oeste
+
+Variável: a06_domicilio
+Significado: a06_domicilio - número do domicílio
+Valores possíveis:
+      nsa - nsa
+
+Variável: a11_situacao
+Significado: a11_situacao - Situação do setor do domicílio
+Valores possíveis:
+      1 - Urbano
+      2 - Rural
+
+Variável: b00_numero
+Significado: b00_numero - número do morador do domicílio
+Valores possíveis:
+      nsa - 2 a 14
+
+Variável: b02_sexo
+Significado: b02 - Sexo da criança 
+Valores possíveis:
+      1 - Masculino
+      2 - Feminino
+
+Variável: b03_relacao
+Significado: b03_relacao - Relação da criança com o responsável pelo domicílio
+Valores possíveis:
+      3 - Filho(a), enteado(a) 
+      5 - Neto(a), bisneto(a)
+      6 - Irmão, irmã
+      9 - Agregado
+
+Variável: b04_idade
+Significado: b04_idade - Idade em anos completos da criança
+Valores possíveis:
+      0 - nsa
+      1 - nsa
+      2 - nsa
+      3 - nsa
+      4 - nsa
+
+Variável: b05_data
+Significado: b05_data - Data de nascimento da criança
+Valores possíveis:
+      nsa - nsa
+
+Variável: b05a_idade_em_meses
+Significado: b05a_idade_em_meses - Idade em meses da criança 
+Valores possíveis:
+      0 - 0 meses
+      1 - 1 mês
+      2 - 2 meses
+      3 - 3 meses
+      4 - 4 meses
+      5 - 5 meses
+      6 - 6 meses
+      7 - 7 meses
+      8 - 8 meses
+      9 - 9 meses
+      10 - 10 meses
+      11 - 11 meses
+      12 - 12 meses
+      13 - 13 meses
+      14 - 14 meses
+      15 - 15 meses
+      16 - 16 meses
+      17 - 17 meses
+      18 - 18 meses
+      19 - 19 meses
+      20 - 20 meses
+      21 - 21 meses
+      22 - 22 meses
+      23 - 23 meses
+      24 - 24 meses
+      25 - 25 meses
+      26 - 26 meses
+      27 - 27 meses
+      28 - 28 meses
+      29 - 29 meses
+      30 - 30 meses
+      31 - 31 meses
+      32 - 32 meses
+      33 - 33 meses
+      34 - 34 meses
+      35 - 35 meses
+      36 - 36 meses
+      37 - 37 meses
+      38 - 38 meses
+      39 - 39 meses
+      40 - 40 meses
+      41 - 41 meses
+      42 - 42 meses
+      43 - 43 meses
+      44 - 44 meses
+      45 - 45 meses
+      46 - 46 meses
+      47 - 47 meses
+      48 - 48 meses
+      49 - 49 meses
+      50 - 50 meses
+      51 - 51 meses
+      52 - 52 meses
+      53 - 53 meses
+      54 - 54 meses
+      55 - 55 meses
+      56 - 56 meses
+      57 - 57 meses
+      58 - 58 meses
+      59 - 59 meses
+
+Variável: b06_numero_mae
+Significado: b06_numero_mae - Número da mãe biológica na lista de moradores
+Valores possíveis:
+      98 - Criança adotada
+      99 - Mãe não é moradora (ausente, faleceu, etc)
+
+Variável: b06a_porque
+Significado: b06a_porque - Motivo da mãe não morar no domicílio
+Valores possíveis:
+      nsa - nsa
+      Branco - Salto do questionário
+
+Variável: b06b_mae_responsavel
+Significado: b06b_mae_responsavel - Número da mãe ou responsável na lista de moradores
+Valores possíveis:
+      nsa - nsa
+
+Variável: bb04_idade_da_mae
+Significado: bb04_idade_da_mae - Idade em anos completos da mãe
+Valores possíveis:
+      nsa - nsa
+
+Variável: bbb08_numero_mais_novo1
+Significado: bbb08_numero_mais_novo1 -  Identificação do filho mais novo na lista de moradores
+Valores possíveis:
+      2 a 13 - nsa
+
+Variável: bbb08a_numero_mais_velho1
+Significado: bbb08a_numero_mais_velho1 - Identificação do filho mais velho na lista de moradores
+Valores possíveis:
+      2 a 14 - nsa
+
+Variável: d01_cor
+Significado: d01_cor - Cor ou raça da criança      
+Valores possíveis:
+      1 - Branca
+      2 - Preta
+      3 - Amarela (japonesa, chinesa, coreana)
+      4 - Parda (mulata, cabocla, cafuza, mameluca)
+      5 - Indígena
+      9 - Não sabe/não quis responder
+
+Variável: d02_matriculado
+Significado: d02_matriculado - A criança está matriculada em creche ou escola?
+Valores possíveis:
+      1 - Sim, creche ou escola pública
+      2 - Sim, creche ou escola particular 
+      3 - Não
+      4 - Não, nunca frequentou
+
+Variável: d03_duracao
+Significado: d03_duracao - A criança fica na creche ou escola  
+Valores possíveis:
+      1 - O dia todo
+      2 - Somente de manhã
+      3 - Somente de tarde
+
+Variável: d04_refeicao
+Significado: d04_refeicao - A criança faz alguma refeição na creche ou escola                                                                                    
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: d05_quais_refeicoes
+Significado: d05_quais_refeicoes - A criança geralmente faz quais refeições na escola                         
+Valores possíveis:
+      A - Café da manhã
+      B - Lanche da manhã
+      C - Almoço
+      D - Lanche da tarde 
+      E - Jantar
+      F - Outra
+      G - Não sabe/ não quis responder
+      Branco - Salto do questionário
+
+Variável: d05a_refeicao_outra
+Significado: d05a_refeicao_outra - Qual outra refeição faz na escola?
+Valores possíveis:
+      nsa - Salto do questionário
+      Branco - Salto do questionário
+
+Variável: d06_relacao_responsavel
+Significado: d06_relacao_responsavel - Relação entre o responsável e a criança 
+Valores possíveis:
+      1 - Mãe adotiva
+      2 - Pai
+      3 - Irmão/irmã
+      4 - Avó/avô
+      5 - Tia/tio
+      6 - Outra relação
+
+Variável: d06a_qual_outra
+Significado: d06a_qual_outra - Qual outra relação entre o responsável e a criança
+Valores possíveis:
+      nsa - nsa
+      Branco - Salto do questionário
+
+Variável: datablb
+Significado: datablb - Data de aplicação do questionário 
+Valores possíveis:
+      nsa - nsa
+
+Variável: datahorapedido
+Significado: datahorapedido - Data e hora do pedido da coleta de sangue
+Valores possíveis:
+      nsa - nsa
+
+Variável: datahorapedido_r
+Significado: datahorapedido_r - Data e hora do pedido da recoleta de sangue
+Valores possíveis:
+      nsa - nsa
+
+Variável: e01_leite_peito
+Significado: e01_leite_peito - A criança tomou leite do peito ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e02_agua
+Significado: e02_agua  - A criança tomou água ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e03_filtrada_fervida
+Significado: e03_filtrada_fervida - A água que a criança tomou ontem era filtrada/fervida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e04_agua_com_acucar
+Significado: e04_agua_com_acucar  - A criança tomou água com açúcar ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e05_cha
+Significado: e05_cha  - A criança tomou chá ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e06_leite_vaca_po
+Significado: e06_leite_vaca_po  - A criança tomou leite de vaca em pó ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e07_leite_vaca_liquido
+Significado: e07_leite_vaca_liquido  - A criança tomou leite de vaca líquido ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e08_leite_soja_po
+Significado: e08_leite_soja_po - A criança tomou leite de soja em pó ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e09_leite_soja_liquido
+Significado: e09_leite_soja_liquido - A criança tomou leite de soja líquido ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e10_formula_infantil
+Significado: e10_ formula_infantil  - A criança tomou fórmula infantil ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e11_suco
+Significado: e11_suco - A criança tomou suco natural de fruta espremido sem açúcar ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e12_fruta_inteira
+Significado: e12_fruta_inteira  - A criança comeu fruta inteira, em pedaço ou amassada ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e13_fruta_vezes
+Significado: e13_fruta_vezes - Quantas vezes a criança comeu fruta inteira, em pedaço ou amassada ontem
+Valores possíveis:
+      1 - 1 vez
+      2 - 2 vezes
+      3 - 3 vezes
+      4 - 4 vezes
+      5 - 5 vezes
+      6 - 6 vezes 
+      7 - 7 vezes
+      8 - 8 vezes 
+      9 - 9 vezes
+      10 - 10 vezes
+
+Variável: e14_manga
+Significado: e14_manga  - A criança comeu manga, mamão ou goiaba ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e16_comida_sal
+Significado: e16_comida_sal - A criança comeu comida de sal (de panela, papa ou sopa) ontem? 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e17_sal_vezes
+Significado: e17_sal_vezes  - Quantas vezes a criança comeu comida de sal (de panela, papa ou sopa) ontem
+Valores possíveis:
+      1 - 1 vez
+      2 - 2 vezes
+      3 - 3 vezes
+      4 - 4 vezes
+      5 - 5 vezes
+      6 - 6 vezes
+
+Variável: e181_pedacos
+Significado: e181_pedacos                                                
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e182_amassada
+Significado: e182_amassada 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e183_peneira
+Significado: e183_peneira  
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e184_liquidificada
+Significado: e184 _liquidificada  
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e185_caldo
+Significado: e185_caldo 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e189_nao_sabe
+Significado: e189_nao_sabe  
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e18_oferecida
+Significado: e18_oferecida - Essa comida foi oferecida de que forma
+Valores possíveis:
+      A - Em pedaços / inteira
+      B - Amassada
+      C - Passada na peneira
+      D - Liquidificada
+      E - Só caldo
+
+Variável: e19_mingau
+Significado: e19_mingau  - A criança comeu mingau ou papa com leite ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e20_iogurte
+Significado: e20_iogurte - A criança tomou iogurte ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e211a_pao_frances
+Significado: e211a_pao_frances  
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e212a_feito_em_casa
+Significado: e212a_feito_em_casa  
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e213a_industrializado
+Significado: e213a_industrializado 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e214a_nao_comeu
+Significado: e214a_nao_comeu
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e219a_nao_sabe
+Significado: e219a_nao_sabe  
+Valores possíveis:
+      1 - Sim
+      1 - Não
+
+Variável: e21_arroz
+Significado: e21_arroz  - A criança comeu arroz, batata, inhame, cará, aipim/macaxeira/mandioca, farinha ou macarrão (sem ser macarrão instantâneo, tipo miojo) ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e21a_pao
+Significado: e21a_pao - A criança comeu pão ontem 
+Valores possíveis:
+      A - Pão francês 
+      B - Pão feito em casa (caseiro/artesanal)
+      C - Pão industrializado
+      D - Não comeu
+
+Variável: e22_legumes
+Significado: e22_legumes  - A criança comeu legumes diferentes de batata, inhame, cará, aipim/macaxeira/mandioca ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e23_cenoura
+Significado: e23_cenoura  - A criança comeu cenoura, abóbora (jerimum) ou batata doce ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e24_couve
+Significado: e24_couve  - A criança comeu couve, espinafre, taioba, brócolis, caruru folha, beldroega, bertalha ou mostarda ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e25_verduras
+Significado: e25_verduras  - A criança comeu outras verduras, sem ser couve, espinafre, taioba, brócolis, caruru folha, beldroega, bertalha ou mostarda ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e26_feijao
+Significado: e26_feijao - A criança comeu feijão ou outros tipos de grãos, como lentilha, ervilha ou grão de bico ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e27_carne
+Significado: e27_carne - A criança comeu algum tipo de carne (de boi, frango, porco, peixe ou outro) ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e28_figado
+Significado: e28_figado - A criança comeu fígado ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e29_ovo
+Significado: e29_ovo  -  A criança comeu ovo (frito, mexido, omelete, cozido ou gemada) ontem?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e30_hamburger
+Significado: e30_hamburger  - Além dos tipos de carne citados anteriormente (de boi, frango, porco, peixe ou outro), a criança comeu hambúrguer, presunto, mortadela, salame, nugget, linguiça ou salsicha ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e31_salgadinhos
+Significado: e31_salgadinhos - A criança comeu salgadinhos de pacote, tipo chips como Fofura, Fandangos, Cheetos ou outros parecidos ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e32_suco_industrializado
+Significado: e32_suco_industrializado -  A criança bebeu suco industrializado, de caixinha, água de coco de caixinha, guaraná natural ou xaropes de guaraná, refresco de groselha, suco em pó ou suco natural de fruta com adição de açúcar ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e33_refrigerante
+Significado: e33_refrigerante - A criança bebeu refrigerante ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e34_macarrao
+Significado: e34_macarrao - A criança comeu macarrão instantâneo ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e35_biscoito
+Significado: e35_biscoito  -  A criança comeu biscoito/bolacha doce ou salgada ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e36_bala
+Significado: e36_bala -  A criança comeu bala, pirulito ou outras guloseimas ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e37_tempero
+Significado: e37_tempero -  A criança comeu algum alimento que levou tempero pronto industrializado (tipo Sazon, caldo Knorr) ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e38_farinhas
+Significado: e38_farinhas - A criança comeu farinhas instantâneas de arroz, milho, trigo ou aveia (por exemplo: Mucilon, Farinha láctea, Neston, Vitalon, Milnutri) ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e39_mamadeira
+Significado: e39_mamadeira -  A criança recebeu algum alimento por mamadeira ou chuquinha ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: e40_adocado
+Significado: e40_adocado  - A criança comeu alimento adoçado com açúcar, mel ou melado ontem
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: estrato_sel_anon
+Significado: estrato_sel_anon - estrato
+Valores possíveis:
+      nsa - nsa
+
+Variável: f001_esta_usando
+Significado: f001_esta_usando - A criança ESTÁ USANDO algum tipo de vitamina ou mineral 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: g001_usou
+Significado: g001_usou - A criança usou nos últimos 6 meses algum tipo de vitamina ou mineral 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: g150_vitaminas
+Significado: g150_vitaminas - A criança recebeu, nos últimos 6 meses, no posto de saúde ou no dia da vacinação, uma dose de alguma dessas vitaminas?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: g151_sache
+Significado: g151_sache - A criança recebeu, nos últimos 6 meses, esse produto junto com a comida da creche? Foi apresentada a foto do sachê
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: grupo10
+Significado: grupo 10 - Conjunto de crianças que possuem os parâmetros finais: hemoglobina, ácido fólico, vitamina B12, ferritina e Proteína C Reativa, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo11
+Significado: grupo 11 - Conjunto de crianças que possuem os parâmetros finais: hemoglobina, ácido fólico, vitamina B12, ferritina e Proteína C Reativa, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta., exceto a hemoglobina, com intervalo entre coleta e recoleta de até 30 dias. 
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo12
+Significado: grupo 12 - Conjunto de crianças que possuem o parâmetro final hemograma
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo13
+Significado: grupo 13 - Conjunto de crianças que possuem o parâmetro final ácido fólico
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo14
+Significado: grupo 14 - Conjunto de crianças que possuem o parâmetro final ferritina
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo15
+Significado: grupo 15 - Conjunto de crianças que possuem o parâmetro final vitamina B12
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo16
+Significado: grupo 16 - Conjunto de crianças que possuem o parâmetro final vitamina D
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo17
+Significado: grupo 17 - Conjunto de crianças que possuem o parâmetro final vitamina A
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo18
+Significado: grupo 18 - Conjunto de crianças que possuem o parâmetro final vitamina B1
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo19
+Significado: grupo 19 - Conjunto de crianças que possuem o parâmetro final vitamina B6
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo1a
+Significado: grupo1a - Conjunto de crianças que possuem os parâmetros finais:  hemoglobina, ferritina e PCR, avaliados no mesmo momento, na coleta ou na recoleta
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo1b
+Significado: grupo1b - Conjunto de crianças que possuem os parâmetros finais: hemoglobina, proteína C Reativa (PCR) e ferritina, sendo obrigatoriamente a ferritina e PCR avaliadas no mesmo momento, assim como a ferritina e hemoglobina
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo1c
+Significado: grupo 1c - Conjunto de crianças que possuem os parâmetros finais: proteína C Reativa (PCR) e ferritina, sendo obrigatoriamente a ferritina e PCR avaliadas no mesmo momento, ou seja, na coleta ou na recoleta.  
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo2
+Significado: grupo 2 - Conjunto de crianças que possuem os parâmetros finais: hemoglobina e vitamina A, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo20
+Significado: grupo 20 - Conjunto de crianças que possuem o parâmetro final vitamina E
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo21
+Significado: grupo 21 - Conjunto de crianças que possuem o parâmetro final zinco
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo22
+Significado: grupo 22 - Conjunto de crianças que possuem o parâmetro final selênio
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo3
+Significado: grupo 3 - Conjunto de crianças que possuem os parâmetros finais: hemoglobina, vitamina A,  vitamina D e zinco, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo4
+Significado: grupo 4 - Conjunto de crianças que possuem os parâmetros finais: proteína C Reativa (PCR) e zinco, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.  
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo5
+Significado: grupo 5 - Conjunto de crianças que possuem os parâmetros finais proteína C Reativa (PCR) e vitamina A, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo6
+Significado: grupo 6 - Conjunto de crianças que possuem os parâmetros finais proteína C Reativa (PCR) e selênio, sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo7
+Significado: grupo 7 - Conjunto de crianças que possuem os parâmetros finais ácido fólico e vitamina B12 sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta.  
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo8
+Significado: grupo 8 - Conjunto de crianças que possuem os parâmetros finais proteína C reativa (PCR), zinco, selênio, vitamina A e vitamina E sendo obrigatoriamente avaliados no mesmo momento, ou seja, na coleta ou na recoleta. 
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo9a
+Significado: grupo 9a - Conjunto de crianças que possuem os 12 parâmetros finais: hemograma, ácido fólico, ferritina, vitamina B12, vitamina D, vitamina A, B1, B6, E, zinco e selênio, sendo obrigatoriamente todos realizados no mesmo momento, ou seja, na coleta ou na recoleta.  
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: grupo9b
+Significado: grupo 9b - Conjunto de crianças que possuem os 12 parâmetros finais: hemograma, ácido fólico, ferritina, vitamina B12, vitamina D, vitamina A, B1, B6, E, zinco e selênio.
+Valores possíveis:
+      1 - Sim 
+      9 - Não elegível ou não possui nenhum dos 12 parâmetros
+
+Variável: h01_semanas_gravidez
+Significado: h01_semanas_gravidez - Com quantas semanas de gravidez a criança nasceu
+Valores possíveis:
+      nsa - 26 a 43
+
+Variável: h02_peso
+Significado: h02_peso - Peso ao nascer (em gramas) da criança
+Valores possíveis:
+      nsa - nsa
+
+Variável: h03_altura
+Significado: h03_altura - Com quantos centímetros a criança nasceu
+Valores possíveis:
+      nsa - nsa
+
+Variável: h04_parto
+Significado: h04_parto - Tipo de parto da criança
+Valores possíveis:
+      1 - Normal
+      2 - Cesariana agendada (eletiva)
+      3 - Cesariana de urgência (não agendada)
+
+Variável: h05_chupeta_usou
+Significado: h05_chupeta_usou - Desde o nascimento da criança até hoje, ele(ela)
+Valores possíveis:
+      1 - Usa chupeta
+      2 - Já usou chupeta, mas não usa mais
+      3 - Recusou o uso de chupeta 
+      4 - Nunca usou porque nunca foi oferecido 
+      9 - Não sabe/ não quis responder
+
+Variável: h06_chupeta_comecou
+Significado: h06_chupeta_comecou - Idade a criança começou a usar a chupeta                          
+Valores possíveis:
+      nsa - nsa
+      99 - Não sabe/ não quis responder
+
+Variável: h07_chupeta_medida1
+Significado: h07_chupeta_medida1 - Anos, meses ou dias
+Valores possíveis:
+      1 - Anos
+      2 - Meses
+      3 - Dias
+
+Variável: h08_chupeta_parou
+Significado: h08_chupeta_parou - Idade que a criança parou de usar a chupeta
+Valores possíveis:
+      nsa - nsa
+      99 - Não sabe/não quis responder
+
+Variável: h09_chupeta_medida2
+Significado: h09_chupeta_medida2 - Anos, meses ou dias
+Valores possíveis:
+      1 - Anos
+      2 - Meses
+      3 - Dias
+
+Variável: h10_consulta
+Significado: h10_consulta - Onde costuma levar a criança para consulta médica com mais frequência
+Valores possíveis:
+      1 - Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família)
+      2 - Centro de Especialidades, Policlínica pública ou PAM – Posto de Assistência Médica
+      3 - Hospital público/ambulatório
+      4 - Consultório particular ou clínica privada
+      5 - Ambulatório ou consultório de empresa ou sindicato
+      6 - Não costumo levar para consulta médica
+      7 - Outro
+
+Variável: h10a_consulta_outro
+Significado: h10a_consulta_outro - Qual outro local leva a criança para consulta médica
+Valores possíveis:
+      nsa - nsa
+      Em branco - Salto do questionário
+
+Variável: h10b1_sindrome_nao
+Significado: h10b1_sindrome_nao 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h10b2_sindrome_down
+Significado: h10b2_sindrome_down 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h10b3_sindrome_fibrose
+Significado: h10b3_sindrome_fibrose  
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h10b4_sindrome_fenilcetonuria
+Significado: h10b4_sindrome_fenilcetonuria
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h10b5_sindrome_autismo
+Significado: h10b5_sindrome_autismo  
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h10b9_sindrome_nao_sabe
+Significado: h10b9_sindrome_nao_sabe  
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h10b_sindrome_de_down
+Significado: h10b_sindrome_de_down - Algum médico já falou que a criança tem síndrome de Down, fibrose cística, fenilcetonúria ou autismo
+Valores possíveis:
+      A - Não
+      B - Sindrome de Down
+      C - Fibrose cística
+      D - Fenilcetonuria
+      E - Autismo
+      F - Não sabe/ não quis responder
+
+Variável: h11_alergia
+Significado: h11_alergia - Algum médico já falou que a criança tinha ou tem alergia a algum alimento
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: h121_alergia_leite
+Significado: h121_alergia_leite 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h122_alergia_ovos
+Significado: h122_alergia_ovos 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h123_alergia_peixes
+Significado: h123_alergia_peixes 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h124_alergia_sementes
+Significado: h124_alergia_sementes 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h125_alergia_trigo
+Significado: h125_alergia_trigo 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h126_alergia_frutas
+Significado: h126_alergia_frutas 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h127_alergia_feijoes
+Significado: h127_alergia_feijoes 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h128_alergia_outro
+Significado: h128_alergia_outro 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h129_alergia_nao_sabe
+Significado: h129_alergia_nao_sabe 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h12_alergias
+Significado: h12_alergias - Indique se a criança teve ou tem alergia
+Valores possíveis:
+      A - Leite e derivados
+      B - Ovos
+      C - Peixes ou frutos do mar
+      D - Sementes ou oleaginosas
+      E - Trigo milho gluten grãos
+      F - Frutas legumes verduras
+      G - Feijões ou leguminosas
+      H - Outro alimento
+      I - Não sabe /não quis responder
+      Em branco - Salto do questionário
+
+Variável: h12a_alergia_outro
+Significado: h12a_alergia_outro - Quem respondeu não pulou para H13
+Valores possíveis:
+      nsa - nsa
+      Em branco - Salto do questionário
+
+Variável: h13_diarreia
+Significado: h13_diarreia  - A criança está ou esteve com diarreia nos últimos 15 dias
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: h14_tosse
+Significado: h14_tosse - A criança está ou esteve com tosse nos últimos 15 dias
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: h15_respiracao
+Significado: h15_respiracao - A criança está ou esteve com respiração difícil nos últimos 15 dias
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: h16_canseira
+Significado: h16_canseira - A criança está ou esteve com canseira, falta de ar nos últimos 15 dias
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: h17_nariz
+Significado: h17_nariz - A criança está ou esteve com nariz entupido nos últimos 15 dias
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: h18_ronqueira
+Significado: h18_ronqueira - A criança está ou esteve com ronqueira ou catarro nos últimos 15 dias
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: h19_febre
+Significado: h19_febre - A criança está ou esteve com febre nos últimos 15 dias
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: h20_outro_problema
+Significado: h20_outro_problema - A criança tem ou teve algum outro problema de saúde nos últimos 15 dias, exceto diarreia, tosse, respiração difícil, canseira, falta de ar, nariz entupido, ronqueira ou catarro, e febre
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: h20a_problema_outro
+Significado: h20a_problema_outro - Outro problema de saúde que a criança tem ou teve nos últimos 15 dias
+Valores possíveis:
+      nsa - nsa
+      Em branco - Salto do questionário
+
+Variável: h211_internado_respiratoria
+Significado: h211_internado_respiratoria
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h212_internado_intestinais
+Significado:  h212_internado_intestinais 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h213_internado_acidente
+Significado: h213_internado_acidente 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h214_internado_alergias
+Significado: h214_internado_alergias
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h215_internado_outras
+Significado: h215_internado_outras
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h216_internado_nao
+Significado: h216_internado_nao
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h219_internado_nao_sabe
+Significado: h219_internado_nao_sabe
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: h21_internado
+Significado: h21_internado - A criança já foi internado(a) alguma vez desde que nasceu
+Valores possíveis:
+      A - Sim, por infecções respiratórias
+      B - Sim, por infecções intestinais
+      C - Sim, por causa de um acidente
+      D - Sim, por alergias
+      E - Sim, por outras doenças
+      F - Não
+      G - Não sabe / não quis responder
+
+Variável: h21a_doenca_outra
+Significado: h21a_doenca_outra - Por qual outra doença a criança já foi internada 
+Valores possíveis:
+      nsa - nsa
+      Em branco - Salto do questionário
+
+Variável: i000_2m_faz
+Significado: i000_2m_faz - Faz sons que mostram para você que ele ou ela está feliz ou chateado
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i000b_data_do_dia
+Significado: i000b_data_do_dia - Data de aplicação do bloco I
+Valores possíveis:
+      nsa - nsa
+
+Variável: i000c_idade_em_meses
+Significado: i000c_idade_em_meses - Idade da criança em meses, recalculada
+Valores possíveis:
+      nsa - nsa
+
+Variável: i000d_data_ajustada
+Significado: i000d_data_ajustada - Data de nascimento ajustada
+Valores possíveis:
+      nsa - nsa
+
+Variável: i000e_semanas_gravidez
+Significado: i000e_semanas_gravidez - Com quantas semanas nasceu
+Valores possíveis:
+      26 a 43 - nsa
+
+Variável: i001_2m_feliz
+Significado: i001_2m_feliz - Parece feliz em ver você
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i002_2m_segue
+Significado: i002_2m_segue - Segue com os olhos o movimento de um brinquedo
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i003_2m_vira
+Significado: i003_2m_vira - Vira a cabeça para achar a pessoa que está falando
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i004_2m_cabeca
+Significado: i004_2m_cabeca - Mantém a cabeça firme quando puxado para sentar
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i005_2m_maos
+Significado: i005_2m_maos - Junta as mãos
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i006_2m_ri
+Significado: i006_2m_ri - Ri
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i007_2m_sentada
+Significado: i007_2m_sentada - Mantém a cabeça firme quando você o/a segura na posição sentada
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i008_2m_sons
+Significado: i008_2m_sons - Faz sons como "ga", "ma" ou "ba”
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i009_2m_olha
+Significado: i009_2m_olha - Olha quando você o/a chama pelo nome
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i010_4m_cabeca
+Significado:  i010_4m_cabeca - Mantém a cabeça firme quando puxado(a) para sentar
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i011_4m_maos
+Significado: i011_4m_maos - Junta as mãos
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i012_4m_ri
+Significado: i012_4m_ri  - Ri
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i013_4m_sentada
+Significado: i013_4m_sentada - Mantém a cabeça firme quando você o/a segura na posição sentada
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i014_4m_sons
+Significado: i014_4m_sons -  Faz sons como "ga", "ma" ou "ba"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i015_4m_olha
+Significado: i015_4m_olha - Olha quando você o/a chama pelo nome
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i016_4m_barriga
+Significado:  i016_4m_barriga - Vira de barriga para baixo
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i017_4m_brinquedo
+Significado: i017_4m_brinquedo - Passa um brinquedo de uma mão para a outra
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i018_4m_procura
+Significado: i018_4m_procura - Procura por você ou outro cuidador quando está chateado(a)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i019_4m_segura
+Significado: i019_4m_segura - Segura dois objetos e bate um no outro
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i020_6m_sons
+Significado: i020_6m_sons - Faz sons como "ga", "ma" ou "ba"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i021_6m_olha
+Significado: i021_6m_olha - Olha quando você o/a chama pelo nome
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i022_6m_barriga
+Significado:  i022_6m_barriga - Vira de barriga para baixo
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i023_6m_brinquedo
+Significado: i023_6m_brinquedo - Passa um brinquedo de uma mão para a outra
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i024_6m_procura
+Significado: i024_6m_procura - Procura por você ou outro cuidador quando está chateado(a)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i025_6m_segura
+Significado: i025_6m_segura - Segura dois objetos e bate um no outro
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i026_6m_bracos
+Significado:  i026_6m_bracos - Levanta os braços para ser carregado(a)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i027_6m_sentada
+Significado: i027_6m_sentada - Passa para a posição sentada sozinho(a)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i028_6m_mao
+Significado: i028_6m_mao - Pega alimento com a mão e come
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i029_6m_puxa
+Significado: i029_6m_puxa - Puxa para ficar de pé
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i030_9m_bracos
+Significado: i030_9m_bracos - Levanta os braços para ser carregado(a)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i031_9m_sentada
+Significado: i031_9m_sentada - Passa para a posição sentada sozinho(a)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i032_9m_mao
+Significado: i032_9m_mao - Pega alimento com a mão e come
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i033_9m_puxa
+Significado: i033_9m_puxa - Puxa para ficar de pé
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i034_9m_brinca
+Significado: i034_9m_brinca - Brinca de "escondeu-achou" ou "bate palminhas"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i035_9m_mama
+Significado: i035_9m_mama - Chama você de "mama" ou "papa" ou nome parecido
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i036_9m_olha
+Significado: i036_9m_olha - Olha ao redor quando você diz coisas como "Onde está sua mamadeira?" ou "Onde está seu cobertor”
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i037_9m_sons
+Significado:  i037_9m_sons - Imita sons que você faz
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i038_9m_anda
+Significado: i038_9m_anda - Atravessa um cômodo andando sem ajuda
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i039_9m_pedidos
+Significado:  i039_9m_pedidos - Atende pedidos como "Venha cá" ou "Me dá a bola"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i040_12m_mao
+Significado: i040_12m_mao - Pega alimento com a mão e come
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i041_12m_puxa
+Significado: i041_12m_puxa - Puxa para ficar de pé
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i042_12m_brinca
+Significado: i042_12m_brinca - Brinca de "escondeu-achou" ou "bate palminhas"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i043_12m_mama
+Significado: i043_12m_mama - Chama você de "mama" ou "papa" ou nome parecido
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i044_12m_olha
+Significado: i044_12m_olha - Olha ao redor quando você diz coisas como "Onde está sua mamadeira?" ou "Onde está seu cobertor”
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i045_12m_sons
+Significado: i045_12m_sons - Imita sons que você faz
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i046_12m_anda
+Significado: i046_12m_anda - Atravessa um cômodo andando sem ajuda
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i047_12m_pedidos
+Significado:  i047_12m_pedidos - Atende pedidos como "Venha cá" ou "Me dá a bola"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i048_12m_corre
+Significado: i048_12m_corre - Corre (sem ajuda)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i049_12m_escadas
+Significado: i049_12m_escadas - Sobe escadas com ajuda de uma pessoa
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i050_15m_mama
+Significado: i050_15m_mama - Chama você de "mama" ou "papa" ou nome parecido
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i051_15m_olha
+Significado: i051_15m_olha - Olha ao redor quando você diz coisas como "Onde está sua mamadeira?" ou "Onde está seu cobertor”
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i052_15m_sons
+Significado:  i052_15m_sons - Imita sons que você faz
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i053_15m_anda
+Significado: i053_15m_anda - Atravessa um cômodo andando sem ajuda
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i054_15m_pedidos
+Significado: i054_15m_pedidos - Atende pedidos como "Venha cá" ou "Me dá a bola"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i055_15m_corre
+Significado:  i055_15m_corre - Corre (sem ajuda)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i056_15m_escadas
+Significado: i056_15m_escadas - Sobe escadas com ajuda de uma pessoa
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i057_15m_chuta
+Significado: i057_15m_chuta - Chuta uma bola
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i058_15m_objetos
+Significado: i058_15m_objetos - Fala o nome de pelo menos 5 objetos familiares como bola ou leite
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i059_15m_corpo
+Significado: i059_15m_corpo - Fala o nome de pelo menos 5 partes do corpo como nariz, mão ou barriga
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i060_18m_corre
+Significado: i060_18m_corre - Corre (sem ajuda)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i061_18m_escadas
+Significado:  i061_18m_escadas - Sobe escadas com ajuda de uma pessoa
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i062_18m_chuta
+Significado: i062_18m_chuta - Chuta uma bola
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i063_18m_objetos
+Significado: i063_18m_objetos - Fala o nome de pelo menos 5 objetos familiares como bola ou leite
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i064_18m_corpo
+Significado: i064_18m_corpo - Fala o nome de pelo menos 5 partes do corpo como nariz, mão ou barriga
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i065_18m_sozinha
+Significado: i065_18m_sozinha - Sobe escadas sozinha apoiando com as mãos na parede ou no corrimão
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i066_18m_eu
+Significado: i066_18m_eu - Usa palavras como "eu" ou "meu"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i067_18m_pula
+Significado: i067_18m_pula - Pula com os dois pés
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i068_18m_combina
+Significado:  i068_18m_combina - Combina duas ou mais palavras como "dá água" ou "vamos embora
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i069_18m_ajuda
+Significado:  i069_18m_ajuda - Usa palavras para pedir ajuda
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i070_24m_corpo
+Significado: i070_24m_corpo - Fala o nome de pelo menos 5 partes do corpo como nariz, mão ou barriga
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i071_24m_sozinha
+Significado: i071_24m_sozinha - Sobe escadas sozinha apoiando com as mãos na parede ou no corrimão
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i072_24m_eu
+Significado:  i072_24m_eu - Usa palavras como "eu" ou "meu"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i073_24m_pula
+Significado: i073_24m_pula - Pula com os dois pés
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i074_24m_combina
+Significado:  i074_24m_combina - Combina duas ou mais palavras como "dá água" ou "vamos embora
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i075_24m_ajuda
+Significado: i075_24m_ajuda - Usa palavras para pedir ajuda
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i076_24m_cor
+Significado: i076_24m_cor - Fala o nome de pelo menos uma cor
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i077_24m_atencao
+Significado: i077_24m_atencao - Fala alguma coisa para chamar atenção das pessoas para o que ele/ela está fazendo
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i078_24m_nome
+Significado: i078_24m_nome - Sabe dizer seu próprio nome
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i079_24m_linhas
+Significado: i079_24m_linhas - Desenha linhas
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i080_30m_cor
+Significado: i080_30m_cor - Fala o nome de pelo menos uma cor
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i081_30m_atencao
+Significado: i081_30m_atencao - Fala alguma coisa para chamar atenção das pessoas para o que ele/ela está fazendo
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i082_30m_nome
+Significado: i082_30m_nome - Sabe dizer seu próprio nome
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i083_30m_linhas
+Significado: i083_30m_linhas - Desenha linhas
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i084_30m_fala
+Significado: i084_30m_fala - Fala com outras pessoas e é compreendida a maior parte do tempo
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i085_30m_lava
+Significado: i085_30m_lava - Lava e seca as mãos sem ajuda (a criança não precisa abrir a torneira)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i086_30m_perguntas
+Significado: i086_30m_perguntas - Faz perguntas começando com "por quê" ou "como"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i087_30m_explicar
+Significado: i087_30m_explicar - Sabe explicar o porquê das coisas, por exemplo, precisa comer por que está com fome
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i088_30m_compara
+Significado: i088_30m_compara - Compara coisas usando palavras como "maior" ou "menor"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i089_30m_responde
+Significado: i089_30m_responde - Responde perguntas como "o que você faz quando está frio" ou "quando está com sono”
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i090_36m_fala
+Significado: i090_36m_fala - Fala com outras pessoas e é compreendida a maior parte do tempo
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i091_36m_lava
+Significado: i091_36m_lava - Lava e seca as mãos sem ajuda (a criança não precisa abrir a torneira)
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i092_36m_perguntas
+Significado: i092_36m_perguntas - Faz perguntas começando com "por quê" ou "como"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i093_36m_explicar
+Significado: i093_36m_explicar - Sabe explicar o porquê das coisas, por exemplo, precisa comer por que está com fome
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i094_36m_compara
+Significado: i094_36m_compara - Compara coisas usando palavras como "maior" ou "menor"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i095_36m_responde
+Significado: i095_36m_responde - Responde perguntas como "o que você faz quando está frio" ou "quando está com sono”
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i096_36m_conta
+Significado: i096_36m_conta - Conta a história de um livro ou programa de TV
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i097_36m_desenha
+Significado: i097_36m_desenha - Desenha formas simples como um círculo ou quadrado
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i098_36m_plural
+Significado:  i098_36m_plural - Fala palavras no plural, por exemplo, pés, meninos, frutas
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i099_36m_ontem
+Significado: i099_36m_ontem - Usa palavras como "ontem" e "amanhã" corretamente
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i100_48m_compara
+Significado: i100_48m_compara - Compara coisas usando palavras como "maior" ou "menor"
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i101_48m_responde
+Significado: i101_48m_responde - Responde perguntas como "o que você faz quando está frio" ou "quando está com sono”
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i102_48m_conta
+Significado: i102_48m_conta - Conta a história de um livro ou programa de TV
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i103_48m_desenha
+Significado: i103_48m_desenha - Desenha formas simples como um círculo ou quadrado
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i104_48m_plural
+Significado: i104_48m_plural - Fala palavras no plural, por exemplo, pés, meninos, frutas
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i105_48m_ontem
+Significado: i105_48m_ontem - Usa palavras como "ontem" e "amanhã" corretamente
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i106_48m_urinar
+Significado: i106_48m_urinar - Fica sem urinar na cama a noite toda
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i107_48m_regras
+Significado: i107_48m_regras - Segue regras simples quando brinca com jogos de tabuleiros ou de cartas
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i108_48m_copia
+Significado:  i108_48m_copia - Copia seu primeiro nome
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i109_48m_figuras
+Significado:  i109_48m_figuras - Desenha figuras que você reconhece
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i110_59m_conta
+Significado: i110_59m_conta - Conta a história de um livro ou programa de TV
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i111_59m_desenha
+Significado:  i111_59m_desenha - Desenha formas simples como um círculo ou quadrado
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i112_59m_plural
+Significado: i112_59m_plural - Fala palavras no plural, por exemplo, pés, meninos, frutas
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i113_59m_ontem
+Significado: i113_59m_ontem - Usa palavras como "ontem" e "amanhã" corretamente
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i114_59m_urinar
+Significado: i114_59m_urinar - Fica sem urinar na cama a noite toda
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i115_59m_regras
+Significado:  i115_59m_regras - Segue regras simples quando brinca com jogos de tabuleiros ou de cartas
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i116_59m_copia
+Significado: i116_59m_copia - Copia seu primeiro nome
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i117_59m_figuras
+Significado: i117_59m_figuras - Desenha figuras que você reconhece
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i118_59m_colore
+Significado: i118_59m_colore - Colore um desenho dentro das linhas
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i119_59m_sabe
+Significado: i119_59m_sabe - Sabe falar os dias da semana na ordem correta
+Valores possíveis:
+      0 - Ainda não
+      1 - Um pouco
+      2 - Muito
+
+Variável: i993_faltou_alguma_refeicao
+Significado: i993_faltou_alguma_refeicao - Teve alguma refeição que você não conseguiu informar os alimentos e quantidades 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: i9941_cafe_manha
+Significado: i9941_cafe_manha - Não conseguiu informar os alimentos e quantidades no café 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: i9942_lanche_manha
+Significado: i9942_lanche_manha - Não conseguiu informar os alimentos e quantidades no lanche da manhã
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: i9943_almoco
+Significado: i9943_almoco - Não conseguiu informar os alimentos e quantidades no almoço
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: i9944_lanche_tarde
+Significado: i9944_lanche_tarde - Não conseguiu informar os alimentos e quantidades no lanche da tarde
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: i9945_jantar
+Significado: i9945_jantar - Não conseguiu informar os alimentos e quantidades no jantar 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: i9946_ceia
+Significado: i9946_ceia - Não conseguiu informar os alimentos e quantidades na ceia
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: i9947_outros
+Significado: i9947_outros - Não conseguiu informar os alimentos e quantidades em outros lanches ou beliscos 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: i994_qual_refeicao
+Significado: i994_qual_refeicao - Quais foram as refeições que não foram informadas? 
+Valores possíveis:
+      A - Café da manhã
+      B - Lanche da manhã
+      C - Almoço
+      D - Lanche da tarde 
+      E - Jantar
+      F - Ceia
+      G - Outros lanches/ beliscos
+      Branco - Salto do questionário
+
+Variável: id_anon
+Significado: id_anon - Código de identificação da criança
+Valores possíveis:
+      nsa - nsa
+
+Variável: id_domic_anon
+Significado: id_domic_anon - Código de identificação do domicilio
+Valores possíveis:
+      nsa - nsa
+
+Variável: id_resp_anon
+Significado: id_resp_anon - Código de identificação do responsável
+Valores possíveis:
+      nsa - nsa
+
+Variável: id_upa_anon
+Significado: id_upa_anon - Código de identificação da unidade primaria de amostragem
+Valores possíveis:
+      nsa - nsa
+      nsa - nsa
+
+Variável: idade
+Significado: idade - idade em anos e meses
+Valores possíveis:
+      nsa - nsa
+
+Variável: idade_anos_comp
+Significado: idade_anos_comp - idade em anos completos
+Valores possíveis:
+      0 a 4 - nsa
+
+Variável: j03_cor
+Significado: j03_cor - Cor ou raça da mãe/responsável 
+Valores possíveis:
+      1 - Branca
+      2 - Preta
+      3 - Amarela (origem japonesa, chinesa,coreana)
+      4 - Parda (mulata, cabocla, cafuza, mameluca)
+      5 - Indígena
+
+Variável: j04_vive
+Significado: j04_vive - A mãe/responsável vive com companheiro(a) 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j0501_rel_catolica
+Significado: j0501_rel_catolica - Religião ou culto da mãe/ responsável
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j0502_rel_evangelica_tradicional
+Significado: j0502_rel_evangelica_tradicional - Religião ou culto da mãe/ responsável
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j0503_rel_evangelica_pentecostal
+Significado: j0503_rel_evangelica_pentecostal - Religião ou culto da mãe/ responsável
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j0504_rel_espirita_kardecista
+Significado: j0504_rel_espirita_kardecista - Religião ou culto da mãe/ responsável
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j0505_rel_afro_brasileira
+Significado: j0505_rel_afro_brasileira - Religião ou culto da mãe/ responsável
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j0506_rel_protestante_historica
+Significado: j0506_rel_protestante_historica - Religião ou culto da mãe/ responsável
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j0507_rel_budista
+Significado: j0507_rel_budista - Religião ou culto da mãe/ responsável
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j0508_rel_sem_religiao
+Significado: j0508_rel_sem_religiao - Religião ou culto da mãe/ responsável
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j0509_rel_outra_religiao
+Significado: j0509_rel_outra_religiao - Religião ou culto da mãe/ responsável
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j0510_rel_ns_nqr
+Significado: j0510_rel_ns_nqr - Religião ou culto da mãe/ responsável
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j05_religiao
+Significado: j05_religiao - Religião ou culto da mãe/responsável 
+Valores possíveis:
+      A - Católica
+      B - Evangélica tradicional
+      C - Evangélica pentecostal
+      D - Espírita Kardecista (Mediúnica Espírita)
+      E - Afro-brasileira (candomblé, umbanda)
+      F - Protestante Histórica: Adventista, Batista, Luterana, Metodista e Presbiteriana
+      G - Budista, Judaica, Messiânica, Testemunha de Jeová
+      H - Sem religião/criado sem religião (não possui religião, ateu)
+      I - Outra religião
+      J - Não sabe / não quis responder
+
+Variável: j05a_religiao_outra
+Significado: j05a_religiao_outra - Outra religião ou culto da mãe/ responsável 
+Valores possíveis:
+      nsa - nsa
+      Branco - Salto do questionário
+
+Variável: j06_ocupacao
+Significado: j06_ocupacao - Principal situação de emprego atual da mãe/responsável 
+Valores possíveis:
+      1 - Trabalho regular ou com horário fixo
+      2 - Trabalho irregular e sem horário fixo (bicos)
+      3 - Desempregado e ativamente procurando por trabalho
+      4 - Fora do mercado de trabalho ? não trabalha e não procura ativamente por trabalho
+
+Variável: j07_nao_empregado
+Significado: j07_nao_empregado - Opção melhor descreve a situação atual de emprego da mãe/responsável
+Valores possíveis:
+      1 - Dona-de-casa/do lar
+      2 - Estudante
+      3 - Aposentado
+      4 - Não procura por trabalho
+      5 - Com incapacidade temporária ou em auxílio doença
+      6 - Com incapacidade permanente
+      7 - Outra
+      Branco - Salto do questionário
+
+Variável: j07a_nao_outra
+Significado: j07a_nao_outra - Qual outra situação atual de emprego da mãe/responsável
+Valores possíveis:
+      Branco - Salto do questionário
+
+Variável: j08_ler
+Significado: j08_ler - A mãe/responsável sabe ler e escrever                
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: j09_frequenta
+Significado: j09_frequenta - A mãe/responsável frequenta ou já frequentou a escola
+Valores possíveis:
+      1 - Frequenta
+      2 - Já frequentou
+      3 - Nunca frequentou
+
+Variável: j10_serie
+Significado: j10_serie - Última série/ano que a mãe/responsável completou
+Valores possíveis:
+      0 - Sem estudo
+      1 - 1° ano do ensino fundamental
+      2 - 1ª série/ 2°ano do ensino fundamental
+      3 - 2ª série/ 3°ano do ensino fundamental
+      4 - 3ª série/ 4°ano do ensino fundamental
+      5 - 4ª série/ 5°ano do ensino fundamental
+      6 - 5ª série/ 6°ano do ensino fundamental
+      7 - 6ª série/ 7°ano do ensino fundamental
+      8 - 7ª série/ 8°ano do ensino fundamental
+      9 - 8ª série/ 9°ano do ensino fundamental
+      10 - 1° ano do ensino médio
+      11 - 2° ano do ensino médio
+      12 - 3° ano do ensino médio
+      13 - Ensino superior incompleto 
+      14 - Ensino superior completo
+
+Variável: k01_gestacoes
+Significado: k01_gestacoes - Quantas gestações você teve
+Valores possíveis:
+      nsa - nsa
+      99 - Não sabe/ não quis responder
+
+Variável: k02_filhos_vivos
+Significado: k02_filhos_vivos - Quantos filhos nasceram vivos? 
+Valores possíveis:
+      nsa - nsa
+      99 - Não sabe/ não quis responder
+
+Variável: k03_prenatal
+Significado: k03_prenatal - Fez o pré-natal da criança
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      99 - Não sabe/ não quis responder
+
+Variável: k04_prenatal_semanas
+Significado: k04_prenatal_semanas - Com quantas semanas de gravidez você iniciou o pré-natal da criança
+Valores possíveis:
+      nsa - nsa
+      99 - Não sabe/ não quis responder
+
+Variável: k05_prenatal_consultas
+Significado: k05_prenatal_consultas - Quantas consultas de pré-natal teve durante a gravidez da criança
+Valores possíveis:
+      nsa - nsa
+      99 - Não sabe/ não quis responder
+
+Variável: k06_peso_engravidar
+Significado: k06_peso_engravidar - Qual era o seu peso antes de engravidar da criança
+Valores possíveis:
+      nsa - nsa
+      999.9  - Não sabe/ não quis responder
+
+Variável: k07_peso_final
+Significado: k07_peso_final - Qual era o seu peso antes do parto (ao final da gestação) da criança
+Valores possíveis:
+      nsa - nsa
+      999.9  - Não sabe/ não quis responder
+
+Variável: k08_quilos
+Significado: k08_quilos - Quantos quilos você ganhou na gestação da criança
+Valores possíveis:
+      nsa - nsa
+      99.9 - Não sabe/ não quis responder
+
+Variável: k09_licenca
+Significado: k09_licenca - Está de licença maternidade
+Valores possíveis:
+      1 - Sim, remunerada
+      2 - Sim, não remunerada
+      3 - Não está de licença
+
+Variável: k10_meses
+Significado: k10_meses - Quantos meses depois do parto começou a trabalhar?
+Valores possíveis:
+      nsa - nsa
+      88 - Ainda não voltou a trabalhar
+      99 - Não sabe/ não quis responder
+
+Variável: k11_amamentou
+Significado: k11_amamentou - Amamentou alguma vez  a criança
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: k12_tempo
+Significado: k12_tempo - Quanto tempo depois do nascimento a criança foi colocada no peito pela primeira vez para mamar
+Valores possíveis:
+      0 - < 1 hora
+      nsa - nsa
+
+Variável: k13_tempo_medida
+Significado: k13_tempo_medida - Horas ou dias
+Valores possíveis:
+      1 - Horas
+      2 - Dias
+
+Variável: k14_ainda
+Significado: k14_ainda - Você ainda está amamentando a criança
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: k15_recebeu
+Significado: k15_recebeu - Durante sua permanência na maternidade a criança recebeu algum outro leite que não fosse o leite de peito
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: k16_liquido
+Significado: k16_liquido - Nos primeiros dias após o parto, e antes que o seu leite estivesse descendo, foi dado algum outro líquido para a criança beber que não fosse leite materno
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: k171_alimento_leite
+Significado: k171_alimento_leite 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k172_alimento_formulas
+Significado: k172_alimento_formulas
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k173_alimento_cha
+Significado: k173_alimento_cha 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k174_alimento_agua
+Significado: k174_alimento_agua 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k175_alimento_acucar
+Significado: k175_alimento_acucar 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k176_alimento_outro
+Significado: k176_alimento_outro 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k179_alimento_nao_sabe
+Significado: k179_alimento_nao_sabe 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k17_alimento
+Significado: k17_alimento - Alimento que foi dado para a criança beber antes que o seu leite descesse
+Valores possíveis:
+      A - Leite líquido (de vaca, cabra, soja, arroz)
+      B - Fórmulas infantis (Exemplos: Nan, Nestogeno, Aptamil, Enfamil)
+      C - Chá
+      D - Água
+      E - Água com açúcar
+      F - Outro
+      G - Não sabe/ não quis responder
+
+Variável: k17a_alimento_qual_outro
+Significado: k17a_alimento_qual_outro - Qual outro alimento foi dado para a criança beber antes que o seu leite descesse
+Valores possíveis:
+      nsa - nsa
+
+Variável: k18_somente
+Significado: k18_somente - Durante quanto tempo deu somente leite do peito para a criança, sem água, chá, suco ou outros alimentos
+Valores possíveis:
+      nsa - nsa
+      88 - Ainda está amamentando exclusivamente
+
+Variável: k19_somente_medida
+Significado: k19_somente_medida - Dias ou meses
+Valores possíveis:
+      1 - Dias
+      2 - 2 Meses
+
+Variável: k20_doou
+Significado: k20_doou - Desde que amamenta a criança doou o seu leite a algum banco de leite humano ou posto de coleta de leite humano
+Valores possíveis:
+      1 - Sim
+      2 - Tentei, mas não consegui
+      3 - Não
+
+Variável: k21_recebeu
+Significado: k21_recebeu - Desde que amamenta a criança alguma vez recebeu leite de um banco de leite humano
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k22_amamentou
+Significado: k22_amamentou - Desde que amamenta a criança você amamentou o filho de outra mulher
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k23_deixou
+Significado: k23_deixou - Desde que amamenta a criança deixou seu filho ser amamentado por outra mulher
+Valores possíveis:
+      1 - Sim
+      2 - Não
+      9 - Não sabe/não quis responder
+
+Variável: k241_utilizou_concha
+Significado: k241_utilizou_concha 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k242_utilizou_protetor
+Significado: k242_utilizou_protetor 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k243_utilizou_bico
+Significado: k243_utilizou_bico 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k244_utilizou_bomba
+Significado: k244_utilizou_bomba 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k245_utilizou_mamadeira
+Significado: k245_utilizou_mamadeira 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k246_utilizou_sondinha
+Significado: k246_utilizou_sondinha
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k247_utilizou_copo
+Significado: k247_utilizou_copo 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k248_utilizou_nao
+Significado: k248_utilizou_nao
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k249_utilizou_nao_sabe
+Significado:  k249_utilizou_nao_sabe
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: k24_utilizou
+Significado: k24_utilizou - Desde que amamenta a criança utilizou
+Valores possíveis:
+      A - Concha de amamentação
+      B - Protetor de mamilo
+      C - Bico de silicone
+      D - Bomba tira-leite
+      E - Mamadeira ou chuquinha
+      F - Sondinha
+      G - Copo
+      H - Não utilizou nenhum dos utensílios listados
+      I - Não sabe/ não quis responder
+
+Variável: k25_mamadeira
+Significado: k25_mamadeira - A criança usa ou já usou mamadeira
+Valores possíveis:
+      1 - Não, nunca usou
+      2 - Sim, já usou mas não usa mais
+      3 - Sim, ainda usa
+      9 - Não sabe/ não quis responder
+
+Variável: k26_idade
+Significado: k26_idade - Idade que a criança começou a usar mamadeira
+Valores possíveis:
+      nsa - nsa
+      99 - Não sabe/ não quis responder
+
+Variável: k27_idade_medida
+Significado: k27_idade_medida - Anos, meses ou dias
+Valores possíveis:
+      1 - Anos
+      2 - Meses
+      3 - Dias
+
+Variável: k28_aleitamento
+Significado: k28_aleitamento - Você acessa ou acessou a internet para buscar informações sobre aleitamento materno
+Valores possíveis:
+      1 - Muito
+      2 - Mais ou menos
+      3 - Pouco
+      4 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: k29_alimentacao
+Significado: k29_alimentacao - Você acessa a internet para buscar informações sobre alimentação infantil
+Valores possíveis:
+      1 - Muito
+      2 - Mais ou menos
+      3 - Pouco
+      4 - Não
+      9 - Não sabe/ não quis responder
+
+Variável: l01_morador_alim_acabassem
+Significado: l01_morador_alim_acabassem - EBIA_Os moradores tiveram a preocupação de que os alimentos acabassem antes de poderem comprar ou receber mais comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l02_morador_alim_acabaram
+Significado: l02_morador_alim_acabaram - EBIA_Os alimentos acabaram antes que os moradores tivessem dinheiro para comprar mais comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l03_morador_saudavel
+Significado: l03_morador_saudavel - EBIA_Os moradores ficaram sem dinheiro para ter uma alimentação saudável e variada
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l04_morador_insuficiente
+Significado: l04_morador_insuficiente - EBIA_Os moradores comeram apenas alguns alimentos que ainda tinham porque o dinheiro acabou
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l05_adulto_saltou_refeicao
+Significado: l05_adulto_saltou_refeicao -  EBIA_O respondente ou algum adulto da casa deixou de fazer alguma refeição porque não havia dinheiro para comprar comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l06_adulto_comeu_menos
+Significado: l06_adulto_comeu_menos - EBIA_O respondente ou algum adulto da casa, alguma vez, comeu menos do que achou que devia porque não havia dinheiro para comprar comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l07_adulto_sentiu_fome
+Significado: l07_adulto_sentiu_fome - EBIA_O respondente ou algum adulto da casa, alguma vez, sentiu fome, mas não comeu porque não havia dinheiro para comprar comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l08_adulto_sem_comer
+Significado: l08_adulto_sem_comer - EBIA_O respondente ou algum adulto da casa, alguma vez, fez apenas uma refeição ao dia ou ficou um dia inteiro sem comer porque não havia dinheiro para comprar a comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l09_menos18_saudavel
+Significado: l09_menos18_saudavel - EBIA_Algum morador com menos de 18 anos de idade, alguma vez, deixou de ter uma alimentação saudável e variada porque não havia dinheiro para comprar comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l10_menos18_insuficiente
+Significado: l10_menos18_insuficiente - EBIA_Algum morador com menos de 18 anos, alguma vez, não comeu quantidade suficiente de comida porque não havia dinheiro para comprar comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l11_menos18_diminuiu
+Significado: l11_menos18_diminuiu -  EBIA_Algum morador com menos de 18 anos diminuiu a quantidade de alimentos das refeições porque não havia dinheiro para comprar a comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l12_menos18_saltou_refeicao
+Significado: l12_menos18_saltou_refeicao - EBIA_Algum morador com menos de 18 anos, deixou de fazer alguma refeição, porque não havia dinheiro para comprar a comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l13_menos18_sentiu_fome
+Significado: l13_menos18_sentiu_fome - EBIA_Algum morador com menos de 18 anos sentiu fome, mas não comeu porque não havia dinheiro para comprar mais comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: l14_menos18_sem_comer
+Significado: l14_menos18_sem_comer - EBIA_ Algum morador com menos de 18 anos fez apenas uma refeição ao dia ou ficou sem comer por um dia inteiro porque não havia dinheiro para comprar comida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: m01_costuma_cozinhar
+Significado: m01_costuma_cozinhar - Nessa casa se costuma cozinhar
+Valores possíveis:
+      1 - Não
+      2 - Sim, raramente
+      3 - Sim, algumas vezes no mês
+      4 - Sim, alguns dias da semana
+      5 - Sim, a maioria dos dias da semana
+      6 - Sim, todos os dias da semana
+
+Variável: m02_quem_cozinha
+Significado: m02_quem_cozinha - Quem cozinha em casa na maioria das vezes?
+Valores possíveis:
+      nsa - nsa
+      21 - Pessoa contratada
+      22 - Outra (pessoas que não moram na casa)
+
+Variável: m03_alimentos_basicos
+Significado: m03_alimentos_basicos - Quando cozinha em casa, você utiliza principalmente alimentos básicos, por exemplo: arroz, feijão, legumes, verduras, carnes, ovos, temperos naturais?
+Valores possíveis:
+      1 - Não
+      2 - Sim, raramente
+      3 - Sim, às vezes
+      4 - Sim, quase sempre
+      5 - Sim, sempre
+      6 - Não se cozinha em casa
+
+Variável: m04_confiante
+Significado: m04_confiante - Você se sente confiante para preparar refeições utilizando principalmente alimentos básicos, por exemplo: arroz, feijão, legumes, verduras, carnes, ovos?
+Valores possíveis:
+      1 - Não
+      2 - Sim, para alguns desses alimentos 
+      3 - Sim, para a maioria desses alimentos 
+      4 - Sim, para todos esses alimentos 
+
+Variável: m05_organiza
+Significado: m05_organiza - Você se organiza para não faltar alimentos básicos em casa? (LER)
+Valores possíveis:
+      1 - Não
+      2 - Sim, raramente
+      3 - Sim, às vezes
+      4 - Sim, quase sempre
+      5 - Sim, sempre
+
+Variável: m06_facilidade
+Significado: m06_facilidade - Você tem facilidade em preparar refeições utilizando os alimentos básicos que vocês têm em casa, por exemplo: arroz, feijão, legumes, verduras, carnes, ovos
+Valores possíveis:
+      1 - Não
+      2 - Sim, para alguns desses alimentos 
+      3 - Sim, para a maioria desses alimentos 
+      4 - Sim, para todos esses alimentos 
+
+Variável: m07_sabe_basico
+Significado: m07_sabe_basico - Você acha que sabe o básico para cozinhar em casa, por exemplo: limpar, descascar, cortar, picar e cozinhar alimentos
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: m08_adiantar_etapas
+Significado:  m08_adiantar_etapas - Você costuma adiantar etapas de preparação da refeição, por exemplo: manter verduras/folhas já lavadas na geladeira, deixar carnes picadas ou temperadas na geladeira, deixar o alho descascado e amassado, deixar feijão pronto na geladeira ou no congelador
+Valores possíveis:
+      1 - Não
+      2 - Sim, raramente
+      3 - Sim, às vezes
+      4 - Sim, quase sempre
+      5 - Sim, sempre
+      6 - Não se aplica
+
+Variável: m09_atividades_divididas
+Significado: m09_atividades_divididas - As atividades da cozinha, como por exemplo: picar alimentos, cozinhar e lavar louças, são divididas entre os moradores da sua casa ou com outra pessoa
+Valores possíveis:
+      1 - Não
+      2 - Sim, raramente
+      3 - Sim, às vezes
+      4 - Sim, quase sempre
+      5 - Sim, sempre
+
+Variável: m1001_p01
+Significado: m1001_p01
+Valores possíveis:
+      1 - Sim, pessoa 1
+      2 - Não
+
+Variável: m1002_p02
+Significado: m1002_p02 
+Valores possíveis:
+      1 - Sim, pessoa 2
+      2 - Não
+
+Variável: m1003_p03
+Significado: m1003_p03 
+Valores possíveis:
+      1 - Sim, pessoa 3
+      2 - Não
+
+Variável: m1004_p04
+Significado: m1004_p04 
+Valores possíveis:
+      1 - Sim, pessoa 4
+      2 - Não
+
+Variável: m1005_p05
+Significado: m1005_p05
+Valores possíveis:
+      1 - Sim, pessoa 5
+      2 - Não
+
+Variável: m1006_p06
+Significado:  m1006_p06 
+Valores possíveis:
+      1 - Sim, pessoa 6
+      2 - Não
+
+Variável: m1007_p07
+Significado: m1007_p07 
+Valores possíveis:
+      1 - Sim, pessoa 7
+      2 - Não
+
+Variável: m1008_p08
+Significado: m1008_p08 
+Valores possíveis:
+      1 - Sim, pessoa 8
+      2 - Não
+
+Variável: m1009_p09
+Significado: m1009_p09 
+Valores possíveis:
+      1 - Sim, pessoa 9
+      2 - Não
+
+Variável: m1010_p10
+Significado: m1010_p10 
+Valores possíveis:
+      1 - Sim, pessoa 10
+      2 - Não
+
+Variável: m1011_p11
+Significado: m1011_p11 
+Valores possíveis:
+      1 - Sim, pessoa 11
+      2 - Não
+
+Variável: m1012_p12
+Significado: m1012_p12 
+Valores possíveis:
+      1 - Sim, pessoa 12
+      2 - Não
+
+Variável: m1013_p13
+Significado: m1013_p13 
+Valores possíveis:
+      1 - Sim, pessoa 13
+      2 - Não
+
+Variável: m1014_p14
+Significado: m1014_p14
+Valores possíveis:
+      1 - Sim, pessoa 14
+      2 - Não
+
+Variável: m1015_p15
+Significado:  m1015_p15 
+Valores possíveis:
+      1 - Sim, pessoa 15
+      2 - Não
+
+Variável: m1016_p16
+Significado: m1016_p16 
+Valores possíveis:
+      1 - Sim, pessoa 16
+      2 - Não
+
+Variável: m1017_p17
+Significado: m1017_p17 
+Valores possíveis:
+      1 - Sim, pessoa 17
+      2 - Não
+
+Variável: m1018_p18
+Significado: m1018_p18 
+Valores possíveis:
+      1 - Sim, pessoa 18
+      2 - Não
+
+Variável: m1019_p19
+Significado: m1019_p19 
+Valores possíveis:
+      1 - Sim, pessoa 19
+      2 - Não
+
+Variável: m1020_p20
+Significado: m1020_p20 
+Valores possíveis:
+      1 - Sim, pessoa 20
+      2 - Não
+
+Variável: m1021_p21
+Significado: m1021_p21
+Valores possíveis:
+      1 - Sim, pessoa 21
+      2 - Não
+
+Variável: m1022_p22
+Significado:  m1022_p22
+Valores possíveis:
+      1 - Sim, pessoa 22
+      2 - Não
+
+Variável: m10_quem_divide
+Significado: m10_quem_divide - Quais pessoas dividem as atividades da cozinha?
+Valores possíveis:
+      A a V - Combinações de A a V
+      U - Pessoa contratada
+      V - Outra (pessoas que não moram na casa)
+
+Variável: m11_quem_decide
+Significado: m11_quem_decide - Na sua casa, quem geralmente decide sobre a compra de alimentos
+Valores possíveis:
+      1 a 12 - nsa
+
+Variável: m12_despesas
+Significado: m12_despesas - Quem geralmente decide sobre as outras despesas importantes da sua casa?
+Valores possíveis:
+      1 a 12 - nsa
+
+Variável: n01_frutas
+Significado: n01_frutas - Com que frequência esse alimento esteve disponível na casa do respondente nos últimos 30 dias
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n02_legumes
+Significado: n02_legumes - Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias 
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n03_verduras
+Significado: n03_verduras - Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias 
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n04_feijao
+Significado: n04_feijao - Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n05_suco
+Significado: n05_suco -  Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n06_refrigerantes
+Significado: n06_refrigerantes - Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n07_biscoitos
+Significado: n07_biscoitos - Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n08_salgadinhos
+Significado: n08_salgadinhos -  Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n09_balas
+Significado: n09_balas -  Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n10_guardar_frutas
+Significado: n10_guardar_frutas  - Frutas, legumes e verduras estavam em lugares onde poderiam ser vistos e facilmente alcançados.
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n11_pegar_refrigerante
+Significado: n11_pegar_refrigerante  - “Nome da criança” pode pegar refrigerante sem a ajuda ou permissão de um adulto.
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n12_comer_biscoitos
+Significado: n12_comer_biscoitos  - “Nome da criança” pode comer biscoitos ou salgadinhos sem a ajuda ou permissão de um adulto
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n13_comer_bala
+Significado: n13_comer_bala  - “Nome da criança” pode comer bala, pirulito ou outras guloseimas sem a ajuda ou permissão de um adulto
+Valores possíveis:
+      1 - Nunca
+      2 - Raramente
+      3 - Às vezes
+      4 - Quase sempre
+      5 - Sempre
+
+Variável: n14_comer_comida
+Significado: n14_comer_comida  - “Nome da criança” deve sempre comer toda a comida que está no seu prato.
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: n15_come_suficiente
+Significado: n15_come_suficiente - Você precisa ser muito cuidadosa(o) para ter certeza que “nome da criança” come o suficiente.
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: n16_forcar_comer
+Significado: n16_forcar_comer - Se “nome da criança” diz "não estou com fome", você tenta fazer com que ele/ela coma de qualquer maneira.
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: n17_comer_menos
+Significado: n17_comer_menos - Se você não orientasse ou controlasse a alimentação de “nome da criança”, ele (a) comeria muito menos do que deveria.
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: o01_frutas_comprar
+Significado: o01_frutas_comprar - É fácil comprar frutas, legumes e verduras no seu bairro
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: o02_frutas_qualidade
+Significado: o02_frutas_qualidade - As frutas, legumes e verduras são de boa qualidade no seu bairro
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: o03_frutas_variedade
+Significado:  o03_frutas_variedade - Existe uma grande variedade de frutas, legumes e verduras no seu bairro.
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: o04_frutas_baratas
+Significado: o04_frutas_baratas - Frutas, legumes e verduras são baratos no seu bairro.
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: o05_refrigerantes_comprar
+Significado: o05_refrigerantes_comprar - É fácil comprar refrigerantes; biscoitos; salgadinhos de pacote; balas e outras guloseimas no seu bairro
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: o06_refrigerantes_variedade
+Significado: o06_refrigerantes_variedade - Existe uma grande variedade de refrigerantes; biscoitos; salgadinhos de pacote; balas e outras guloseimas no seu bairro
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: o07_refrigerantes_baratos
+Significado: o07_refrigerantes_baratos - Refrigerantes; biscoitos; salgadinhos de pacote; balas e outras guloseimas são baratos no seu bairro
+Valores possíveis:
+      1 - Discordo totalmente
+      2 - Discordo parcialmente
+      3 - Nem concordo nem discordo
+      4 - Concordo parcialmente
+      5 - Concordo totalmente
+
+Variável: p01_respondente
+Significado: p01_respondente - identificação do respondente do bloco
+Valores possíveis:
+      10 - nsa
+
+Variável: p02_tipo_de_domicilio
+Significado: p02_tipo_de_domicilio - Tipo de domicílio 
+Valores possíveis:
+      1 - Casa
+      2 - Casa de vila ou condomínio
+      3 - Apartamento
+      4 - Habitação em casa de cômodos, cortiço ou cabeça de porco
+      5 - Outro
+
+Variável: p02a_outro
+Significado: p02a_outro - Qual outro tipo de domicílio 
+Valores possíveis:
+      nsa - nsa
+      Branco - Salto do questionário
+
+Variável: p03_ocupacao
+Significado: p03_ocupacao - Tipo de ocupação do domicílio 
+Valores possíveis:
+      1 - Próprio de algum morador - já pago
+      2 - Próprio de algum morador - ainda pagando
+      3 - Alugado
+      4 - Cedido por empregador
+      5 - Cedido de outra forma
+      6 - Outra condição
+
+Variável: p04_aluguel
+Significado: p04_aluguel - Valor do aluguel
+Valores possíveis:
+      nsa - nsa
+
+Variável: p05_comodos
+Significado: p05_comodos - Quantos cômodos existem no domicílio 
+Valores possíveis:
+      nsa - nsa
+
+Variável: p06_cozinha
+Significado: p06_cozinha - O domicílio tem cozinha
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: p07_dormitorios
+Significado: p07_dormitorios - Quantos cômodos servem como dormitório para os moradores
+Valores possíveis:
+      nsa - 1 a 7
+
+Variável: p08_banheiros_exclusivo
+Significado: p08_banheiros_exclusivo - Quantos banheiros de uso exclusivo dos moradores existem no domicílio  
+Valores possíveis:
+      nsa - nsa
+
+Variável: p09_banheiros_chuveiro
+Significado: p09_banheiros_chuveiro - Quantos banheiros com chuveiro (ou banheira) e vaso sanitário (ou privada)?
+Valores possíveis:
+      nsa - nsa
+
+Variável: p10_esgoto
+Significado: p10_esgoto - O esgoto do(s) banheiro(s) ou sanitário(s) é lançado (jogado) em: (LER)
+Valores possíveis:
+      1 - Rede geral de esgoto ou pluvial
+      2 - Fossa séptica
+      3 - Fossa rudimentar
+      4 - Vala
+      5 - Direto para rio, lago ou mar
+      6 - Outra condição
+
+Variável: p10a_esgoto_outra
+Significado: p10a_esgoto_outra - Qual outra condição 
+Valores possíveis:
+      nsa - nsa
+      Branco - Salto do questionário
+
+Variável: p11_agua
+Significado: p11_agua - Principal forma de abastecimento de água do domicílio (LER)
+Valores possíveis:
+      1 - Rede geral de distribuição
+      2 - Poço ou nascente na propriedade 
+      3 - Poço ou nascente fora da propriedade 
+      4 - Carro-pipa
+      5 - Rios, açudes, lagos e igarapés 
+      6 - Outra
+      7 - Água da chuva armazenada em cisterna
+      8 - Água da chuva armazenada de outra forma
+      9 - Não sabe/ não quis responder
+
+Variável: p11a_agua_outra
+Significado: p11a_agua_outra - Outra forma de abastecimento de água
+Valores possíveis:
+      nsa - nsa
+      Branco - Salto do questionário
+
+Variável: p12_lixo
+Significado: p12_lixo - Principal forma de destino dado ao lixo
+Valores possíveis:
+      1 - Coletado diretamente por serviço de limpeza
+      2 - Coletado em caçamba de serviço de limpeza
+      3 - É queimado na propriedade
+      4 - É enterrado na propriedade 
+      5 - Jogado em terreno baldio ou logradouro
+      6 - Jogado em rio, lago ou mar
+      7 - Outro destino 
+      9 - Não sabe/ Não quis responder
+
+Variável: p12a_lixo_qual_outro
+Significado: p12a_lixo_qual_outro - Outro destino para o lixo
+Valores possíveis:
+      nsa - nsa
+      Branco - Salto do questionário
+
+Variável: p13_energia_eletrica
+Significado: p13_energia_eletrica - Origem da energia elétrica utilizada no domicílio
+Valores possíveis:
+      1 - Rede geral (companhia distribuidora)
+      2 - Outra origem (gerador, placa solar, eólica)
+      3 - Não tem energia elétrica
+
+Variável: peso_crianca
+Significado: peso_crianca - Peso básico da criança ou mãe ou domicílio não calibrado
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_calib
+Significado: peso_crianca_calib - Peso básico da criança ou mãe ou domicílio calibrado
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_setor
+Significado: peso_crianca_setor - Peso básico das crianças do banco no setor
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_10
+Significado: peso_crianca - Peso básico das crianças do banco 10 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_11
+Significado: peso_crianca - Peso básico das crianças do banco 11 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_12
+Significado: peso_crianca - Peso básico das crianças do banco 12 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_13
+Significado: peso_crianca - Peso básico das crianças do banco 13 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_14
+Significado: peso_crianca - Peso básico das crianças do banco 14 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_15
+Significado: peso_crianca - Peso básico das crianças do banco 15 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_16
+Significado: peso_crianca - Peso básico das crianças do banco 16 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_17
+Significado: peso_crianca - Peso básico das crianças do banco 17 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_18
+Significado: peso_crianca - Peso básico das crianças do banco 18 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_19
+Significado: peso_crianca - Peso básico das crianças do banco 19 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_1a
+Significado: peso_crianca - Peso básico das crianças do banco 1a de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_1b
+Significado: peso_crianca - Peso básico das crianças do banco 1b de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_1c
+Significado: peso_crianca - Peso básico das crianças do banco 1c de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_2
+Significado: peso_crianca - Peso básico das crianças do banco 2 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_20
+Significado: peso_crianca - Peso básico das crianças do banco 20 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_21
+Significado: peso_crianca - Peso básico das crianças do banco 21 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_22
+Significado: peso_crianca - Peso básico das crianças do banco 22 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_3
+Significado: peso_crianca - Peso básico das crianças do banco 3 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_4
+Significado: peso_crianca - Peso básico das crianças do banco 4 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_5
+Significado: peso_crianca - Peso básico das crianças do banco 5 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_6
+Significado: peso_crianca - Peso básico das crianças do banco 6 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_7
+Significado: peso_crianca - Peso básico das crianças do banco 7 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_8
+Significado: peso_crianca - Peso básico das crianças do banco 8 de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_9a
+Significado: peso_crianca - Peso básico das crianças do banco 9a de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_crianca_y_9b
+Significado: peso_crianca - Peso básico das crianças do banco 9b de sangue 
+Valores possíveis:
+      nsa - nsa
+
+Variável: peso_setor_ajuste1
+Significado: peso_setor_ajuste1  -  Peso básico, ajustado para não resposta, do setor em que o domicílio foi selecionado / entrevistado
+Valores possíveis:
+      nsa - nsa
+
+Variável: posestrato
+Significado: Contagem de subgrupos para pós estratificação
+Valores possíveis:
+      nsa - Centro-OesteFeminino1
+      nsa - Centro-OesteFeminino2
+      nsa - Centro-OesteFeminino3
+      nsa - Centro-OesteFeminino4
+      nsa - Centro-OesteFeminino5
+      nsa - Centro-OesteFeminino6
+      nsa - Centro-OesteMasculino1
+      nsa - Centro-OesteMasculino2
+      nsa - Centro-OesteMasculino3
+      nsa - Centro-OesteMasculino4
+      nsa - Centro-OesteMasculino5
+      nsa - Centro-OesteMasculino6
+      nsa - NordesteFeminino1
+      nsa - NordesteFeminino2
+      nsa - NordesteFeminino3
+      nsa - NordesteFeminino4
+      nsa - NordesteFeminino5
+      nsa - NordesteFeminino6
+      nsa - NordesteMasculino1
+      nsa - NordesteMasculino2
+      nsa - NordesteMasculino3
+      nsa - NordesteMasculino4
+      nsa - NordesteMasculino5
+      nsa - NordesteMasculino6
+      nsa - NorteFeminino1
+      nsa - NorteFeminino2
+      nsa - NorteFeminino3
+      nsa - NorteFeminino4
+      nsa - NorteFeminino5
+      nsa - NorteFeminino6
+      nsa - NorteMasculino1
+      nsa - NorteMasculino2
+      nsa - NorteMasculino3
+      nsa - NorteMasculino4
+      nsa - NorteMasculino5
+      nsa - NorteMasculino6
+      nsa - SudesteFeminino1
+      nsa - SudesteFeminino2
+      nsa - SudesteFeminino3
+      nsa - SudesteFeminino4
+      nsa - SudesteFeminino5
+      nsa - SudesteFeminino6
+      nsa - SudesteMasculino1
+      nsa - SudesteMasculino2
+      nsa - SudesteMasculino3
+      nsa - SudesteMasculino4
+      nsa - SudesteMasculino5
+      nsa - SudesteMasculino6
+      nsa - SulFeminino1
+      nsa - SulFeminino2
+      nsa - SulFeminino3
+      nsa - SulFeminino4
+      nsa - SulFeminino5
+      nsa - SulFeminino6
+      nsa - SulMasculino1
+      nsa - SulMasculino2
+      nsa - SulMasculino3
+      nsa - SulMasculino4
+      nsa - SulMasculino5
+      nsa - SulMasculino6
+
+Variável: q01_recebe_beneficio
+Significado: q01_recebe_beneficio - Alguém do domicilio recebe benefício(s) do governo 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: q031_programa_bolsa_familia
+Significado: q031_programa_bolsa_familia - Recebe Bolsa Família
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: q032_bpc_loas
+Significado: q032_bpc_loas - Recebe BPC/LOAS
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: q033_beneficio_prefeitura
+Significado: q033_beneficio_prefeitura - Recebe benefício da Prefeitura
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: q034_beneficio_estado
+Significado: q034_beneficio_estado - Recebe benefício do Governo Estadual
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: q035_pensao
+Significado: q035_pensao - Recebe pensão
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: q036_aposentadoria
+Significado:  q036_aposentadoria - Recebe aposentadoria
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: q037_outro_beneficio
+Significado: q037_outro_beneficio - Recebe outro benefício
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: q039_nao_sabe
+Significado: q039_nao_sabe - Não sabe/não quis responder se recebe outro benefício
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: q03_quais_beneficios
+Significado: q03_quais_beneficios - Quais benefícios
+Valores possíveis:
+      A - Programa Bolsa Família (PBF)
+      B - Benefício de Prestação Continuada (BPC/LOAS)
+      C - Bolsa ou benefício da Prefeitura Municipal
+      D - Bolsa ou benefício do Governo do Estado
+      E - Pensão
+      F - Aposentadoria
+      G - Outro benefício
+
+Variável: q03a_qual_outro
+Significado: q03a_qual_outro - Recebe qual outro benefício
+Valores possíveis:
+      nsa - nsa
+
+Variável: q04_quantos_moradores
+Significado: q04_quantos_moradores - Quantos moradores recebem benefícios                                                                                                                      Pergunta aberta com 2 algarismos
+Valores possíveis:
+      nsa - nsa
+      99 - Não sabe/ não quis responder
+
+Variável: q06_renda
+Significado: q06_renda - Renda mensal do domicílio 
+Valores possíveis:
+      0 - Sem renda
+      nsa - nsa
+
+Variável: q07_renda_faixa
+Significado: q07_renda_faixa - Valor da renda do domicílio em faixas de renda
+Valores possíveis:
+      1 - Sem renda
+      2 - Até R$ 1.000,00 
+      3 - De R$ 1.001,00 até R$ 2.000,00 
+      4 - De R$ 2.001,00 até R$ 3.000,00 
+      5 - De R$ 3.001,00 até R$ 5.000,00 
+      6 - De R$ 5.001,00 até R$ 10.000,00
+      7 - R$ 10.001,00 ou mais
+
+Variável: r01_televisao
+Significado: r01_televisao - Quantos aparelhos de televisão têm neste domicílio
+Valores possíveis:
+      0 - Nenhum aparelho de televisão
+      1 - 1 aparelho 
+      2 - 2 aparelhos
+      3 - 3 aparelhos 
+      4 - 4 ou mais aparelhos
+
+Variável: r02_automoveis
+Significado: r02_automoveis - Quantos automóveis tem neste domicílio
+Valores possíveis:
+      0 - Nenhum automovel
+      1 - 1 automóvel
+      2 - 2 automóveis
+      3 - 3 automóveis
+      4 - 4 ou mais automóveis
+
+Variável: r03_radio
+Significado: r03_radio - Você(s) têm rádio no domicílio
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: r04_geladeira
+Significado: r04_geladeira - Você(s) têm geladeira ou freezer no domicílio
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: r05_vcr
+Significado: r05_vcr - Você(s) têm leitor de mídias (VCR, DVD, BlueRay, ChromeCast/Apple TV) no domicílio
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: r06_lavadora
+Significado: r06_lavadora - Você(s) têm máquina de lavar roupa no domicílio
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: r07_micro_ondas
+Significado: r07_micro_ondas  - Você(s) têm forno de micro-ondas no domicílio
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: r08_telefone_fixo
+Significado: r08_telefone_fixo - Você(s) têm telefone fixo (convencional) no domicílio
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: r09_microcomputador
+Significado: r09_microcomputador - Você(s) têm microcomputador/tablet/notebook no domicílio
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: r10_ar_condicionado
+Significado: r10_ar_condicionado - Você(s) têm aparelho de ar condicionado no domicílio?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: r11_tv_a_cabo
+Significado: r11_tv_a_cabo - Você(s) têm TV a cabo ou TV por assinatura no domicílio
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: r12_internet_domicilio
+Significado: r12_internet_domicilio - Você(s) têm acesso à internet no domicílio (inclusive rede sem fio)
+Valores possíveis:
+      1 - Não
+      2 - Sim, só internet a cabo 
+      3 - Sim, internet a cabo e rede sem fio
+
+Variável: r13_internet_celular
+Significado: r13_internet_celular - Você(s) têm acesso à internet no celular
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: r14_celular
+Significado: r14_celular - Qual o tipo de plano do seu celular?
+Valores possíveis:
+      1 - Pré-pago
+      2 - Pós-pago
+      3 - Não possui celular
+
+Variável: s00c_data_peso
+Significado: s00c_data_peso - Data de realização da medida do peso
+Valores possíveis:
+      nsa - nsa
+
+Variável: s00d_idade_peso
+Significado: s00d_idade_peso - Idade em dias da criança no dia da medida 1 do peso
+Valores possíveis:
+      nsa - nsa
+
+Variável: s00e_data_altura
+Significado: s00e_data_altura - Data de realização da medida da altura
+Valores possíveis:
+      nsa - nsa
+
+Variável: s00f_idade_altura
+Significado: s00f_idade_altura - Idade em dias da criança no dia da medida da altura
+Valores possíveis:
+      nsa - nsa
+
+Variável: s01_foi_pesada
+Significado: s01_foi_pesada - A criança foi pesada
+Valores possíveis:
+      1 - Sim
+      2 - Não, ausente
+      3 - Não, doente
+      5 - Não, outro motivo
+
+Variável: s01a_peso_motivo
+Significado: s01a_peso_motivo - Qual outro motivo para não pesar? 
+Valores possíveis:
+      nsa - nsa
+      Branco - Salto do questionário
+
+Variável: s02_peso_medida1
+Significado: s02_peso_medida1  - Medida 1 do peso da criança (kg)
+Valores possíveis:
+      nsa - nsa
+
+Variável: s02a_medida2_realizada
+Significado: s02a_medida2_realizada - A segunda medida do peso de “nome da criança” foi realizada?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: s02b_descreva_crianca
+Significado: s02b_descreva_crianca - Motivo da segunda medida do peso da criança NÃO ter sido realizada
+Valores possíveis:
+      nsa - nsa
+      Branco - Salto do questionário
+
+Variável: s03_peso_medida2
+Significado: s03_peso_medida2  - Medida 2 do peso da criança (kg)
+Valores possíveis:
+      nsa - nsa
+
+Variável: s04_peso_padrao
+Significado: s04_peso_padrao - O peso da criança foi medido de forma padronizada
+Valores possíveis:
+      1 - Sim, foi feita seguindo o protocolo (sem roupa ou com cueca/calcinha) 
+      2 - Não, a criança estava com fralda seca/limpa
+      3 - Não, a criança estava com fralda molhada/suja
+      4 - Não, a criança estava com roupas leves (camiseta e short)
+      5 - Não, a criança estava com algum outro item que não quis/pôde tirar
+      6 - Não, a criança estava agitada 
+      7 - Observações ou outro
+
+Variável: s05_peso_observacoes
+Significado: s05_peso_observacoes  - Observações sobre a medida do peso
+Valores possíveis:
+      N/A
+
+Variável: s06_foi_medida
+Significado: s06_foi_medida - A altura/comprimento da criança foi medida
+Valores possíveis:
+      1 - Sim
+      2 - Não, ausente
+      3 - Não, doente
+      4 - Não, não quis ou não foi permitido
+      5 - Não, outro motivo
+
+Variável: s06a_altura_motivo
+Significado: s06a_altura_motivo - Qual outro motivo para não medir
+Valores possíveis:
+      nsa - nsa
+
+Variável: s07_altura_medida1
+Significado: s07_altura_medida1 - Medida 1 da altura/comprimento da criança (cm)
+Valores possíveis:
+      nsa - nsa
+
+Variável: s07a_altura2_realizada
+Significado: s07a_altura2_realizada - A segunda medida da altura/comprimento da criança foi realizada
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: s07b_descreva_crianca_altura
+Significado: s07b_descreva_crianca_altura - Motivo da segunda medida da altura/comprimento da criança” NÃO ter sido realizada
+Valores possíveis:
+      nsa - nsa
+
+Variável: s08_altura_medida2
+Significado: s08_altura_medida2 - Medida 2 da altura/comprimento da criança(cm)
+Valores possíveis:
+      0 - sem a medida
+
+Variável: s09_altura_feita_corrigida
+Significado: s09_altura_feita_corrigida -  Como foi feita a medida da altura da criança
+Valores possíveis:
+      nsa - nsa
+
+Variável: s10_altura_padrao
+Significado: s10_altura_padrao - A medida da altura/comprimento da criança foi feita de forma padronizada
+Valores possíveis:
+      1 - Sim, foi feita seguindo o protocolo
+      2 - Sim, porém a criança estava instável pela irregularidade da superfície
+      3 - Não, a criança estava com algum outro item que não quis/pôde tirar
+      4 - Não, a criança estava com o cabelo arrumado que não quis desarrumar 
+      5 - Não, a criança tinha a perna muito arcada
+      6 - Não, a criança estava agitada
+      7 - Observações ou outro 
+
+Variável: s11_altura_observacoes
+Significado: s11_altura_observacoes - Observações sobre a medida da altura/comprimento da criança
+Valores possíveis:
+      nsa - nsa
+
+Variável: s21a_pode_informar_peso
+Significado: s21a_pode_informar_peso - Você pode informar a data de nascimento da criança
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: s21c_idade_recalculada_peso
+Significado: s21c_idade_recalculada_peso - Idade em dias da criança 
+Valores possíveis:
+      nsa - nsa
+
+Variável: s22_permissao_peso
+Significado: s22_permissao_peso - A criança teve que ser pesado(a) novamente e pesagem foi permitida
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: s23_peso_medida3
+Significado: s23_peso_medida3 - Medida 3 do peso da criança original (kg)
+Valores possíveis:
+      nsa - nsa 
+
+Variável: s23a_peso_medida4
+Significado: s23a_peso_medida4 - Medida 4 do peso da criança original (kg)
+Valores possíveis:
+      nsa - nsa 
+
+Variável: s24_peso_padrao
+Significado: s24_peso_padrao - O peso de “nome da criança” foi medido de forma padronizada?
+Valores possíveis:
+      1 - Sim, foi feita seguindo o protocolo (sem roupa ou com cueca/calcinha) 
+      2 - Não, a criança estava com fralda seca/limpa
+      3 - Não, a criança estava com fralda molhada/suja
+      4 - Não, a criança estava com roupas leves (camiseta e short)
+      5 - Não, a criança estava com algum outro item que não quis/pôde tirar 
+      6 - Não, a criança estava agitada 
+      7 - Observações ou outro
+
+Variável: s28_peso_observacoes
+Significado: s28_peso_observacoes - Observações sobre a medida do peso
+Valores possíveis:
+      nsa - nsa
+
+Variável: s29a_medida1_peso_refeita
+Significado: s29a_medida1_peso_refeita 
+Valores possíveis:
+      1 - Não foi refeita ou não se aplica
+      2 - Refeita
+
+Variável: s29b_medida2_peso_refeita
+Significado: s29b_medida2_peso_refeita 
+Valores possíveis:
+      1 - Não foi refeita ou não se aplica
+      2 - Refeita
+
+Variável: s31a_pode_informar_altura
+Significado: s31a_pode_informar_altura - Você pode informar a data de nascimento da criança
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: s31c_idade_recalculada_alt
+Significado: s31c_idade_recalculada_alt - Idade em dias da criança
+Valores possíveis:
+      nsa - nsa
+
+Variável: s33_altura_medida3
+Significado: s33_altura_medida3 - Medida 3 da altura/comprimento da criança (cm)
+Valores possíveis:
+      nsa - nsa
+      999.9 - Não conseguiu realizar a medida
+
+Variável: s33a_altura_medida4
+Significado: s33a_altura_medida4 - Medida 4 da altura/comprimento da criança (cm)
+Valores possíveis:
+      999.9 - Não conseguiu realizar a medida
+
+Variável: s35_altura_padrao
+Significado: s35_altura_padrao - A medida da altura/comprimento da criança foi feita de forma padronizada
+Valores possíveis:
+      1 - Sim, foi feita seguindo o protocolo
+      2 - Sim, porém a criança estava instável pela irregularidade da superfície
+      3 - Não, a criança estava com algum outro item que não quis/pôde tirar
+      4 - Não, a criança estava com o cabelo arrumado que não quis desarrumar 
+      5 - Não, a criança tinha a perna muito arcada
+      6 - Não, a criança estava agitada
+      7 - Observações ou outro 
+
+Variável: s39_altura_observacoes
+Significado: s39_altura_observacoes - Observações sobre a medida da altura/comprimento da criança
+Valores possíveis:
+      nsa - nsa
+
+Variável: s39a_medida1_altura_refeita
+Significado: s39a_medida1_altura_refeita 
+Valores possíveis:
+      1 - Não foi refeita ou não se aplica 
+      2 - Refeita
+
+Variável: s39b_medida2_altura_refeita
+Significado: s39b_medida2_altura_refeita 
+Valores possíveis:
+      1 - Não foi refeita ou não se aplica 
+      2 - Refeita
+
+Variável: setor_anon
+Significado: setor_anon - Setor censitário
+Valores possíveis:
+      nsa - nsa
+
+Variável: t01_foi_pesada
+Significado: t01_foi_pesada - A mãe foi pesada?
+Valores possíveis:
+      1 - Sim
+      2 - Não, ausente
+      3 - Não, doente
+      4 - Não, não quis
+      5 - Não, outro motivo
+      6 - Não conseguiu fazer a segunda medição
+
+Variável: t01a_peso_motivo
+Significado: t01a_peso_motivo - Qual outro motivo para não pesar?
+Valores possíveis:
+      Branco - Salto do questionário
+
+Variável: t02_peso_medida1
+Significado: t02_peso_medida1 - Medida 1 de peso da mãe (kg)
+Valores possíveis:
+      nsa - nsa
+
+Variável: t03_peso_medida2
+Significado: t03_peso_medida2 - Medida 2 de peso da mãe (kg)
+Valores possíveis:
+      nsa - nsa
+
+Variável: t03a_peso_padrao
+Significado: t03a_peso_padrao - A medida do peso da mãe foi feita de forma padronizada
+Valores possíveis:
+      1 - Sim, foi feita seguindo o protocolo (mínimo de roupas)
+      2 - Não, foi feita com os itens marcados a seguir
+
+Variável: t03b01_roupa_bermuda_de_brim
+Significado: t03b01_roupa_bermuda_de_brim 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: t03b02_roupa_bota
+Significado: t03b02_roupa_bota 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: t03b03_roupa_calca_de_brim
+Significado: t03b03_roupa_calca_de_brim 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: t03b04_roupa_casaco_jaqueta
+Significado: t03b04_roupa_casaco_jaqueta
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: t03b05_roupa_tenis_sapato
+Significado:  t03b05_roupa_tenis_sapato
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: t03b06_roupa_outra
+Significado: t03b06_roupa_outra 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: t03b_quais_das_seguintes_pecas
+Significado: t03b_quais_das_seguintes_pecas - Quais das seguintes peças de roupa a mãe estava usando
+Valores possíveis:
+      A - Bermuda de brim
+      B - Bota
+      C - Calça de brim
+      D - Casaco/jaqueta de brim
+      E - Tênis/sapato
+      F - Outra
+
+Variável: t03c_qual_outra_roupa
+Significado: t03c_qual_outra_roupa - Qual outra?
+Valores possíveis:
+      nsa - nsa
+      Branco - nsa
+
+Variável: t04_foi_medida
+Significado: t04_foi_medida - A altura da mãe foi medida
+Valores possíveis:
+      1 - Sim
+      2 - Não, ausente
+      3 - Não, doente
+      4 - Não, não quis
+      5 - Não, outro motivo
+      6 - Não conseguiu fazer a segunda medição
+
+Variável: t04a_altura_motivo
+Significado: t04a_altura_motivo - Qual outro motivo para não medir a altura da mãe
+Valores possíveis:
+      nsa - nsa
+      Branco - nsa
+
+Variável: t05_altura_medida1
+Significado: t05_altura_medida1 - Medida 1 da altura/comprimento da mãe (cm)
+Valores possíveis:
+      nsa - nsa
+
+Variável: t06_altura_medida2
+Significado: t06_altura_medida2 - Medida 2 da altura/comprimento da mãe (cm)
+Valores possíveis:
+      nsa - nsa
+      0 - nsa
+
+Variável: t06a_altura_padrao
+Significado: t06a_altura_padrao - A medida da altura da mãe foi feita de forma padronizada
+Valores possíveis:
+      1 - Sim, foi feita seguindo o protocolo (mínimo de roupas)
+      2 - Não, foi feita com os itens marcados a seguir
+
+Variável: t06b_qual_das_pecas
+Significado: t06b_qual_das_pecas - Quais das seguintes peças de roupa a mãe estava usando
+Valores possíveis:
+      A - Bota
+      B - Chinelo
+      C - Tênis/ sapato
+      D - Outra
+
+Variável: t06c_qual_outra
+Significado: t06c_qual_outra - Qual outra peça de roupa a mãe estava usando
+Valores possíveis:
+      nsa - nsa
+      Branco - nsa
+
+Variável: total_12p
+Significado: total_12p - Total de parâmetros entre os 12 prioritários 
+Valores possíveis:
+      nsa - nsa
+      nsa - nsa
+
+Variável: u01_febre_diarreia
+Significado: u01_febre_diarreia - A criança apresentou febre, diarreia ou vômitos nos três dias anteriores à coleta?
+Valores possíveis:
+      1 - Não
+      2 - Sim, febre
+      3 - Sim, diarreia
+      4 - Sim, vômitos
+      5 - Sim, febre e diarreia
+      6 - Sim, febre e vômitos
+      7 - Sim, diarreia e vômitos
+      8 - Sim, febre diarreia e vômitos
+      9 - Não sabe
+
+Variável: u02_coleta_realizada
+Significado: u02_coleta_realizada - A coleta de sangue da criança foi realizada?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: u02a_coleta_motivo
+Significado: u02a_coleta_motivo - Por que motivo a coleta não foi realizada?
+Valores possíveis:
+      1 - O responsável não estava em casa
+      2 - O responsável não atendeu
+      3 - A crianças estava na creche/escola
+      4 - O reponsável não autorizou a coleta
+      5 - O reponsável desistiu da coleta
+      6 - A família se mudou
+      7 - Dificuldade da punçao
+      8 - Horário do laboratório incompatível com a família
+      9 - O responsável cancelou a coleta antes da data agendada
+      10 - Outro motivo
+
+Variável: u02b_qual_outro_motivo
+Significado: u02b_qual_outro_motivo - Qual outro motivo?
+Valores possíveis:
+      - - -
+
+Variável: u03_puncao
+Significado: u03_puncao - Foi necessária mais de uma punção venosa em "nome da criança"?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: u03a_puncao_motivo
+Significado: u03a_puncao_motivo - Por que motivo foi necessária mais de uma punção venosa em "nome da criança"?
+Valores possíveis:
+      - - -
+
+Variável: u04a_coleta_hora
+Significado: u04a_coleta_hora - Hora da coleta do sangue de “nome da criança”. questão aberta com 2 algarismos
+Valores possíveis:
+      - - Hora
+
+Variável: u04b_coleta_minuto
+Significado: u04b_coleta_minuto - Minuto da coleta do sangue de “nome da criança”. questão aberta com 2 algarismos
+Valores possíveis:
+      - - Minutos
+
+Variável: u05_braco
+Significado: u05_braco - Em qual braço de “nome da criança" o sangue foi coletado?
+Valores possíveis:
+      1 - Direito 
+      2 - Esquerdo
+
+Variável: u06_tubos
+Significado: u06_tubos - Quantos tubos foram coletados?  
+Valores possíveis:
+      0-9 - -
+
+Variável: u07_volume
+Significado: u07_volume - Volume de sangue coletado (mL) 
+Valores possíveis:
+      0-10 - mL
+
+Variável: u07a_volume_trace
+Significado: u07a_volume_trace - Volume de sangue coletado (mL) no tubo Trace
+Valores possíveis:
+      0-6 - mL
+
+Variável: u07b_volume_edta
+Significado: u07b_volume_edta - Volume de sangue coletado (mL) no tubo EDTA. questão aberta com 4 algarismos
+Valores possíveis:
+      0-2 - mL
+
+Variável: u08a_observacoes
+Significado: u08a_observacoes - Observações sobre a coleta de sangue
+Valores possíveis:
+      - - -
+
+Variável: u09a_refeicao_hora
+Significado: u09a_refeicao_hora  - Em que horário “nome da criança” realizou a última refeição (ou a última mamada)
+Valores possíveis:
+      99 - Não sabe/ não quis responder
+
+Variável: u09b_refeicao_minuto
+Significado: u09b_refeicao_minuto - Minutos em que “nome da criança” realizou a última refeição (ou a última mamada)? 
+Valores possíveis:
+      99 - Não sabe/ não quis responder
+
+Variável: u22_recoleta_realizada
+Significado: u22_recoleta_realizada - A recoleta de sangue da criança foi realizada?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: u22a_recoleta_motivo
+Significado: u22a_recoleta_motivo - Por que motivo a recoleta não foi realizada?
+Valores possíveis:
+      1 - O responsável não estava em casa
+      2 - O responsável não atendeu
+      3 - A crianças estava na creche/escola
+      4 - O reponsável não autorizou a coleta
+      5 - O reponsável desistiu da coleta
+      6 - A família se mudou
+      7 - Dificuldade da punçao
+      8 - Horário do laboratório incompatível com a família
+      9 - O responsável cancelou a coleta antes da data agendada
+      10 - Outro motivo
+
+Variável: u22b_qual_outro_motivo
+Significado: u22b_qual_outro_motivo - Qual outro motivo?
+Valores possíveis:
+      - - -
+
+Variável: u23_febre_diarreia
+Significado: u23_febre_diarreia - “Nome da criança” apresentou febre, diarreia ou vômitos nos três dias anteriores à coleta?
+Valores possíveis:
+      1 - Não
+      2 - Sim, febre
+      3 - Sim, diarreia
+      4 - Sim, vômitos
+      5 - Sim, febre e diarreia
+      6 - Sim, febre e vômitos
+      7 - Sim, diarreia e vômitos
+      8 - Sim, febre diarreia e vômitos
+      9 - Não sabe
+
+Variável: u24a_refeicao_hora
+Significado: u24a_refeicao_hora - Em que horário “nome da criança” realizou a última refeição (ou a última mamada)? (desconsidere água ou chá)
+Valores possíveis:
+      0-23 - hora
+      99 - Não sabe/não quis responder
+
+Variável: u24b_refeicao_minuto
+Significado: u24b_refeicao_minuto - Minuto em que “nome da criança” realizou a última refeição (ou a última mamada)? (desconsidere água ou chá)
+Valores possíveis:
+      0-59 - minutos
+      99 - Não sabe/não quis responder
+
+Variável: u26_puncao
+Significado: u26_puncao - Foi necessária mais de uma punção venosa em "nome da criança"?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: u26a_puncao_motivo
+Significado: u26a_puncao_motivo - Por que motivo foi necessária mais de uma punção venosa em "nome da criança"?
+Valores possíveis:
+      - - -
+
+Variável: u27a_coleta_hora
+Significado: u27a_coleta_hora - Hora da coleta do sangue de “nome da criança”. questão aberta com 2 algarismos
+Valores possíveis:
+      0-23 - hora
+      99 - Não sabe/ não quis responder
+
+Variável: u27b_coleta_minuto
+Significado: u27b_coleta_minuto - Minuto da coleta do sangue de “nome da criança”
+Valores possíveis:
+      0-59 - minuto
+      99 - Não sabe/ não quis responder
+
+Variável: u28_braco
+Significado: u28_braco - Em qual braço de “nome da criança" o sangue foi coletado?
+Valores possíveis:
+      1 - Direito 
+      2 - Esquerdo
+
+Variável: u29_tubos
+Significado: u29_tubos - Quantos tubos foram coletados?     
+Valores possíveis:
+      2022-10-01 00:00:00 - Tubos
+
+Variável: u30_volume
+Significado: u30_volume - Volume de sangue coletado (mL)
+Valores possíveis:
+      0-10 - mL
+
+Variável: u30a_volume_trace
+Significado: u30a_volume_trace - Volume de sangue coletado (mL) no tubo Trace
+Valores possíveis:
+      0-6 - mL
+
+Variável: u30b_volume_edta
+Significado: u30b_volume_edta - Volume de sangue coletado (mL) no tubo EDTA
+Valores possíveis:
+      0-2 - mL
+
+Variável: u31a_observacoes
+Significado: u31a_observacoes - Observações sobre a coleta de sangue
+Valores possíveis:
+      - - -
+
+Variável: vd_afoli_final
+Significado: vd_afoli_final - Resultado final- ácido fólico (ng/mL)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_afoli_fonte
+Significado: vd_afoli_fonte - Fonte do parâmetro final ácido fólico
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_anthro_zwfl
+Significado: vd_anthro_zwfl - Escore z do índice peso/altura da criança
+Valores possíveis:
+      N/A
+
+Variável: vd_baso_final
+Significado: vd_baso_final - Resultado final- basófilos (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_basop_final
+Significado: vd_basop_final - Resultado final- basófilos (%)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_bast_final
+Significado: vd_bast_final - Resultado final- bastonetes (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_bastp_final
+Significado: vd_bastp_final - Resultado final- bastonetes (%)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_bbb07_mae_resp1
+Significado: vd_bbb07_mae_resp1 - Identificação de mãe ou responsável cujos dados estão na linha da criança
+Valores possíveis:
+      1 - Mãe
+      2 - Responsável
+
+Variável: vd_chcm_final
+Significado: vd_chcm_final - Resultado final- concentração da Hemoglobina Corpuscular Média - CHCM (g/dL)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_d051_cafe_manha
+Significado: vd_d051_cafe_manha - Faz essa refeição na escola?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_d052_lanche_manha
+Significado: vd_d052_lanche_manha - Faz essa refeição na escola?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_d053_almoco
+Significado: vd_d053_almoco  - Faz essa refeição na escola?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_d054_lanche_tarde
+Significado: vd_d054_lanche_tarde - Faz essa refeição na escola?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_d055_jantar
+Significado: vd_d055_jantar - Faz essa refeição na escola?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_d056_outra
+Significado: vd_d056_outra - Faz outra refeição na escola?
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_d059_nao_sabe
+Significado: vd_d059_nao_sabe - Não sabe se a criança fez outra refeição na escola
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_dias_coleta_recoleta
+Significado: vd_dias_coleta_recoleta - Diferença em dias entre a data da coleta e recoleta do sangue
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_dummy_domic_ebia
+Significado: vd_dummy_domic_ebia - Variável indicadora da unidade familiar selecionada para classificar o domicílio na EBIA
+Valores possíveis:
+      0 - Unidade familiar não selecionada 
+      1 - Unidade familiar selecionada, possui o pior escore da EBIA no domicílio
+
+Variável: vd_dummy_domic_ien
+Significado: dummy_domic_ien - Variável indicadora da maior escolaridade selecionada no domicílio
+Valores possíveis:
+      0 - não selecionada para compor o IEN do domicílio
+      1 -  selecionada para compor o IEN do domicílio
+
+Variável: vd_dummy_gravida
+Significado: vd_dummy_gravida - A mãe estava grávida no dia da coleta
+Valores possíveis:
+      1 - Sim
+      0 - Não
+
+Variável: vd_ebia_categ
+Significado: vd_ebia_categ - Classificação da Escala Brasileira de Insegurança Alimentar no domicílio 
+Valores possíveis:
+      1 - Segurança
+      2 - Insegurança leve
+      3 - Insegurança moderada
+      4 - Insegurança grave
+
+Variável: vd_ebia_escore
+Significado: vd_ebia_escore - Escore da Escala Brasileira de Insegurança Alimentar no domicílio 
+Valores possíveis:
+      0 a 14 - nsa
+
+Variável: vd_eos_final
+Significado: vd_eos_final - Resultado final- eosinófilos (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_eosp_final
+Significado: vd_eosp_final - Resultado final- eosinófilos (%)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_ferri_final
+Significado: vd_ferri_final - Resultado final- ferritina (ng/mL)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_ferri_fonte
+Significado: vd_ferri_fonte - Fonte do parâmetro final ferritina
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_hb_final
+Significado: vd_hb_final - Resultado final-  hemoglobina (g/dL)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_hb_fonte
+Significado: vd_hb_fonte - Fonte do parâmetro final hemoglobina
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_hcm_final
+Significado: vd_hcm_final - Resultado final- Hemoglobina Corpuscular Média - HCM (pg)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_ht_final
+Significado: vd_ht_final - Resultado final- hematócrito (%)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_idade_2cat
+Significado: vd_idade_2cat - Faixa etária das crianças com idade entre 6 e 59 meses
+Valores possíveis:
+      1 - 6 a 23 meses
+      2 - 24 a 59 meses
+
+Variável: vd_ien_decimos
+Significado: ien_decimos - Escore do Indicador Econômico Nacional (IEN)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_ien_escore
+Significado: ien_escore - Escore do Indicador Econômico Nacional (IEN)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_ien_quartos
+Significado: ien_quartos - Escore do Indicador Econômico Nacional (IEN)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_ien_quintos
+Significado: ien_quintos - Escore do Indicador Econômico Nacional (IEN)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_ien_tercos
+Significado: ien_tercos - Escore do Indicador Econômico Nacional (IEN)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_imc_mae
+Significado: vd_imc_mae - IMC da mãe adulta (Kg/m)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_leuco_final
+Significado: vd_leuco_final - Resultado final- leucócitos (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_linfat_final
+Significado: vd_linfat_final - Resultado final- linfócitos atípicos (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_linfo_final
+Significado: vd_linfo_final - Resultado final- linfócitos (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_linfop_final
+Significado: vd_linfop_final - Resultado final- linfócitos (%)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_linftp_final
+Significado: vd_linftp_final - Resultado final- linfócitos típicos (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_meta_final
+Significado: vd_meta_final - Resultado final- metamielócitos totais (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_metap_final
+Significado: vd_metap_final - Resultado final- metamielócitos (%)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_mielo_final
+Significado: vd_mielo_final - Resultado final- mielócitos totais (10³/mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_mielop_final
+Significado: vd_mielop_final - Resultado final- mielócitos (%)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_mono_final
+Significado: vd_mono_final - Resultado final- monócitos (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_monop_final
+Significado: vd_monop_final - Resultado final- monócitos (%)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_num_supl
+Significado: Quantidade de tipos de suplementos usados nos últimos 6 meses
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_pcr_final
+Significado: vd_pcr_final - Resultado final- proteína C reativa (mg/L)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_pcr_fonte
+Significado: vd_pcr_fonte - Fonte do parâmetro final proteína C reativa
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_pla_final
+Significado: vd_pla_final - Resultado final- plaquetas (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_prematura_igb
+Significado: vd_prematura_igb - Crianças prematuras e com idade gestacional (idade desde a concepção, obtida pela soma da idade gestacional ao
+nascimento com a idade em dias pós-natais) entre 189 e 454 dias
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_rbc_final
+Significado: vd_rbc_final - Resultado final- RBC (milhões/mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_rdw_final
+Significado: vd_rdw_final - Resultado final- RDW (%)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_seg_final
+Significado: vd_seg_final - Resultado final- segmentados (mm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_segp_final
+Significado: vd_segp_final - Resultado final- segmentados (%)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_selen_final
+Significado: vd_selen_final - Resultado final- selênio (μg/dL)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_selen_fonte
+Significado: vd_selen_fonte - Fonte do parâmetro final selênio
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_supl1_bc_cipro
+Significado: Uso de qualquer suplemento de micronutrientes que contenha apenas Vit B e Vit C associada à ciproeptadina nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_calcio
+Significado: Uso de qualquer suplemento de micronutrientes que contenha calcio nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_cipro
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ciproeptadina nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_cobre
+Significado: Uso de qualquer suplemento de micronutrientes que contenha cobre nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_cromo
+Significado: Uso de qualquer suplemento de micronutrientes que contenha cromo nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_ferro
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_ferro_indep_nutrisus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro independente do uso de NUTRISUS nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_fosforo
+Significado: Uso de qualquer suplemento de micronutrientes que contenha fosforo nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_iodo
+Significado: Uso de qualquer suplemento de micronutrientes que contenha iodo nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_magnesio
+Significado: Uso de qualquer suplemento de micronutrientes que contenha magnésio nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_manganes
+Significado: Uso de qualquer suplemento de micronutrientes que contenha manganês nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_molibdenio
+Significado: Uso de qualquer suplemento de micronutrientes que contenha molibdenio nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_selenio
+Significado: Uso de qualquer suplemento de micronutrientes que contenha selênio  nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vita
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit A nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitb1
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B1 nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitb12
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B12 nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitb2
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B2 nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitb3
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B3 nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitb5
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B5 nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitb6
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B6 nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitb7
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B7 nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitb8
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B8 nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitb9
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B9 nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitc
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit C nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitd
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit D nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vite
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit E nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_vitk
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit K nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_com_zinco
+Significado: Uso de qualquer suplemento de micronutrientes que contenha zinco nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_exclusivamente_ferro
+Significado: Uso de apenas um suplemento de micronutrientes que contenha somente ferro nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_exclusivamente_vita
+Significado: Uso de apenas um suplemento de micronutrientes que contenha somente Vit A nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_exclusivamente_vitc
+Significado: Uso de apenas um suplemento de micronutrientes que contenha somente Vit C nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_exclusivamente_vitd
+Significado: Uso de apenas um suplemento de micronutrientes que contenha somente Vit D nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_ferro_nao_sus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro não adquirido no Serviço público de saúde  nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_ferro_sus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro adquirido no Serviço público de saúde  nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multi_sem_com_minerais
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem ou com minerais
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multivitaminico_com_minerais
+Significado: Uso de qualquer suplemento de micronutrientes que contenha vitaminas e minerais nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multivitaminico_com_minerais_bcferro
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico com  minerais que contenha Vit B, Vit C, ferro nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multivitaminico_sem_minerais
+Significado: Uso de qualquer suplemento de micronutrientes que contenha apenas vitaminas nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multivitaminico_sem_minerais_abcd
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit B, Vit C, Vit D nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multivitaminico_sem_minerais_abcde
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit B, Vit C, Vit D, Vit E nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multivitaminico_sem_minerais_abcdek
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit B, Vit C, Vit D, Vit E, Vit K nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multivitaminico_sem_minerais_ade
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit D, Vit E nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multivitaminico_sem_minerais_b
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit B nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multivitaminico_sem_minerais_bc
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit B, Vit C nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_multivitaminico_sem_minerais_outros
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha outra combinação de vitaminas não contemplado em combinações anteriores nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_outros_supl
+Significado: Uso de outros suplementos de micronutrientes não contemplados nas combinações anteriores nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_sobreposicao
+Significado: Uso de mais de um suplementos de micronutrientes em que se sobrepõe pelo menos um nutriente nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_somente_ferro
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente ferro nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_somente_vita
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente Vit A nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_somente_vitc
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente Vit C nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_somente_vitd
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente Vit D nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_somente_vitsad
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente Vit A e Vit D nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_somente_zinco
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente zinco nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_vita_indep_mega_nutrisus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro independente do uso de megadose de Vit A e NUTRISUS nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_vita_nao_sus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit A não adquirido no Serviço público de saúde  nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_supl1_vita_sus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit A adquirido no Serviço público de saúde  nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_suplemento
+Significado: Uso de suplementos de micronutrientes atual ou nos últimos 6 meses
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_suplemento_comercial
+Significado: Uso de suplementos de micronutrientes atual ou nos últimos 6 meses não adquirido no Serviço público de saúde 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_suplemento_sus
+Significado: Uso de suplementos de micronutrientes atual ou nos últimos 6 meses adquirido no Serviço público de saúde 
+Valores possíveis:
+      1 - Sim
+      2 - Não
+
+Variável: vd_vb12_final
+Significado: vd_vb12_final - Resultado final-  vitamina B12 (pg/mL)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_vb12_fonte
+Significado: vd_vb12_fonte - Fonte do parâmetro final vitamina B12
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_vcm_final
+Significado: vd_vcm_final - Resultado final- Volume Corpuscular Médio - VCM (µm³)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_vit25_final
+Significado: vd_vit25_final - Resultado final-  vitamina D (ng/mL)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_vit25_fonte
+Significado: vd_vit25_fonte - Fonte do parâmetro final vitamina D
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_vita_final
+Significado: vd_vita_final - Resultado final-  vitamina A (mg/L)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_vita_fonte
+Significado: vd_vita_fonte - Fonte do parâmetro final vitamina A
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_vitb1_final
+Significado: vd_vitb1_final - Resultado final-  vitamina B1 (μg/dL)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_vitb1_fonte
+Significado: vd_vitb1_fonte - Fonte do parâmetro final vitamina B1
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_vitb6_final
+Significado: vd_vitb6_final - Resultado final-  vitamina B6 (μg/dL)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_vitb6_fonte
+Significado: vd_vitb6_fonte - Fonte do parâmetro final vitamina B6
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_vite_final
+Significado: vd_vite_final - Resultado final-  vitamina E (mg/L)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_vite_fonte
+Significado: vd_vite_fonte - Fonte do parâmetro final vitamina E
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_zbfa
+Significado: vd_zbfa - Escore Z do índice IMC/idade das mães adolescentes
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_zhaz
+Significado: vd_zhaz - Escore z do índice altura/idade da criança
+Valores possíveis:
+      N/A
+
+Variável: vd_zhfa
+Significado: vd_zhfa - Escore Z do índice altura/idade das mães adolescentes
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_zimc
+Significado: vd_zimc - Escore z do índice imc/idade da criança
+Valores possíveis:
+      N/A
+
+Variável: vd_zn_final
+Significado: vd_zn_final - Resultado final- zinco (μg/dL)
+Valores possíveis:
+      nsa - nsa
+
+Variável: vd_zn_fonte
+Significado: vd_zn_fonte - Fonte do parâmetro final zinco
+Valores possíveis:
+      1 - Coleta
+      2 - Recoleta
+
+Variável: vd_zwaz
+Significado: vd_zwaz - Escore z do índice peso/idade da criança
+Valores possíveis:
+      N/A
+
+Variável: w01_motivo
+Significado: w01_motivo - Motivo da interrupção da entrevista 
+Valores possíveis:
+      1 - Pedido do(s) entrevistado(s)
+      2 - Falta de algum respondente
+      3 - Completa, mas falta o exame de sangue
+      4 - Exame de sangue incompleto
+      5 - Ninguém no domicílio
+      6 - Nenhum adulto no domicílio
+      9 - Outro motivo
+
+Variável: w01a_qual_outro
+Significado: w01a_qual_outro - Qual outro motivo da interrupção da entrevista
+Valores possíveis:
+      nsa - nsa
+      nsa - nsa
+
+Variável: x06_total_pessoas
+Significado: x06_total_pessoas - Total de moradores no domicílio
+Valores possíveis:
+      nsa - nsa
+
+Variável: x07_total_criancas
+Significado: x07_total_criancas - Total de crianças moradoras no domicílio
+Valores possíveis:
+      nsa - nsa
+
+Variável: x08_total_maes_resp
+Significado: x08_total_maes_resp - Total de mães ou responsáveis moradores no domicílio
+Valores possíveis:
+      nsa - nsa
+
