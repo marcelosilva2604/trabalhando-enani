@@ -1,0 +1,136 @@
+Lista de features excluídas por não apresentarem relação estatisticamente significativa com aleitamento_materno_exclusivo (p≥0.05)
+====================================================================================================
+
+Total de features excluídas: 125
+
+Testes aplicados nas features excluídas:
+- Chi-quadrado: 73
+- Mann-Whitney U: 52
+
+Feature                                  | Classificação | Teste Aplicado                  | p-valor
+----------------------------------------------------------------------------------------------------
+j10_serie                                | Qualitativa   | Chi-quadrado                   | 0.05043
+p09_banheiros_chuveiro                   | Qualitativa   | Chi-quadrado                   | 0.05612
+q07_renda_faixa                          | Qualitativa   | Chi-quadrado                   | 0.06037
+s04_peso_padrao                          | Qualitativa   | Chi-quadrado                   | 0.06416
+m02_quem_cozinha                         | Qualitativa   | Chi-quadrado                   | 0.07333
+l11_menos18_diminuiu                     | Qualitativa   | Chi-quadrado                   | 0.07616
+l09_menos18_saudavel                     | Qualitativa   | Chi-quadrado                   | 0.07755
+n03_verduras                             | Qualitativa   | Chi-quadrado                   | 0.08054
+bbb08_numero_mais_novo1                  | Quantitativa  | Mann-Whitney U                 | 0.08138
+o05_refrigerantes_comprar                | Qualitativa   | Chi-quadrado                   | 0.08982
+r13_internet_celular                     | Qualitativa   | Chi-quadrado                   | 0.09193
+p07_dormitorios                          | Qualitativa   | Chi-quadrado                   | 0.09751
+p10_esgoto                               | Qualitativa   | Chi-quadrado                   | 0.10133
+m09_atividades_divididas                 | Qualitativa   | Chi-quadrado                   | 0.10989
+k08_quilos                               | Quantitativa  | Mann-Whitney U                 | 0.11314
+vd_ebia_categ                            | Qualitativa   | Chi-quadrado                   | 0.11804
+b03_relacao                              | Qualitativa   | Chi-quadrado                   | 0.12772
+k22_amamentou                            | Qualitativa   | Chi-quadrado                   | 0.12975
+b00_numero                               | Quantitativa  | Mann-Whitney U                 | 0.13417
+m11_quem_decide                          | Qualitativa   | Chi-quadrado                   | 0.14139
+n06_refrigerantes                        | Qualitativa   | Chi-quadrado                   | 0.14851
+l07_adulto_sentiu_fome                   | Qualitativa   | Chi-quadrado                   | 0.15205
+l01_morador_alim_acabassem               | Qualitativa   | Chi-quadrado                   | 0.16973
+a06_domicilio                            | Quantitativa  | Mann-Whitney U                 | 0.17206
+h10_consulta                             | Qualitativa   | Chi-quadrado                   | 0.19007
+vd_ien_tercos                            | Qualitativa   | Chi-quadrado                   | 0.19036
+n05_suco                                 | Qualitativa   | Chi-quadrado                   | 0.19323
+j03_cor                                  | Qualitativa   | Chi-quadrado                   | 0.19904
+o06_refrigerantes_variedade              | Qualitativa   | Chi-quadrado                   | 0.20632
+vd_imc_mae                               | Quantitativa  | Mann-Whitney U                 | 0.22613
+l10_menos18_insuficiente                 | Qualitativa   | Chi-quadrado                   | 0.23646
+k29_alimentacao                          | Qualitativa   | Chi-quadrado                   | 0.24617
+d01_cor                                  | Qualitativa   | Chi-quadrado                   | 0.24883
+j09_frequenta                            | Qualitativa   | Chi-quadrado                   | 0.26455
+r03_radio                                | Qualitativa   | Chi-quadrado                   | 0.26584
+m03_alimentos_basicos                    | Qualitativa   | Chi-quadrado                   | 0.27789
+l06_adulto_comeu_menos                   | Qualitativa   | Chi-quadrado                   | 0.28839
+n07_biscoitos                            | Qualitativa   | Chi-quadrado                   | 0.32545
+o07_refrigerantes_baratos                | Qualitativa   | Chi-quadrado                   | 0.33950
+r14_celular                              | Qualitativa   | Chi-quadrado                   | 0.37656
+l08_adulto_sem_comer                     | Qualitativa   | Chi-quadrado                   | 0.38347
+k02_filhos_vivos                         | Qualitativa   | Chi-quadrado                   | 0.38542
+r05_vcr                                  | Qualitativa   | Chi-quadrado                   | 0.38803
+n04_feijao                               | Qualitativa   | Chi-quadrado                   | 0.39418
+m06_facilidade                           | Qualitativa   | Chi-quadrado                   | 0.39631
+p01_respondente                          | Qualitativa   | Chi-quadrado                   | 0.40856
+r10_ar_condicionado                      | Qualitativa   | Chi-quadrado                   | 0.41020
+m05_organiza                             | Qualitativa   | Chi-quadrado                   | 0.41174
+q01_recebe_beneficio                     | Qualitativa   | Chi-quadrado                   | 0.41835
+j0501_rel_catolica                       | Qualitativa   | Chi-quadrado                   | 0.42391
+b06b_mae_responsavel                     | Qualitativa   | Chi-quadrado                   | 0.42829
+x07_total_criancas                       | Qualitativa   | Chi-quadrado                   | 0.43167
+m04_confiante                            | Qualitativa   | Chi-quadrado                   | 0.44133
+r01_televisao                            | Qualitativa   | Chi-quadrado                   | 0.45570
+vd_ien_quartos                           | Qualitativa   | Chi-quadrado                   | 0.48094
+vd_dummy_domic_ebia                      | Qualitativa   | Chi-quadrado                   | 0.48336
+vd_ien_escore                            | Quantitativa  | Mann-Whitney U                 | 0.48360
+id_upa_anon                              | Quantitativa  | Mann-Whitney U                 | 0.48510
+t03_peso_medida2                         | Quantitativa  | Mann-Whitney U                 | 0.48642
+p11_agua                                 | Qualitativa   | Chi-quadrado                   | 0.49067
+setor_anon                               | Quantitativa  | Mann-Whitney U                 | 0.49153
+id_domic_anon                            | Quantitativa  | Mann-Whitney U                 | 0.49223
+id_resp_anon                             | Quantitativa  | Mann-Whitney U                 | 0.49223
+id_anon                                  | Quantitativa  | Mann-Whitney U                 | 0.49228
+vd_ien_quintos                           | Qualitativa   | Chi-quadrado                   | 0.50368
+o02_frutas_qualidade                     | Qualitativa   | Chi-quadrado                   | 0.51068
+o04_frutas_baratas                       | Qualitativa   | Chi-quadrado                   | 0.52346
+k20_doou                                 | Qualitativa   | Chi-quadrado                   | 0.58635
+p03_ocupacao                             | Qualitativa   | Chi-quadrado                   | 0.58685
+vd_dummy_domic_ien                       | Qualitativa   | Chi-quadrado                   | 0.58893
+h01_semanas_gravidez                     | Quantitativa  | Mann-Whitney U                 | 0.59240
+i000e_semanas_gravidez                   | Quantitativa  | Mann-Whitney U                 | 0.59240
+j05_religiao                             | Qualitativa   | Chi-quadrado                   | 0.59306
+s00e_data_altura                         | Quantitativa  | Mann-Whitney U                 | 0.59732
+s00c_data_peso                           | Quantitativa  | Mann-Whitney U                 | 0.59732
+peso_crianca_calib                       | Quantitativa  | Mann-Whitney U                 | 0.62578
+p12_lixo                                 | Qualitativa   | Chi-quadrado                   | 0.64479
+bb04_idade_da_mae                        | Quantitativa  | Mann-Whitney U                 | 0.66882
+m08_adiantar_etapas                      | Qualitativa   | Chi-quadrado                   | 0.69095
+k01_gestacoes                            | Qualitativa   | Chi-quadrado                   | 0.71143
+peso_crianca_setor                       | Quantitativa  | Mann-Whitney U                 | 0.73505
+m12_despesas                             | Qualitativa   | Chi-quadrado                   | 0.74212
+m10_quem_divide                          | Qualitativa   | Chi-quadrado                   | 0.74507
+vd_ien_decimos                           | Qualitativa   | Chi-quadrado                   | 0.80754
+o03_frutas_variedade                     | Qualitativa   | Chi-quadrado                   | 0.81553
+n08_salgadinhos                          | Qualitativa   | Chi-quadrado                   | 0.84257
+datablb                                  | Quantitativa  | Mann-Whitney U                 | 0.85817
+h03_altura                               | Quantitativa  | Mann-Whitney U                 | 0.86049
+n09_balas                                | Qualitativa   | Chi-quadrado                   | 0.87675
+q03_quais_beneficios                     | Qualitativa   | Chi-quadrado                   | 0.89317
+i000b_data_do_dia                        | Quantitativa  | Mann-Whitney U                 | 0.92837
+t02_peso_medida1                         | Quantitativa  | Mann-Whitney U                 | 0.94038
+m01_costuma_cozinhar                     | Qualitativa   | Chi-quadrado                   | 0.94580
+k07_peso_final                           | Quantitativa  | Mann-Whitney U                 | 0.96430
+k06_peso_engravidar                      | Quantitativa  | Mann-Whitney U                 | 0.96798
+peso_crianca                             | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_10                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_12                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_9b                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_9a                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_8                         | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_7                         | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_6                         | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_5                         | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_4                         | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_3                         | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_11                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_21                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_22                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_2                         | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_1c                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_1b                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_1a                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_19                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_18                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_17                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_16                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_15                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_13                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_20                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+peso_crianca_y_14                        | Quantitativa  | Mann-Whitney U                 | 0.97123
+b02_sexo                                 | Qualitativa   | Chi-quadrado                   | 0.98304
+j0502_rel_evangelica_tradicional         | Qualitativa   | Chi-quadrado                   | 0.98788
+j0508_rel_sem_religiao                   | Qualitativa   | Chi-quadrado                   | 0.99200
+peso_setor_ajuste1                       | Quantitativa  | Mann-Whitney U                 | 0.99646

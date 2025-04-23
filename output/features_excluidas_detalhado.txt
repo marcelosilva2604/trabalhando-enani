@@ -1,0 +1,256 @@
+FEATURES EXCLUÍDAS DO MODELO FINAL
+==================================
+
+VARIÁVEIS SEM SIGNIFICÂNCIA ESTATÍSTICA (p>=0.05):
+------------------------------------------------
+1 - var_236 - Tipo: numérica - Teste: t de Student - p-valor: 0.0540
+2 - var_120 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.0573
+3 - var_138 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.0576
+4 - var_69 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.0619
+5 - var_44 - Tipo: numérica - Teste: t de Student - p-valor: 0.0645
+6 - var_223 - Tipo: numérica - Teste: t de Student - p-valor: 0.0652
+7 - idade_crianca_meses - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.0713
+8 - var_84 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.0732
+9 - var_149 - Tipo: numérica - Teste: t de Student - p-valor: 0.0751
+10 - var_72 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.0781
+11 - var_210 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.0807
+12 - var_225 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.0814
+13 - var_178 - Tipo: numérica - Teste: t de Student - p-valor: 0.0829
+14 - var_212 - Tipo: numérica - Teste: t de Student - p-valor: 0.0986
+15 - var_108 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.1022
+16 - var_241 - Tipo: numérica - Teste: t de Student - p-valor: 0.1048
+17 - var_179 - Tipo: numérica - Teste: t de Student - p-valor: 0.1051
+18 - sexo - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.1053
+19 - var_142 - Tipo: numérica - Teste: t de Student - p-valor: 0.1071
+20 - var_86 - Tipo: numérica - Teste: t de Student - p-valor: 0.1094
+21 - var_234 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.1179
+22 - var_65 - Tipo: numérica - Teste: t de Student - p-valor: 0.1212
+23 - var_40 - Tipo: numérica - Teste: t de Student - p-valor: 0.1218
+24 - var_82 - Tipo: numérica - Teste: t de Student - p-valor: 0.1279
+25 - var_249 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.1305
+26 - var_1 - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.1316
+27 - var_157 - Tipo: numérica - Teste: t de Student - p-valor: 0.1384
+28 - var_109 - Tipo: numérica - Teste: t de Student - p-valor: 0.1414
+29 - var_208 - Tipo: numérica - Teste: t de Student - p-valor: 0.1415
+30 - var_aleatoria2 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.1423
+31 - var_79 - Tipo: numérica - Teste: t de Student - p-valor: 0.1511
+32 - var_140 - Tipo: numérica - Teste: t de Student - p-valor: 0.1570
+33 - var_66 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.1594
+34 - var_33 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.1618
+35 - var_43 - Tipo: numérica - Teste: t de Student - p-valor: 0.1634
+36 - var_141 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.1646
+37 - var_28 - Tipo: numérica - Teste: t de Student - p-valor: 0.1672
+38 - var_11 - Tipo: numérica - Teste: t de Student - p-valor: 0.1701
+39 - var_242 - Tipo: numérica - Teste: t de Student - p-valor: 0.1719
+40 - var_92 - Tipo: numérica - Teste: t de Student - p-valor: 0.1723
+41 - var_41 - Tipo: numérica - Teste: t de Student - p-valor: 0.1728
+42 - var_206 - Tipo: numérica - Teste: t de Student - p-valor: 0.1787
+43 - var_26 - Tipo: numérica - Teste: t de Student - p-valor: 0.1787
+44 - var_151 - Tipo: numérica - Teste: t de Student - p-valor: 0.1855
+45 - var_39 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.1907
+46 - var_164 - Tipo: numérica - Teste: t de Student - p-valor: 0.1986
+47 - idade_mae - Tipo: numérica - Teste: t de Student - p-valor: 0.1999
+48 - var_239 - Tipo: numérica - Teste: t de Student - p-valor: 0.2026
+49 - var_119 - Tipo: numérica - Teste: t de Student - p-valor: 0.2032
+50 - var_3 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.2046
+51 - var_189 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.2053
+52 - var_156 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.2078
+53 - var_97 - Tipo: numérica - Teste: t de Student - p-valor: 0.2107
+54 - var_181 - Tipo: numérica - Teste: t de Student - p-valor: 0.2148
+55 - var_8 - Tipo: numérica - Teste: t de Student - p-valor: 0.2205
+56 - var_98 - Tipo: numérica - Teste: t de Student - p-valor: 0.2309
+57 - var_209 - Tipo: numérica - Teste: t de Student - p-valor: 0.2341
+58 - var_102 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.2384
+59 - var_71 - Tipo: numérica - Teste: t de Student - p-valor: 0.2531
+60 - var_172 - Tipo: numérica - Teste: t de Student - p-valor: 0.2542
+61 - var_16 - Tipo: numérica - Teste: t de Student - p-valor: 0.2554
+62 - var_191 - Tipo: numérica - Teste: t de Student - p-valor: 0.2607
+63 - var_187 - Tipo: numérica - Teste: t de Student - p-valor: 0.2614
+64 - var_169 - Tipo: numérica - Teste: t de Student - p-valor: 0.2618
+65 - var_122 - Tipo: numérica - Teste: t de Student - p-valor: 0.2706
+66 - var_80 - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.2770
+67 - var_127 - Tipo: numérica - Teste: t de Student - p-valor: 0.2774
+68 - var_240 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.2875
+69 - var_216 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.2896
+70 - var_154 - Tipo: numérica - Teste: t de Student - p-valor: 0.2940
+71 - var_250 - Tipo: numérica - Teste: t de Student - p-valor: 0.2973
+72 - var_226 - Tipo: numérica - Teste: t de Student - p-valor: 0.3018
+73 - var_244 - Tipo: numérica - Teste: t de Student - p-valor: 0.3020
+74 - var_224 - Tipo: numérica - Teste: t de Student - p-valor: 0.3044
+75 - var_162 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.3095
+76 - var_99 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.3119
+77 - var_70 - Tipo: numérica - Teste: t de Student - p-valor: 0.3140
+78 - var_136 - Tipo: numérica - Teste: t de Student - p-valor: 0.3166
+79 - var_18 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.3464
+80 - var_19 - Tipo: numérica - Teste: t de Student - p-valor: 0.3640
+81 - var_167 - Tipo: numérica - Teste: t de Student - p-valor: 0.3687
+82 - var_186 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.3722
+83 - var_232 - Tipo: numérica - Teste: t de Student - p-valor: 0.3729
+84 - var_2 - Tipo: numérica - Teste: t de Student - p-valor: 0.3775
+85 - var_185 - Tipo: numérica - Teste: t de Student - p-valor: 0.3795
+86 - var_68 - Tipo: numérica - Teste: t de Student - p-valor: 0.3796
+87 - var_121 - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.3841
+88 - var_75 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.3844
+89 - var_163 - Tipo: numérica - Teste: t de Student - p-valor: 0.3880
+90 - var_184 - Tipo: numérica - Teste: t de Student - p-valor: 0.3920
+91 - var_180 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.3967
+92 - var_50 - Tipo: numérica - Teste: t de Student - p-valor: 0.3986
+93 - var_30 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.3988
+94 - var_221 - Tipo: numérica - Teste: t de Student - p-valor: 0.4002
+95 - var_230 - Tipo: numérica - Teste: t de Student - p-valor: 0.4002
+96 - var_155 - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.4021
+97 - var_73 - Tipo: numérica - Teste: t de Student - p-valor: 0.4038
+98 - var_170 - Tipo: numérica - Teste: t de Student - p-valor: 0.4090
+99 - var_150 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.4139
+100 - var_195 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.4270
+101 - var_144 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.4337
+102 - var_7 - Tipo: numérica - Teste: t de Student - p-valor: 0.4344
+103 - var_35 - Tipo: numérica - Teste: t de Student - p-valor: 0.4388
+104 - var_125 - Tipo: numérica - Teste: t de Student - p-valor: 0.4404
+105 - var_56 - Tipo: numérica - Teste: t de Student - p-valor: 0.4468
+106 - var_31 - Tipo: numérica - Teste: t de Student - p-valor: 0.4471
+107 - var_93 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.4479
+108 - var_153 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.4628
+109 - var_247 - Tipo: numérica - Teste: t de Student - p-valor: 0.4654
+110 - var_103 - Tipo: numérica - Teste: t de Student - p-valor: 0.4709
+111 - var_147 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.4726
+112 - var_174 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.4848
+113 - var_175 - Tipo: numérica - Teste: t de Student - p-valor: 0.4874
+114 - var_238 - Tipo: numérica - Teste: t de Student - p-valor: 0.4885
+115 - var_105 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.4954
+116 - var_34 - Tipo: numérica - Teste: t de Student - p-valor: 0.4971
+117 - var_192 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.4972
+118 - var_218 - Tipo: numérica - Teste: t de Student - p-valor: 0.5126
+119 - var_123 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5140
+120 - var_21 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5188
+121 - var_47 - Tipo: numérica - Teste: t de Student - p-valor: 0.5280
+122 - var_137 - Tipo: numérica - Teste: t de Student - p-valor: 0.5316
+123 - var_132 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5324
+124 - var_176 - Tipo: numérica - Teste: t de Student - p-valor: 0.5391
+125 - var_6 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5478
+126 - var_205 - Tipo: numérica - Teste: t de Student - p-valor: 0.5502
+127 - var_201 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5530
+128 - var_203 - Tipo: numérica - Teste: t de Student - p-valor: 0.5555
+129 - var_90 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5639
+130 - var_104 - Tipo: numérica - Teste: t de Student - p-valor: 0.5660
+131 - var_126 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5718
+132 - var_229 - Tipo: numérica - Teste: t de Student - p-valor: 0.5731
+133 - var_165 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5738
+134 - var_222 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5741
+135 - var_220 - Tipo: numérica - Teste: t de Student - p-valor: 0.5746
+136 - var_59 - Tipo: numérica - Teste: t de Student - p-valor: 0.5752
+137 - peso_nascimento - Tipo: numérica - Teste: t de Student - p-valor: 0.5854
+138 - var_227 - Tipo: numérica - Teste: t de Student - p-valor: 0.5879
+139 - var_91 - Tipo: numérica - Teste: t de Student - p-valor: 0.5904
+140 - var_51 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5905
+141 - var_67 - Tipo: numérica - Teste: t de Student - p-valor: 0.5916
+142 - var_22 - Tipo: numérica - Teste: t de Student - p-valor: 0.5925
+143 - var_111 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.5931
+144 - var_74 - Tipo: numérica - Teste: t de Student - p-valor: 0.6002
+145 - var_88 - Tipo: numérica - Teste: t de Student - p-valor: 0.6017
+146 - var_237 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.6067
+147 - var_13 - Tipo: numérica - Teste: t de Student - p-valor: 0.6114
+148 - var_133 - Tipo: numérica - Teste: t de Student - p-valor: 0.6229
+149 - var_24 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.6233
+150 - var_128 - Tipo: numérica - Teste: t de Student - p-valor: 0.6396
+151 - var_113 - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.6456
+152 - var_42 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.6466
+153 - var_78 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.6576
+154 - var_183 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.6583
+155 - var_aleatoria1 - Tipo: numérica - Teste: t de Student - p-valor: 0.6612
+156 - var_85 - Tipo: numérica - Teste: t de Student - p-valor: 0.6632
+157 - var_251 - Tipo: numérica - Teste: t de Student - p-valor: 0.6632
+158 - var_53 - Tipo: numérica - Teste: t de Student - p-valor: 0.6666
+159 - var_166 - Tipo: numérica - Teste: t de Student - p-valor: 0.6667
+160 - var_173 - Tipo: numérica - Teste: t de Student - p-valor: 0.6716
+161 - var_148 - Tipo: numérica - Teste: t de Student - p-valor: 0.6736
+162 - var_115 - Tipo: numérica - Teste: t de Student - p-valor: 0.6752
+163 - var_139 - Tipo: numérica - Teste: t de Student - p-valor: 0.6762
+164 - var_233 - Tipo: numérica - Teste: t de Student - p-valor: 0.6782
+165 - var_194 - Tipo: numérica - Teste: t de Student - p-valor: 0.6796
+166 - var_182 - Tipo: numérica - Teste: t de Student - p-valor: 0.6819
+167 - var_100 - Tipo: numérica - Teste: t de Student - p-valor: 0.7023
+168 - var_55 - Tipo: numérica - Teste: t de Student - p-valor: 0.7044
+169 - var_231 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.7053
+170 - var_38 - Tipo: numérica - Teste: t de Student - p-valor: 0.7067
+171 - var_52 - Tipo: numérica - Teste: t de Student - p-valor: 0.7084
+172 - var_161 - Tipo: numérica - Teste: t de Student - p-valor: 0.7200
+173 - var_143 - Tipo: numérica - Teste: t de Student - p-valor: 0.7265
+174 - var_245 - Tipo: numérica - Teste: t de Student - p-valor: 0.7267
+175 - var_235 - Tipo: numérica - Teste: t de Student - p-valor: 0.7298
+176 - var_95 - Tipo: numérica - Teste: t de Student - p-valor: 0.7307
+177 - var_228 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.7349
+178 - var_135 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.7514
+179 - var_246 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.7552
+180 - var_134 - Tipo: numérica - Teste: t de Student - p-valor: 0.7561
+181 - var_9 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.7563
+182 - var_94 - Tipo: numérica - Teste: t de Student - p-valor: 0.7647
+183 - var_112 - Tipo: numérica - Teste: t de Student - p-valor: 0.7705
+184 - var_62 - Tipo: numérica - Teste: t de Student - p-valor: 0.7705
+185 - var_61 - Tipo: numérica - Teste: t de Student - p-valor: 0.7752
+186 - var_48 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.7775
+187 - var_46 - Tipo: numérica - Teste: t de Student - p-valor: 0.7789
+188 - var_130 - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.7796
+189 - var_243 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.7871
+190 - trabalho_mae - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.7872
+191 - var_12 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.7891
+192 - var_76 - Tipo: numérica - Teste: t de Student - p-valor: 0.7903
+193 - var_23 - Tipo: numérica - Teste: t de Student - p-valor: 0.7966
+194 - var_152 - Tipo: numérica - Teste: t de Student - p-valor: 0.7967
+195 - var_114 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.8036
+196 - var_116 - Tipo: numérica - Teste: t de Student - p-valor: 0.8098
+197 - var_14 - Tipo: numérica - Teste: t de Student - p-valor: 0.8112
+198 - var_4 - Tipo: numérica - Teste: t de Student - p-valor: 0.8156
+199 - var_10 - Tipo: numérica - Teste: t de Student - p-valor: 0.8161
+200 - var_217 - Tipo: numérica - Teste: t de Student - p-valor: 0.8215
+201 - var_124 - Tipo: numérica - Teste: t de Student - p-valor: 0.8257
+202 - var_81 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.8286
+203 - var_aleatoria3 - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.8304
+204 - var_58 - Tipo: numérica - Teste: t de Student - p-valor: 0.8375
+205 - var_106 - Tipo: numérica - Teste: t de Student - p-valor: 0.8385
+206 - var_171 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.8432
+207 - var_158 - Tipo: numérica - Teste: t de Student - p-valor: 0.8443
+208 - var_131 - Tipo: numérica - Teste: t de Student - p-valor: 0.8449
+209 - var_117 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.8473
+210 - var_57 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.8497
+211 - var_200 - Tipo: numérica - Teste: t de Student - p-valor: 0.8510
+212 - var_214 - Tipo: numérica - Teste: t de Student - p-valor: 0.8541
+213 - var_198 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.8542
+214 - var_27 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.8642
+215 - var_215 - Tipo: numérica - Teste: t de Student - p-valor: 0.8748
+216 - var_177 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.8767
+217 - var_37 - Tipo: numérica - Teste: t de Student - p-valor: 0.8800
+218 - var_118 - Tipo: numérica - Teste: t de Student - p-valor: 0.8891
+219 - var_145 - Tipo: numérica - Teste: t de Student - p-valor: 0.8919
+220 - var_211 - Tipo: numérica - Teste: t de Student - p-valor: 0.8922
+221 - var_196 - Tipo: numérica - Teste: t de Student - p-valor: 0.8970
+222 - var_197 - Tipo: numérica - Teste: t de Student - p-valor: 0.8980
+223 - var_32 - Tipo: numérica - Teste: t de Student - p-valor: 0.9010
+224 - var_17 - Tipo: numérica - Teste: t de Student - p-valor: 0.9041
+225 - var_87 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.9046
+226 - var_96 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.9083
+227 - var_83 - Tipo: numérica - Teste: t de Student - p-valor: 0.9102
+228 - var_64 - Tipo: numérica - Teste: t de Student - p-valor: 0.9203
+229 - var_207 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.9204
+230 - var_36 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.9306
+231 - var_213 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.9366
+232 - var_107 - Tipo: numérica - Teste: t de Student - p-valor: 0.9401
+233 - var_202 - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.9468
+234 - var_5 - Tipo: numérica - Teste: t de Student - p-valor: 0.9492
+235 - var_168 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.9519
+236 - var_101 - Tipo: numérica - Teste: t de Student - p-valor: 0.9575
+237 - var_146 - Tipo: numérica - Teste: t de Student - p-valor: 0.9594
+238 - var_60 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.9652
+239 - var_110 - Tipo: numérica - Teste: t de Student - p-valor: 0.9657
+240 - var_193 - Tipo: numérica - Teste: t de Student - p-valor: 0.9660
+241 - var_188 - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.9717
+242 - var_29 - Tipo: numérica - Teste: Mann-Whitney - p-valor: 0.9720
+243 - var_160 - Tipo: numérica - Teste: t de Student - p-valor: 0.9776
+244 - var_77 - Tipo: numérica - Teste: t de Student - p-valor: 0.9885
+245 - var_45 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.9907
+246 - var_63 - Tipo: categórica - Teste: Qui-quadrado - p-valor: 0.9914
+
+VARIÁVEIS EXCLUÍDAS ANTES DA ANÁLISE ESTATÍSTICA:
+-----------------------------------------------
+1 - coluna_constante - Motivo: Variável constante ou com único valor
+2 - coluna_muitos_NA - Motivo: Alta proporção de valores ausentes (98.10%)

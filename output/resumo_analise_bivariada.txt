@@ -1,0 +1,19 @@
+ANÁLISE BIVARIADA - AMAMENTAÇÃO EXCLUSIVA
+Data da análise: 23/04/2025 01:08
+
+Total de variáveis analisadas: 264
+Variáveis com associação significativa (p<0.05): 16
+Variáveis com associação significativa após correção de Bonferroni: 3
+Variáveis excluídas da análise: 2
+
+TOP 10 VARIÁVEIS MAIS ASSOCIADAS À AMAMENTAÇÃO EXCLUSIVA:
+2. regiao - Qui-quadrado - p=<0.0001
+3. escolaridade_mae - Qui-quadrado - p=<0.0001
+7. renda_familiar - Mann-Whitney - p=<0.0001
+259. var_248 - Mann-Whitney - p=0.0002
+60. var_49 - t de Student - p=0.0026
+36. var_25 - t de Student - p=0.0140
+31. var_20 - t de Student - p=0.0212
+201. var_190 - t de Student - p=0.0224
+100. var_89 - t de Student - p=0.0239
+215. var_204 - Qui-quadrado - p=0.0246

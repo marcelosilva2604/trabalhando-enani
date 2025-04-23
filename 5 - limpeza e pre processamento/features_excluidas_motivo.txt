@@ -1,0 +1,510 @@
+FEATURES EXCLUÍDAS E MOTIVOS
+===========================
+
+Total de features excluídas: 426
+
+FEATURES EXCLUÍDAS POR TEREM >30% DE DADOS FALTANTES
+---------------------------------------------------
+Total: 301
+
+1. i030_9m_bracos - 100.0% de dados faltantes
+2. i031_9m_sentada - 100.0% de dados faltantes
+3. i032_9m_mao - 100.0% de dados faltantes
+4. i033_9m_puxa - 100.0% de dados faltantes
+5. i034_9m_brinca - 100.0% de dados faltantes
+6. i035_9m_mama - 100.0% de dados faltantes
+7. i036_9m_olha - 100.0% de dados faltantes
+8. i037_9m_sons - 100.0% de dados faltantes
+9. i038_9m_anda - 100.0% de dados faltantes
+10. i039_9m_pedidos - 100.0% de dados faltantes
+11. i040_12m_mao - 100.0% de dados faltantes
+12. i041_12m_puxa - 100.0% de dados faltantes
+13. i042_12m_brinca - 100.0% de dados faltantes
+14. i043_12m_mama - 100.0% de dados faltantes
+15. i044_12m_olha - 100.0% de dados faltantes
+16. i045_12m_sons - 100.0% de dados faltantes
+17. i046_12m_anda - 100.0% de dados faltantes
+18. i047_12m_pedidos - 100.0% de dados faltantes
+19. i048_12m_corre - 100.0% de dados faltantes
+20. i049_12m_escadas - 100.0% de dados faltantes
+21. i050_15m_mama - 100.0% de dados faltantes
+22. i051_15m_olha - 100.0% de dados faltantes
+23. i052_15m_sons - 100.0% de dados faltantes
+24. i053_15m_anda - 100.0% de dados faltantes
+25. i054_15m_pedidos - 100.0% de dados faltantes
+26. i055_15m_corre - 100.0% de dados faltantes
+27. i056_15m_escadas - 100.0% de dados faltantes
+28. i057_15m_chuta - 100.0% de dados faltantes
+29. i058_15m_objetos - 100.0% de dados faltantes
+30. i059_15m_corpo - 100.0% de dados faltantes
+31. i060_18m_corre - 100.0% de dados faltantes
+32. i061_18m_escadas - 100.0% de dados faltantes
+33. i062_18m_chuta - 100.0% de dados faltantes
+34. i063_18m_objetos - 100.0% de dados faltantes
+35. i064_18m_corpo - 100.0% de dados faltantes
+36. i065_18m_sozinha - 100.0% de dados faltantes
+37. i066_18m_eu - 100.0% de dados faltantes
+38. i067_18m_pula - 100.0% de dados faltantes
+39. i068_18m_combina - 100.0% de dados faltantes
+40. i069_18m_ajuda - 100.0% de dados faltantes
+41. i070_24m_corpo - 100.0% de dados faltantes
+42. i071_24m_sozinha - 100.0% de dados faltantes
+43. i072_24m_eu - 100.0% de dados faltantes
+44. i073_24m_pula - 100.0% de dados faltantes
+45. i074_24m_combina - 100.0% de dados faltantes
+46. i075_24m_ajuda - 100.0% de dados faltantes
+47. i076_24m_cor - 100.0% de dados faltantes
+48. i077_24m_atencao - 100.0% de dados faltantes
+49. i078_24m_nome - 100.0% de dados faltantes
+50. i079_24m_linhas - 100.0% de dados faltantes
+51. i080_30m_cor - 100.0% de dados faltantes
+52. i081_30m_atencao - 100.0% de dados faltantes
+53. i082_30m_nome - 100.0% de dados faltantes
+54. i083_30m_linhas - 100.0% de dados faltantes
+55. i084_30m_fala - 100.0% de dados faltantes
+56. i085_30m_lava - 100.0% de dados faltantes
+57. i086_30m_perguntas - 100.0% de dados faltantes
+58. i087_30m_explicar - 100.0% de dados faltantes
+59. i088_30m_compara - 100.0% de dados faltantes
+60. i089_30m_responde - 100.0% de dados faltantes
+61. i090_36m_fala - 100.0% de dados faltantes
+62. i091_36m_lava - 100.0% de dados faltantes
+63. i092_36m_perguntas - 100.0% de dados faltantes
+64. i093_36m_explicar - 100.0% de dados faltantes
+65. i094_36m_compara - 100.0% de dados faltantes
+66. i095_36m_responde - 100.0% de dados faltantes
+67. i096_36m_conta - 100.0% de dados faltantes
+68. i097_36m_desenha - 100.0% de dados faltantes
+69. i098_36m_plural - 100.0% de dados faltantes
+70. i099_36m_ontem - 100.0% de dados faltantes
+71. i100_48m_compara - 100.0% de dados faltantes
+72. i101_48m_responde - 100.0% de dados faltantes
+73. i102_48m_conta - 100.0% de dados faltantes
+74. i103_48m_desenha - 100.0% de dados faltantes
+75. i104_48m_plural - 100.0% de dados faltantes
+76. i105_48m_ontem - 100.0% de dados faltantes
+77. i106_48m_urinar - 100.0% de dados faltantes
+78. i107_48m_regras - 100.0% de dados faltantes
+79. i108_48m_copia - 100.0% de dados faltantes
+80. i109_48m_figuras - 100.0% de dados faltantes
+81. i110_59m_conta - 100.0% de dados faltantes
+82. i111_59m_desenha - 100.0% de dados faltantes
+83. i112_59m_plural - 100.0% de dados faltantes
+84. i113_59m_ontem - 100.0% de dados faltantes
+85. i114_59m_urinar - 100.0% de dados faltantes
+86. i115_59m_regras - 100.0% de dados faltantes
+87. i116_59m_copia - 100.0% de dados faltantes
+88. i117_59m_figuras - 100.0% de dados faltantes
+89. i118_59m_colore - 100.0% de dados faltantes
+90. i119_59m_sabe - 100.0% de dados faltantes
+91. n10_guardar_frutas - 100.0% de dados faltantes
+92. n11_pegar_refrigerante - 100.0% de dados faltantes
+93. n12_comer_biscoitos - 100.0% de dados faltantes
+94. n13_comer_bala - 100.0% de dados faltantes
+95. n14_comer_comida - 100.0% de dados faltantes
+96. n15_come_suficiente - 100.0% de dados faltantes
+97. n16_forcar_comer - 100.0% de dados faltantes
+98. n17_comer_menos - 100.0% de dados faltantes
+99. u02a_coleta_motivo - 100.0% de dados faltantes
+100. u22_recoleta_realizada - 100.0% de dados faltantes
+101. u22a_recoleta_motivo - 100.0% de dados faltantes
+102. u23_febre_diarreia - 100.0% de dados faltantes
+103. u24a_refeicao_hora - 100.0% de dados faltantes
+104. u24b_refeicao_minuto - 100.0% de dados faltantes
+105. u26_puncao - 100.0% de dados faltantes
+106. u27a_coleta_hora - 100.0% de dados faltantes
+107. u27b_coleta_minuto - 100.0% de dados faltantes
+108. u28_braco - 100.0% de dados faltantes
+109. u29_tubos - 100.0% de dados faltantes
+110. u30_volume - 100.0% de dados faltantes
+111. u30a_volume_trace - 100.0% de dados faltantes
+112. u30b_volume_edta - 100.0% de dados faltantes
+113. vd_idade_2cat - 100.0% de dados faltantes
+114. vd_linfat_final - 100.0% de dados faltantes
+115. vd_linftp_final - 100.0% de dados faltantes
+116. vd_meta_final - 100.0% de dados faltantes
+117. vd_metap_final - 100.0% de dados faltantes
+118. vd_mielo_final - 100.0% de dados faltantes
+119. vd_mielop_final - 100.0% de dados faltantes
+120. u01_febre_diarreia - 99.9% de dados faltantes
+121. u03_puncao - 99.9% de dados faltantes
+122. u04a_coleta_hora - 99.9% de dados faltantes
+123. u04b_coleta_minuto - 99.9% de dados faltantes
+124. u05_braco - 99.9% de dados faltantes
+125. u06_tubos - 99.9% de dados faltantes
+126. u07_volume - 99.9% de dados faltantes
+127. u07a_volume_trace - 99.9% de dados faltantes
+128. u07b_volume_edta - 99.9% de dados faltantes
+129. u09a_refeicao_hora - 99.9% de dados faltantes
+130. u09b_refeicao_minuto - 99.9% de dados faltantes
+131. i020_6m_sons - 99.8% de dados faltantes
+132. i021_6m_olha - 99.8% de dados faltantes
+133. i022_6m_barriga - 99.8% de dados faltantes
+134. i023_6m_brinquedo - 99.8% de dados faltantes
+135. i024_6m_procura - 99.8% de dados faltantes
+136. i025_6m_segura - 99.8% de dados faltantes
+137. i026_6m_bracos - 99.8% de dados faltantes
+138. i027_6m_sentada - 99.8% de dados faltantes
+139. i028_6m_mao - 99.8% de dados faltantes
+140. i029_6m_puxa - 99.8% de dados faltantes
+141. t06b_qual_das_pecas - 99.8% de dados faltantes
+142. u02_coleta_realizada - 99.8% de dados faltantes
+143. vd_afoli_final - 99.8% de dados faltantes
+144. vd_baso_final - 99.8% de dados faltantes
+145. vd_basop_final - 99.8% de dados faltantes
+146. vd_bast_final - 99.8% de dados faltantes
+147. vd_bastp_final - 99.8% de dados faltantes
+148. vd_chcm_final - 99.8% de dados faltantes
+149. vd_eos_final - 99.8% de dados faltantes
+150. vd_eosp_final - 99.8% de dados faltantes
+151. vd_pcr_final - 99.8% de dados faltantes
+152. vd_ferri_final - 99.8% de dados faltantes
+153. vd_hb_final - 99.8% de dados faltantes
+154. vd_hcm_final - 99.8% de dados faltantes
+155. vd_ht_final - 99.8% de dados faltantes
+156. vd_selen_final - 99.8% de dados faltantes
+157. vd_zn_final - 99.8% de dados faltantes
+158. vd_vb12_final - 99.8% de dados faltantes
+159. vd_vit25_final - 99.8% de dados faltantes
+160. vd_vita_final - 99.8% de dados faltantes
+161. vd_vitb1_final - 99.8% de dados faltantes
+162. vd_vitb6_final - 99.8% de dados faltantes
+163. vd_vite_final - 99.8% de dados faltantes
+164. vd_leuco_final - 99.8% de dados faltantes
+165. vd_linfo_final - 99.8% de dados faltantes
+166. vd_linfop_final - 99.8% de dados faltantes
+167. vd_mono_final - 99.8% de dados faltantes
+168. vd_monop_final - 99.8% de dados faltantes
+169. vd_pla_final - 99.8% de dados faltantes
+170. vd_rbc_final - 99.8% de dados faltantes
+171. vd_rdw_final - 99.8% de dados faltantes
+172. vd_seg_final - 99.8% de dados faltantes
+173. vd_segp_final - 99.8% de dados faltantes
+174. vd_vcm_final - 99.8% de dados faltantes
+175. vd_afoli_fonte - 99.8% de dados faltantes
+176. vd_vb12_fonte - 99.8% de dados faltantes
+177. vd_ferri_fonte - 99.8% de dados faltantes
+178. vd_pcr_fonte - 99.8% de dados faltantes
+179. vd_hb_fonte - 99.8% de dados faltantes
+180. vd_selen_fonte - 99.8% de dados faltantes
+181. vd_zn_fonte - 99.8% de dados faltantes
+182. vd_vit25_fonte - 99.8% de dados faltantes
+183. vd_vita_fonte - 99.8% de dados faltantes
+184. vd_vite_fonte - 99.8% de dados faltantes
+185. vd_vitb6_fonte - 99.8% de dados faltantes
+186. vd_vitb1_fonte - 99.8% de dados faltantes
+187. vd_d051_cafe_manha - 99.7% de dados faltantes
+188. vd_d052_lanche_manha - 99.7% de dados faltantes
+189. vd_d053_almoco - 99.7% de dados faltantes
+190. vd_d054_lanche_tarde - 99.7% de dados faltantes
+191. vd_d055_jantar - 99.7% de dados faltantes
+192. vd_d056_outra - 99.7% de dados faltantes
+193. vd_d059_nao_sabe - 99.7% de dados faltantes
+194. d03_duracao - 99.6% de dados faltantes
+195. d04_refeicao - 99.6% de dados faltantes
+196. s23a_peso_medida4 - 99.3% de dados faltantes
+197. s23_peso_medida3 - 99.2% de dados faltantes
+198. s24_peso_padrao - 99.2% de dados faltantes
+199. s22_permissao_peso - 99.1% de dados faltantes
+200. d06_relacao_responsavel - 98.9% de dados faltantes
+201. s21a_pode_informar_peso - 98.9% de dados faltantes
+202. s21c_idade_recalculada_peso - 98.9% de dados faltantes
+203. h09_chupeta_medida2 - 98.8% de dados faltantes
+204. h08_chupeta_parou - 98.6% de dados faltantes
+205. h121_alergia_leite - 98.5% de dados faltantes
+206. h122_alergia_ovos - 98.5% de dados faltantes
+207. h123_alergia_peixes - 98.5% de dados faltantes
+208. h124_alergia_sementes - 98.5% de dados faltantes
+209. h125_alergia_trigo - 98.5% de dados faltantes
+210. h126_alergia_frutas - 98.5% de dados faltantes
+211. h127_alergia_feijoes - 98.5% de dados faltantes
+212. h128_alergia_outro - 98.5% de dados faltantes
+213. h129_alergia_nao_sabe - 98.5% de dados faltantes
+214. i9941_cafe_manha - 97.6% de dados faltantes
+215. i9942_lanche_manha - 97.6% de dados faltantes
+216. i9943_almoco - 97.6% de dados faltantes
+217. i9944_lanche_tarde - 97.6% de dados faltantes
+218. i9945_jantar - 97.6% de dados faltantes
+219. i9946_ceia - 97.6% de dados faltantes
+220. i9947_outros - 97.6% de dados faltantes
+221. t03b01_roupa_bermuda_de_brim - 97.6% de dados faltantes
+222. t03b02_roupa_bota - 97.6% de dados faltantes
+223. t03b03_roupa_calca_de_brim - 97.6% de dados faltantes
+224. t03b04_roupa_casaco_jaqueta - 97.6% de dados faltantes
+225. t03b05_roupa_tenis_sapato - 97.6% de dados faltantes
+226. t03b06_roupa_outra - 97.6% de dados faltantes
+227. s33a_altura_medida4 - 95.2% de dados faltantes
+228. s33_altura_medida3 - 94.5% de dados faltantes
+229. s35_altura_padrao - 94.5% de dados faltantes
+230. s31a_pode_informar_altura - 93.0% de dados faltantes
+231. s31c_idade_recalculada_alt - 93.0% de dados faltantes
+232. k10_meses - 88.3% de dados faltantes
+233. vd_zbfa - 87.0% de dados faltantes
+234. vd_zhfa - 87.0% de dados faltantes
+235. k171_alimento_leite - 85.4% de dados faltantes
+236. k172_alimento_formulas - 85.4% de dados faltantes
+237. k173_alimento_cha - 85.4% de dados faltantes
+238. k174_alimento_agua - 85.4% de dados faltantes
+239. k175_alimento_acucar - 85.4% de dados faltantes
+240. k176_alimento_outro - 85.4% de dados faltantes
+241. k179_alimento_nao_sabe - 85.4% de dados faltantes
+242. q04_quantos_moradores - 68.2% de dados faltantes
+243. q031_programa_bolsa_familia - 68.1% de dados faltantes
+244. q032_bpc_loas - 68.1% de dados faltantes
+245. q033_beneficio_prefeitura - 68.1% de dados faltantes
+246. q034_beneficio_estado - 68.1% de dados faltantes
+247. q035_pensao - 68.1% de dados faltantes
+248. q036_aposentadoria - 68.1% de dados faltantes
+249. q037_outro_beneficio - 68.1% de dados faltantes
+250. q039_nao_sabe - 68.1% de dados faltantes
+251. p04_aluguel - 67.6% de dados faltantes
+252. i010_4m_cabeca - 67.2% de dados faltantes
+253. i011_4m_maos - 67.2% de dados faltantes
+254. i012_4m_ri - 67.2% de dados faltantes
+255. i013_4m_sentada - 67.2% de dados faltantes
+256. i014_4m_sons - 67.2% de dados faltantes
+257. i015_4m_olha - 67.2% de dados faltantes
+258. i016_4m_barriga - 67.2% de dados faltantes
+259. i017_4m_brinquedo - 67.2% de dados faltantes
+260. i018_4m_procura - 67.2% de dados faltantes
+261. i019_4m_segura - 67.2% de dados faltantes
+262. k09_licenca - 63.9% de dados faltantes
+263. h07_chupeta_medida1 - 58.3% de dados faltantes
+264. h06_chupeta_comecou - 58.0% de dados faltantes
+265. k27_idade_medida - 56.0% de dados faltantes
+266. k26_idade - 55.6% de dados faltantes
+267. j07_nao_empregado - 54.5% de dados faltantes
+268. w01_motivo - 49.5% de dados faltantes
+269. i000_2m_faz - 46.0% de dados faltantes
+270. i001_2m_feliz - 46.0% de dados faltantes
+271. i002_2m_segue - 46.0% de dados faltantes
+272. i003_2m_vira - 46.0% de dados faltantes
+273. i004_2m_cabeca - 46.0% de dados faltantes
+274. i005_2m_maos - 46.0% de dados faltantes
+275. i006_2m_ri - 46.0% de dados faltantes
+276. i007_2m_sentada - 46.0% de dados faltantes
+277. i008_2m_sons - 46.0% de dados faltantes
+278. i009_2m_olha - 46.0% de dados faltantes
+279. k19_somente_medida - 33.6% de dados faltantes
+280. m1001_p01 - 33.5% de dados faltantes
+281. m1002_p02 - 33.5% de dados faltantes
+282. m1003_p03 - 33.5% de dados faltantes
+283. m1004_p04 - 33.5% de dados faltantes
+284. m1005_p05 - 33.5% de dados faltantes
+285. m1006_p06 - 33.5% de dados faltantes
+286. m1007_p07 - 33.5% de dados faltantes
+287. m1008_p08 - 33.5% de dados faltantes
+288. m1009_p09 - 33.5% de dados faltantes
+289. m1010_p10 - 33.5% de dados faltantes
+290. m1011_p11 - 33.5% de dados faltantes
+291. m1012_p12 - 33.5% de dados faltantes
+292. m1013_p13 - 33.5% de dados faltantes
+293. m1014_p14 - 33.5% de dados faltantes
+294. m1015_p15 - 33.5% de dados faltantes
+295. m1016_p16 - 33.5% de dados faltantes
+296. m1017_p17 - 33.5% de dados faltantes
+297. m1018_p18 - 33.5% de dados faltantes
+298. m1019_p19 - 33.5% de dados faltantes
+299. m1020_p20 - 33.5% de dados faltantes
+300. m1021_p21 - 33.5% de dados faltantes
+301. m1022_p22 - 33.5% de dados faltantes
+
+
+FEATURES EXCLUÍDAS POR TEREM BAIXA VARIABILIDADE
+------------------------------------------------
+Total: 194
+
+1. b04_idade - ratio=inf, unique=0.1%
+2. d05a_refeicao_outra - ratio=inf, unique=0.1%
+3. datahorapedido_r - ratio=inf, unique=0.1%
+4. grupo10 - ratio=inf, unique=0.1%
+5. grupo11 - ratio=inf, unique=0.1%
+6. grupo12 - ratio=inf, unique=0.1%
+7. grupo13 - ratio=inf, unique=0.1%
+8. grupo14 - ratio=inf, unique=0.1%
+9. grupo15 - ratio=inf, unique=0.1%
+10. grupo16 - ratio=inf, unique=0.1%
+11. grupo17 - ratio=inf, unique=0.1%
+12. grupo18 - ratio=inf, unique=0.1%
+13. grupo19 - ratio=inf, unique=0.1%
+14. grupo1a - ratio=inf, unique=0.1%
+15. grupo1b - ratio=inf, unique=0.1%
+16. grupo1c - ratio=inf, unique=0.1%
+17. grupo2 - ratio=inf, unique=0.1%
+18. grupo20 - ratio=inf, unique=0.1%
+19. grupo21 - ratio=inf, unique=0.1%
+20. grupo22 - ratio=inf, unique=0.1%
+21. grupo3 - ratio=inf, unique=0.1%
+22. grupo4 - ratio=inf, unique=0.1%
+23. grupo5 - ratio=inf, unique=0.1%
+24. grupo6 - ratio=inf, unique=0.1%
+25. grupo7 - ratio=inf, unique=0.1%
+26. grupo8 - ratio=inf, unique=0.1%
+27. grupo9a - ratio=inf, unique=0.1%
+28. grupo9b - ratio=inf, unique=0.1%
+29. h09_chupeta_medida2 - ratio=inf, unique=4.2%
+30. h10b3_sindrome_fibrose - ratio=inf, unique=0.1%
+31. h10b4_sindrome_fenilcetonuria - ratio=inf, unique=0.1%
+32. h124_alergia_sementes - ratio=inf, unique=3.3%
+33. h126_alergia_frutas - ratio=inf, unique=3.3%
+34. i022_6m_barriga - ratio=inf, unique=25.0%
+35. i024_6m_procura - ratio=inf, unique=25.0%
+36. i026_6m_bracos - ratio=inf, unique=25.0%
+37. i027_6m_sentada - ratio=inf, unique=25.0%
+38. idade_anos_comp - ratio=inf, unique=0.1%
+39. m1013_p13 - ratio=inf, unique=0.1%
+40. m1014_p14 - ratio=inf, unique=0.1%
+41. m1015_p15 - ratio=inf, unique=0.1%
+42. m1016_p16 - ratio=inf, unique=0.1%
+43. m1017_p17 - ratio=inf, unique=0.1%
+44. m1018_p18 - ratio=inf, unique=0.1%
+45. m1019_p19 - ratio=inf, unique=0.1%
+46. m1020_p20 - ratio=inf, unique=0.1%
+47. p11a_agua_outra - ratio=inf, unique=0.1%
+48. q039_nao_sabe - ratio=inf, unique=0.2%
+49. s09_altura_feita_corrigida - ratio=inf, unique=0.1%
+50. t03b02_roupa_bota - ratio=inf, unique=2.1%
+51. u01_febre_diarreia - ratio=inf, unique=100.0%
+52. u02_coleta_realizada - ratio=inf, unique=25.0%
+53. u02b_qual_outro_motivo - ratio=inf, unique=0.1%
+54. u03_puncao - ratio=inf, unique=100.0%
+55. u03a_puncao_motivo - ratio=inf, unique=0.1%
+56. u04a_coleta_hora - ratio=inf, unique=100.0%
+57. u04b_coleta_minuto - ratio=inf, unique=100.0%
+58. u05_braco - ratio=inf, unique=100.0%
+59. u06_tubos - ratio=inf, unique=100.0%
+60. u07_volume - ratio=inf, unique=100.0%
+61. u07a_volume_trace - ratio=inf, unique=100.0%
+62. u07b_volume_edta - ratio=inf, unique=100.0%
+63. u09a_refeicao_hora - ratio=inf, unique=100.0%
+64. u09b_refeicao_minuto - ratio=inf, unique=100.0%
+65. u22b_qual_outro_motivo - ratio=inf, unique=0.1%
+66. u26a_puncao_motivo - ratio=inf, unique=0.1%
+67. u31a_observacoes - ratio=inf, unique=0.1%
+68. vd_d053_almoco - ratio=inf, unique=16.7%
+69. vd_d056_outra - ratio=inf, unique=16.7%
+70. vd_d059_nao_sabe - ratio=inf, unique=16.7%
+71. vd_bast_final - ratio=inf, unique=25.0%
+72. vd_bastp_final - ratio=inf, unique=25.0%
+73. vd_afoli_fonte - ratio=inf, unique=25.0%
+74. vd_vb12_fonte - ratio=inf, unique=25.0%
+75. vd_ferri_fonte - ratio=inf, unique=25.0%
+76. vd_pcr_fonte - ratio=inf, unique=25.0%
+77. vd_hb_fonte - ratio=inf, unique=25.0%
+78. vd_selen_fonte - ratio=inf, unique=25.0%
+79. vd_zn_fonte - ratio=inf, unique=25.0%
+80. vd_vit25_fonte - ratio=inf, unique=25.0%
+81. vd_vita_fonte - ratio=inf, unique=25.0%
+82. vd_vite_fonte - ratio=inf, unique=25.0%
+83. vd_vitb6_fonte - ratio=inf, unique=25.0%
+84. vd_vitb1_fonte - ratio=inf, unique=25.0%
+85. d06a_qual_outra - ratio=1959.0, unique=0.1%
+86. k17a_alimento_qual_outro - ratio=1959.0, unique=0.1%
+87. p10a_esgoto_outra - ratio=1959.0, unique=0.1%
+88. u08a_observacoes - ratio=1959.0, unique=0.1%
+89. j05a_religiao_outra - ratio=1958.0, unique=0.2%
+90. p12a_lixo_qual_outro - ratio=1958.0, unique=0.2%
+91. s11_altura_observacoes - ratio=1958.0, unique=0.2%
+92. t06c_qual_outra - ratio=1957.0, unique=0.2%
+93. datahorapedido - ratio=1956.0, unique=0.3%
+94. h10a_consulta_outro - ratio=1956.0, unique=0.3%
+95. idade - ratio=1956.0, unique=0.3%
+96. h12a_alergia_outro - ratio=1955.0, unique=0.3%
+97. j07a_nao_outra - ratio=1953.0, unique=0.4%
+98. s05_peso_observacoes - ratio=1951.0, unique=0.5%
+99. b06a_porque - ratio=1945.0, unique=0.8%
+100. s02b_descreva_crianca - ratio=1943.0, unique=0.9%
+101. m1010_p10 - ratio=1302.0, unique=0.2%
+102. m1011_p11 - ratio=1302.0, unique=0.2%
+103. vd_dummy_gravida - ratio=979.0, unique=0.1%
+104. s28_peso_observacoes - ratio=972.5, unique=0.8%
+105. t03c_qual_outra_roupa - ratio=969.0, unique=1.1%
+106. h219_internado_nao_sabe - ratio=652.3, unique=0.1%
+107. d05_quais_refeicoes - ratio=651.3, unique=0.3%
+108. p02a_outro - ratio=651.3, unique=0.3%
+109. m1009_p09 - ratio=650.5, unique=0.2%
+110. t04a_altura_motivo - ratio=646.0, unique=1.1%
+111. h21a_doenca_outra - ratio=632.3, unique=2.9%
+112. h10b2_sindrome_down - ratio=489.0, unique=0.1%
+113. h10b5_sindrome_autismo - ratio=489.0, unique=0.1%
+114. h214_internado_alergias - ratio=489.0, unique=0.1%
+115. j0509_rel_outra_religiao - ratio=489.0, unique=0.1%
+116. total_12p - ratio=489.0, unique=0.1%
+117. p13_energia_eletrica - ratio=488.8, unique=0.2%
+118. t01a_peso_motivo - ratio=484.5, unique=1.0%
+119. s06a_altura_motivo - ratio=483.5, unique=1.1%
+120. t06a_altura_padrao - ratio=456.8, unique=0.1%
+121. m1012_p12 - ratio=433.3, unique=0.2%
+122. h213_internado_acidente - ratio=391.0, unique=0.1%
+123. s01a_peso_motivo - ratio=386.0, unique=1.2%
+124. s07b_descreva_crianca_altura - ratio=386.0, unique=1.3%
+125. h20a_problema_outro - ratio=380.2, unique=2.4%
+126. w01a_qual_outro - ratio=320.2, unique=1.6%
+127. k175_alimento_acucar - ratio=285.0, unique=0.7%
+128. k176_alimento_outro - ratio=285.0, unique=0.7%
+129. h10b9_sindrome_nao_sabe - ratio=279.0, unique=0.1%
+130. h10b_sindrome_de_down - ratio=277.9, unique=0.2%
+131. q03a_qual_outro - ratio=276.3, unique=0.6%
+132. m1008_p08 - ratio=259.6, unique=0.2%
+133. h212_internado_intestinais - ratio=195.0, unique=0.1%
+134. j0507_rel_budista - ratio=149.8, unique=0.1%
+135. j08_ler - ratio=149.8, unique=0.1%
+136. s29b_medida2_peso_refeita - ratio=139.0, unique=0.1%
+137. h10b1_sindrome_nao - ratio=129.7, unique=0.1%
+138. g151_sache - ratio=129.1, unique=0.2%
+139. i994_qual_refeicao - ratio=119.6, unique=0.7%
+140. s29a_medida1_peso_refeita - ratio=114.3, unique=0.1%
+141. h12_alergias - ratio=113.5, unique=0.5%
+142. s02a_medida2_realizada - ratio=110.1, unique=0.1%
+143. s39_altura_observacoes - ratio=109.2, unique=3.8%
+144. m1007_p07 - ratio=107.6, unique=0.2%
+145. q034_beneficio_estado - ratio=103.3, unique=0.3%
+146. t03b_quais_das_seguintes_pecas - ratio=100.7, unique=0.4%
+147. k246_utilizou_sondinha - ratio=92.8, unique=0.1%
+148. j0504_rel_espirita_kardecista - ratio=88.1, unique=0.1%
+149. j0505_rel_afro_brasileira - ratio=88.1, unique=0.1%
+150. vd_bbb07_mae_resp1 - ratio=88.1, unique=0.1%
+151. q033_beneficio_prefeitura - ratio=77.2, unique=0.3%
+152. s06_foi_medida - ratio=72.6, unique=0.3%
+153. k174_alimento_agua - ratio=70.5, unique=0.7%
+154. j0506_rel_protestante_historica - ratio=64.3, unique=0.1%
+155. h11_alergia - ratio=64.0, unique=0.2%
+156. s01_foi_pesada - ratio=63.0, unique=0.3%
+157. s07a_altura2_realizada - ratio=61.9, unique=0.1%
+158. k249_utilizou_nao_sabe - ratio=61.6, unique=0.1%
+159. k03_prenatal - ratio=59.0, unique=0.1%
+160. m1021_p21 - ratio=58.2, unique=0.2%
+161. a11_situacao - ratio=50.6, unique=0.1%
+162. t03b05_roupa_tenis_sapato - ratio=46.0, unique=4.3%
+163. h211_internado_respiratoria - ratio=45.7, unique=0.1%
+164. k11_amamentou - ratio=44.7, unique=0.2%
+165. r04_geladeira - ratio=42.6, unique=0.1%
+166. m1022_p22 - ratio=41.0, unique=0.2%
+167. i993_faltou_alguma_refeicao - ratio=40.3, unique=0.2%
+168. k171_alimento_leite - ratio=39.9, unique=0.7%
+169. k173_alimento_cha - ratio=39.9, unique=0.7%
+170. x08_total_maes_resp - ratio=38.9, unique=0.2%
+171. t03a_peso_padrao - ratio=38.0, unique=0.1%
+172. m1006_p06 - ratio=37.3, unique=0.2%
+173. t01_foi_pesada - ratio=34.3, unique=0.3%
+174. t04_foi_medida - ratio=33.1, unique=0.3%
+175. h20_outro_problema - ratio=32.2, unique=0.2%
+176. p06_cozinha - ratio=31.7, unique=0.1%
+177. m07_sabe_basico - ratio=31.4, unique=0.1%
+178. h215_internado_outras - ratio=29.6, unique=0.1%
+179. h21_internado - ratio=29.6, unique=0.5%
+180. h123_alergia_peixes - ratio=29.0, unique=6.7%
+181. h127_alergia_feijoes - ratio=29.0, unique=6.7%
+182. s10_altura_padrao - ratio=28.6, unique=0.3%
+183. l14_menos18_sem_comer - ratio=27.4, unique=0.1%
+184. k247_utilizou_copo - ratio=26.6, unique=0.1%
+185. k179_alimento_nao_sabe - ratio=25.0, unique=0.7%
+186. l13_menos18_sentiu_fome - ratio=24.1, unique=0.1%
+187. l12_menos18_saltou_refeicao - ratio=23.8, unique=0.1%
+188. q032_bpc_loas - ratio=23.1, unique=0.3%
+189. q037_outro_beneficio - ratio=23.1, unique=0.3%
+190. k21_recebeu - ratio=22.8, unique=0.1%
+191. j0510_rel_ns_nqr - ratio=21.0, unique=0.1%
+192. s21a_pode_informar_peso - ratio=21.0, unique=9.1%
+193. k241_utilizou_concha - ratio=20.6, unique=0.1%
+194. s39b_medida2_altura_refeita - ratio=19.6, unique=0.1%
