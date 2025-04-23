@@ -1,0 +1,1261 @@
+ANÁLISE DE ASSOCIAÇÃO COM ALEITAMENTO MATERNO EXCLUSIVO
+================================================================================
+
+Total de variáveis analisadas: 139
+Variáveis significativas (p<0.05): 135
+
+================================================================================
+
+RESULTADOS DETALHADOS (ordenados por significância e força de associação)
+
+Variável: k25_mamadeira
+Tipo: Categórica nominal
+Valor p: 3.3165134843754347e-189
+Significância: Significativa
+Força de associação: 0.6815033057853606
+Classificação da força: Forte
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: k18_somente
+Tipo: Numérica discreta
+Valor p: 6.249734762952265e-198
+Significância: Significativa
+Força de associação: 0.6177297997474813
+Classificação da força: Relativamente forte
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: b05a_idade_em_meses
+Tipo: Categórica nominal
+Valor p: 1.3394338808943327e-50
+Significância: Significativa
+Força de associação: 0.3489450980867546
+Classificação da força: Relativamente forte
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: s00d_idade_peso
+Tipo: Numérica discreta
+Valor p: 6.841587085680485e-55
+Significância: Significativa
+Força de associação: 0.3419939536428373
+Classificação da força: Moderada
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: s00f_idade_altura
+Tipo: Numérica discreta
+Valor p: 6.841587085680485e-55
+Significância: Significativa
+Força de associação: 0.3419939536428373
+Classificação da força: Moderada
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: i000c_idade_em_meses
+Tipo: Categórica ordinal
+Valor p: 1.1021443826366166e-42
+Significância: Significativa
+Força de associação: 0.323091782097303
+Classificação da força: Relativamente forte
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: k14_ainda
+Tipo: Categórica nominal
+Valor p: 2.5571994066972763e-40
+Significância: Significativa
+Força de associação: 0.3060263114816385
+Classificação da força: Relativamente forte
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: s02_peso_medida1
+Tipo: Numérica contínua
+Valor p: 1.8089494149112492e-38
+Significância: Significativa
+Força de associação: 0.28696366433759923
+Classificação da força: Fraca
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: s07_altura_medida1
+Tipo: Numérica contínua
+Valor p: 8.939653744980196e-38
+Significância: Significativa
+Força de associação: 0.2843549937317513
+Classificação da força: Fraca
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: h05_chupeta_usou
+Tipo: Categórica nominal
+Valor p: 1.818427240635287e-29
+Significância: Significativa
+Força de associação: 0.26434337667012014
+Classificação da força: Moderada
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: k24_utilizou
+Tipo: Categórica nominal
+Valor p: 2.9643584494529163e-10
+Significância: Significativa
+Força de associação: 0.22496400966777527
+Classificação da força: Moderada
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: s03_peso_medida2
+Tipo: Numérica contínua
+Valor p: 1.3748448952291843e-21
+Significância: Significativa
+Força de associação: 0.21408470042487698
+Classificação da força: Fraca
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: vd_supl1_com_ferro_indep_nutrisus
+Tipo: Categórica nominal
+Valor p: 1.2358810253474239e-13
+Significância: Significativa
+Força de associação: 0.17123793074198
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitd
+Tipo: Categórica nominal
+Valor p: 1.314874434185321e-13
+Significância: Significativa
+Força de associação: 0.17105313539559555
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_ferro
+Tipo: Categórica nominal
+Valor p: 1.4609325367622485e-13
+Significância: Significativa
+Força de associação: 0.1707385041028009
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_somente_ferro
+Tipo: Categórica nominal
+Valor p: 4.1585074627725504e-13
+Significância: Significativa
+Força de associação: 0.1675818061462795
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_num_supl
+Tipo: Categórica ordinal
+Valor p: 3.3968613153694395e-12
+Significância: Significativa
+Força de associação: 0.1651500533783334
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_somente_vita
+Tipo: Categórica nominal
+Valor p: 2.163746872467619e-12
+Significância: Significativa
+Força de associação: 0.1624803785457613
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_ferro_nao_sus
+Tipo: Categórica nominal
+Valor p: 2.310526609699532e-12
+Significância: Significativa
+Força de associação: 0.16227404490586428
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_vita_sus
+Tipo: Categórica nominal
+Valor p: 3.304114556501096e-12
+Significância: Significativa
+Força de associação: 0.16114492335059513
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_somente_vitsad
+Tipo: Categórica nominal
+Valor p: 5.461682228181976e-12
+Significância: Significativa
+Força de associação: 0.159544912732107
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_exclusivamente_ferro
+Tipo: Categórica nominal
+Valor p: 3.443531152291565e-11
+Significância: Significativa
+Força de associação: 0.15354059986473864
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitc
+Tipo: Categórica nominal
+Valor p: 4.225738794609628e-11
+Significância: Significativa
+Força de associação: 0.15285854565924983
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_exclusivamente_vitd
+Tipo: Categórica nominal
+Valor p: 4.584717653567416e-11
+Significância: Significativa
+Força de associação: 0.15258602198987792
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: h17_nariz
+Tipo: Categórica nominal
+Valor p: 1.287792341807152e-11
+Significância: Significativa
+Força de associação: 0.1512791288940502
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb3
+Tipo: Categórica nominal
+Valor p: 7.225513915479016e-11
+Significância: Significativa
+Força de associação: 0.15105655807444623
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb6
+Tipo: Categórica nominal
+Valor p: 8.744376048806875e-11
+Significância: Significativa
+Força de associação: 0.15041043244747498
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_vita_indep_mega_nutrisus
+Tipo: Categórica nominal
+Valor p: 1.0616973341313684e-10
+Significância: Significativa
+Força de associação: 0.14975043831439896
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: h14_tosse
+Tipo: Categórica nominal
+Valor p: 1.0840300881722041e-10
+Significância: Significativa
+Força de associação: 0.14967946192269588
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais
+Tipo: Categórica nominal
+Valor p: 1.2737406473872796e-10
+Significância: Significativa
+Força de associação: 0.14912844698278033
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb5
+Tipo: Categórica nominal
+Valor p: 1.343785130545228e-10
+Significância: Significativa
+Força de associação: 0.14894509360867558
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitk
+Tipo: Categórica nominal
+Valor p: 1.5716955179750576e-10
+Significância: Significativa
+Força de associação: 0.14840720130479554
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_abcde
+Tipo: Categórica nominal
+Valor p: 1.7412781249276628e-10
+Significância: Significativa
+Força de associação: 0.1480543429817412
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multi_sem_com_minerais
+Tipo: Categórica nominal
+Valor p: 1.753075606313049e-10
+Significância: Significativa
+Força de associação: 0.14803106031319851
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb1
+Tipo: Categórica nominal
+Valor p: 2.0862460161683857e-10
+Significância: Significativa
+Força de associação: 0.14742984324599193
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb2
+Tipo: Categórica nominal
+Valor p: 2.0862460161683857e-10
+Significância: Significativa
+Força de associação: 0.14742984324599193
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_somente_vitd
+Tipo: Categórica nominal
+Valor p: 2.101945976065444e-10
+Significância: Significativa
+Força de associação: 0.14740388218104408
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_sobreposicao
+Tipo: Categórica nominal
+Valor p: 2.427143308993089e-10
+Significância: Significativa
+Força de associação: 0.14690487524032061
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_somente_vitc
+Tipo: Categórica nominal
+Valor p: 2.9410110009654256e-10
+Significância: Significativa
+Força de associação: 0.1462360581730548
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_exclusivamente_vita
+Tipo: Categórica nominal
+Valor p: 3.1293283284079213e-10
+Significância: Significativa
+Força de associação: 0.14601924784988599
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_ferro_sus
+Tipo: Categórica nominal
+Valor p: 3.775526985598862e-10
+Significância: Significativa
+Força de associação: 0.14536151580580617
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb7
+Tipo: Categórica nominal
+Valor p: 5.134717718450401e-10
+Significância: Significativa
+Força de associação: 0.14427768341690608
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb12
+Tipo: Categórica nominal
+Valor p: 5.26982189923471e-10
+Significância: Significativa
+Força de associação: 0.14418576443411055
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vite
+Tipo: Categórica nominal
+Valor p: 5.578157247435609e-10
+Significância: Significativa
+Força de associação: 0.14398431397927516
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_bc_cipro
+Tipo: Categórica nominal
+Valor p: 6.909807048884203e-10
+Significância: Significativa
+Força de associação: 0.14322331801392377
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_cipro
+Tipo: Categórica nominal
+Valor p: 6.909807048884203e-10
+Significância: Significativa
+Força de associação: 0.14322331801392377
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_bc
+Tipo: Categórica nominal
+Valor p: 6.909807048884203e-10
+Significância: Significativa
+Força de associação: 0.14322331801392377
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_vita_nao_sus
+Tipo: Categórica nominal
+Valor p: 7.739410512220221e-10
+Significância: Significativa
+Força de associação: 0.14281863312709633
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_b
+Tipo: Categórica nominal
+Valor p: 7.739410512220221e-10
+Significância: Significativa
+Força de associação: 0.14281863312709633
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb9
+Tipo: Categórica nominal
+Valor p: 8.716434290566133e-10
+Significância: Significativa
+Força de associação: 0.14239307944491134
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_ade
+Tipo: Categórica nominal
+Valor p: 9.115639629402805e-10
+Significância: Significativa
+Força de associação: 0.14223245232712506
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_manganes
+Tipo: Categórica nominal
+Valor p: 1.0580111615521188e-09
+Significância: Significativa
+Força de associação: 0.1416967464588953
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_fosforo
+Tipo: Categórica nominal
+Valor p: 1.0580111615521188e-09
+Significância: Significativa
+Força de associação: 0.1416967464588953
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_cromo
+Tipo: Categórica nominal
+Valor p: 1.0580111615521188e-09
+Significância: Significativa
+Força de associação: 0.1416967464588953
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_outros_supl
+Tipo: Categórica nominal
+Valor p: 1.0580111615521188e-09
+Significância: Significativa
+Força de associação: 0.1416967464588953
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_abcd
+Tipo: Categórica nominal
+Valor p: 1.0580111615521188e-09
+Significância: Significativa
+Força de associação: 0.1416967464588953
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_outros
+Tipo: Categórica nominal
+Valor p: 1.0580111615521188e-09
+Significância: Significativa
+Força de associação: 0.1416967464588953
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_com_minerais_bcferro
+Tipo: Categórica nominal
+Valor p: 1.0580111615521188e-09
+Significância: Significativa
+Força de associação: 0.1416967464588953
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_exclusivamente_vitc
+Tipo: Categórica nominal
+Valor p: 1.1019142056493856e-09
+Significância: Significativa
+Força de associação: 0.14155019972559366
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_suplemento
+Tipo: Categórica nominal
+Valor p: 2.3716893301542283e-10
+Significância: Significativa
+Força de associação: 0.14133676641652299
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_molibdenio
+Tipo: Categórica nominal
+Valor p: 2.3716893301542283e-10
+Significância: Significativa
+Força de associação: 0.14133676641652299
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_somente_zinco
+Tipo: Categórica nominal
+Valor p: 2.3716893301542283e-10
+Significância: Significativa
+Força de associação: 0.14133676641652299
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb8
+Tipo: Categórica nominal
+Valor p: 2.3716893301542283e-10
+Significância: Significativa
+Força de associação: 0.14133676641652299
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_abcdek
+Tipo: Categórica nominal
+Valor p: 2.3716893301542283e-10
+Significância: Significativa
+Força de associação: 0.14133676641652299
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_selenio
+Tipo: Categórica nominal
+Valor p: 1.2081023748578597e-09
+Significância: Significativa
+Força de associação: 0.14121802829363128
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_cobre
+Tipo: Categórica nominal
+Valor p: 1.2081023748578597e-09
+Significância: Significativa
+Força de associação: 0.14121802829363128
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_iodo
+Tipo: Categórica nominal
+Valor p: 1.3515040820551252e-09
+Significância: Significativa
+Força de associação: 0.14081199049705823
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_zinco
+Tipo: Categórica nominal
+Valor p: 1.3587224067883946e-09
+Significância: Significativa
+Força de associação: 0.1407926789230002
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_magnesio
+Tipo: Categórica nominal
+Valor p: 1.3814940918438786e-09
+Significância: Significativa
+Força de associação: 0.14073240508296253
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_com_minerais
+Tipo: Categórica nominal
+Valor p: 1.3863292023328597e-09
+Significância: Significativa
+Força de associação: 0.14071973178625574
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_vita
+Tipo: Categórica nominal
+Valor p: 1.3871199928582505e-09
+Significância: Significativa
+Força de associação: 0.14071766314529102
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_supl1_com_calcio
+Tipo: Categórica nominal
+Valor p: 1.4135885323335604e-09
+Significância: Significativa
+Força de associação: 0.1406490783412671
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: k245_utilizou_mamadeira
+Tipo: Categórica nominal
+Valor p: 1.9626227698021034e-09
+Significância: Significativa
+Força de associação: 0.13660895748327823
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: k16_liquido
+Tipo: Categórica nominal
+Valor p: 1.1376448973276158e-08
+Significância: Significativa
+Força de associação: 0.13577226151094401
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: g150_vitaminas
+Tipo: Categórica nominal
+Valor p: 1.7409250154159524e-08
+Significância: Significativa
+Força de associação: 0.13122020538531162
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: k17_alimento
+Tipo: Categórica nominal
+Valor p: 3.6475907834343574e-05
+Significância: Significativa
+Força de associação: 0.121554344392668
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: a00_regiao
+Tipo: Categórica nominal
+Valor p: 2.1339029938338203e-06
+Significância: Significativa
+Força de associação: 0.11905233347040214
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: h18_ronqueira
+Tipo: Categórica nominal
+Valor p: 3.763488958498263e-07
+Significância: Significativa
+Força de associação: 0.11866297149992792
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: k13_tempo_medida
+Tipo: Categórica nominal
+Valor p: 2.015378290724774e-07
+Significância: Significativa
+Força de associação: 0.11776566718849119
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: h19_febre
+Tipo: Categórica nominal
+Valor p: 5.016166237483712e-07
+Significância: Significativa
+Força de associação: 0.11742047480426475
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: h216_internado_nao
+Tipo: Categórica nominal
+Valor p: 2.5945291347287567e-07
+Significância: Significativa
+Força de associação: 0.1141577598572192
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: posestrato
+Tipo: Categórica nominal
+Valor p: 0.00010270496731109335
+Significância: Significativa
+Força de associação: 0.11217168199292867
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_suplemento_sus
+Tipo: Categórica nominal
+Valor p: 7.176996110020363e-07
+Significância: Significativa
+Força de associação: 0.10968074285368647
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: h15_respiracao
+Tipo: Categórica nominal
+Valor p: 1.2833114710090887e-06
+Significância: Significativa
+Força de associação: 0.10704526011938745
+Classificação da força: Fraca
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: b06_numero_mae
+Tipo: Numérica discreta
+Valor p: 3.5387246099831125e-06
+Significância: Significativa
+Força de associação: 0.1045140042488785
+Classificação da força: Fraca
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: vd_suplemento_comercial
+Tipo: Categórica nominal
+Valor p: 6.247772672923748e-06
+Significância: Significativa
+Força de associação: 0.09954015852823751
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: estrato_sel_anon
+Tipo: Numérica discreta
+Valor p: 1.8488248153785535e-05
+Significância: Significativa
+Força de associação: 0.09656519216932544
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: g001_usou
+Tipo: Categórica nominal
+Valor p: 2.2186692862658195e-05
+Significância: Significativa
+Força de associação: 0.09313117770986298
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: f001_esta_usando
+Tipo: Categórica nominal
+Valor p: 2.6268227828349007e-05
+Significância: Significativa
+Força de associação: 0.09224636033394183
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: k23_deixou
+Tipo: Categórica nominal
+Valor p: 0.0001372902276000902
+Significância: Significativa
+Força de associação: 0.0917310580535558
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_zwaz
+Tipo: Numérica contínua
+Valor p: 5.547295407676216e-05
+Significância: Significativa
+Força de associação: 0.09092675856585966
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: k15_recebeu
+Tipo: Categórica nominal
+Valor p: 0.00016131427733822752
+Significância: Significativa
+Força de associação: 0.09078915574008442
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: k248_utilizou_nao
+Tipo: Categórica nominal
+Valor p: 9.440351358365335e-05
+Significância: Significativa
+Força de associação: 0.0871392315865553
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: p02_tipo_de_domicilio
+Tipo: Categórica nominal
+Valor p: 0.0019907268977195393
+Significância: Significativa
+Força de associação: 0.0812489052921914
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: r09_microcomputador
+Tipo: Categórica nominal
+Valor p: 0.00028816422524811436
+Significância: Significativa
+Força de associação: 0.0787384391419273
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: s08_altura_medida2
+Tipo: Numérica contínua
+Valor p: 0.000665083329803937
+Significância: Significativa
+Força de associação: 0.07726841939116011
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: k28_aleitamento
+Tipo: Categórica nominal
+Valor p: 0.006783793526800086
+Significância: Significativa
+Força de associação: 0.0736058388172847
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: h16_canseira
+Tipo: Categórica nominal
+Valor p: 0.0007598548381770077
+Significância: Significativa
+Força de associação: 0.07263827327762883
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_prematura_igb
+Tipo: Categórica nominal
+Valor p: 0.0008669207846958896
+Significância: Significativa
+Força de associação: 0.07177357004112912
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: l04_morador_insuficiente
+Tipo: Categórica nominal
+Valor p: 0.0009073636081512504
+Significância: Significativa
+Força de associação: 0.07147232795657732
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: p08_banheiros_exclusivo
+Tipo: Categórica ordinal
+Valor p: 0.014421875485122328
+Significância: Significativa
+Força de associação: 0.07099998839759959
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: n01_frutas
+Tipo: Categórica nominal
+Valor p: 0.007793477365718284
+Significância: Significativa
+Força de associação: 0.07089738516818271
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: l03_morador_saudavel
+Tipo: Categórica nominal
+Valor p: 0.0010781635093383192
+Significância: Significativa
+Força de associação: 0.0703225738119623
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: r07_micro_ondas
+Tipo: Categórica nominal
+Valor p: 0.0012100543259839808
+Significância: Significativa
+Força de associação: 0.06954391309264471
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: k12_tempo
+Tipo: Numérica discreta
+Valor p: 0.0026645435957661358
+Significância: Significativa
+Força de associação: 0.06930025941172746
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: p05_comodos
+Tipo: Numérica discreta
+Valor p: 0.002181721867809668
+Significância: Significativa
+Força de associação: 0.06917692812763467
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: r02_automoveis
+Tipo: Categórica nominal
+Valor p: 0.010469708401735252
+Significância: Significativa
+Força de associação: 0.06841372698776477
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: h13_diarreia
+Tipo: Categórica nominal
+Valor p: 0.005499122701024777
+Significância: Significativa
+Força de associação: 0.06550278578298119
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_ebia_escore
+Tipo: Numérica discreta
+Valor p: 0.0039046693582071934
+Significância: Significativa
+Força de associação: 0.06515502443787904
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: l02_morador_alim_acabaram
+Tipo: Categórica nominal
+Valor p: 0.002285575411956144
+Significância: Significativa
+Força de associação: 0.06510785555114126
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: d02_matriculado
+Tipo: Categórica nominal
+Valor p: 0.010432297117651443
+Significância: Significativa
+Força de associação: 0.06490162356717574
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: h02_peso
+Tipo: Numérica discreta
+Valor p: 0.005062721159332062
+Significância: Significativa
+Força de associação: 0.06329056490590007
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: k243_utilizou_bico
+Tipo: Categórica nominal
+Valor p: 0.0038961557676666678
+Significância: Significativa
+Força de associação: 0.06251250751591846
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_zhaz
+Tipo: Numérica contínua
+Valor p: 0.006036834982213207
+Significância: Significativa
+Força de associação: 0.06200059099413109
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: k242_utilizou_protetor
+Tipo: Categórica nominal
+Valor p: 0.004170126692380584
+Significância: Significativa
+Força de associação: 0.061984243335211714
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: r11_tv_a_cabo
+Tipo: Categórica nominal
+Valor p: 0.003937458323687877
+Significância: Significativa
+Força de associação: 0.06109401525236893
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: r06_lavadora
+Tipo: Categórica nominal
+Valor p: 0.004659723645333691
+Significância: Significativa
+Força de associação: 0.059804330811726224
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: j06_ocupacao
+Tipo: Categórica nominal
+Valor p: 0.020405273135919517
+Significância: Significativa
+Força de associação: 0.05888186754459941
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: r12_internet_domicilio
+Tipo: Categórica nominal
+Valor p: 0.014534134940288785
+Significância: Significativa
+Força de associação: 0.057431368275277214
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: vd_zimc
+Tipo: Numérica contínua
+Valor p: 0.016280653855311508
+Significância: Significativa
+Força de associação: 0.05679661300686599
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: t05_altura_medida1
+Tipo: Numérica contínua
+Valor p: 0.01472294144836657
+Significância: Significativa
+Força de associação: 0.05539920195005455
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: k244_utilizou_bomba
+Tipo: Categórica nominal
+Valor p: 0.010200044840159654
+Significância: Significativa
+Força de associação: 0.05463139736471786
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: q06_renda
+Tipo: Numérica discreta
+Valor p: 0.015863915279778068
+Significância: Significativa
+Força de associação: 0.05447653025999534
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: o01_frutas_comprar
+Tipo: Categórica nominal
+Valor p: 0.048294352874556086
+Significância: Significativa
+Força de associação: 0.05332092401856061
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: n02_legumes
+Tipo: Categórica nominal
+Valor p: 0.04852735927264207
+Significância: Significativa
+Força de associação: 0.05326518303355652
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: h04_parto
+Tipo: Categórica nominal
+Valor p: 0.02301094920957918
+Significância: Significativa
+Força de associação: 0.05319093465712143
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: i000d_data_ajustada
+Tipo: Numérica discreta
+Valor p: 0.02072813850444147
+Significância: Significativa
+Força de associação: 0.05224073800180652
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: b05_data
+Tipo: Numérica discreta
+Valor p: 0.025410563153823257
+Significância: Significativa
+Força de associação: 0.05048585087697034
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: x06_total_pessoas
+Tipo: Numérica discreta
+Valor p: 0.033183952927009576
+Significância: Significativa
+Força de associação: 0.048111253479636906
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: vd_anthro_zwfl
+Tipo: Numérica contínua
+Valor p: 0.042744550352699404
+Significância: Significativa
+Força de associação: 0.0479239080639773
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: j04_vive
+Tipo: Categórica nominal
+Valor p: 0.022855965279958024
+Significância: Significativa
+Força de associação: 0.046186416913973134
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: s39a_medida1_altura_refeita
+Tipo: Categórica nominal
+Valor p: 0.024680703253369782
+Significância: Significativa
+Força de associação: 0.045443993882897805
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: r08_telefone_fixo
+Tipo: Categórica nominal
+Valor p: 0.026541300499658967
+Significância: Significativa
+Força de associação: 0.04473217431430445
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: l05_adulto_saltou_refeicao
+Tipo: Categórica nominal
+Valor p: 0.02757306032964459
+Significância: Significativa
+Força de associação: 0.04435491850310026
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: j0503_rel_evangelica_pentecostal
+Tipo: Categórica nominal
+Valor p: 0.041053869173950576
+Significância: Significativa
+Força de associação: 0.04024732303277971
+Classificação da força: Negligenciável
+Método utilizado: Cramer's V
+--------------------------------------------------
+
+Variável: bbb08a_numero_mais_velho1
+Tipo: Numérica discreta
+Valor p: 0.08890975562869104
+Significância: Não significativa
+Força de associação: 0.0384359929787217
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: k04_prenatal_semanas
+Tipo: Numérica discreta
+Valor p: 0.5226855354580593
+Significância: Não significativa
+Força de associação: 0.014719992315621877
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: t06_altura_medida2
+Tipo: Numérica contínua
+Valor p: 0.6578017566012304
+Significância: Não significativa
+Força de associação: 0.010068094878535917
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+
+Variável: k05_prenatal_consultas
+Tipo: Numérica discreta
+Valor p: 0.9782468757704527
+Significância: Não significativa
+Força de associação: 0.0006279456729520287
+Classificação da força: Negligenciável
+Método utilizado: Point-Biserial Correlation
+--------------------------------------------------
+

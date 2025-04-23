@@ -1,0 +1,190 @@
+RESUMO DA ANÁLISE ESTATÍSTICA - ASSOCIAÇÃO COM ALEITAMENTO MATERNO EXCLUSIVO
+================================================================================
+
+1. VISÃO GERAL
+--------------------------------------------------
+
+Total de variáveis analisadas: 139
+Variáveis com associação significativa (p<0.05): 135
+Porcentagem de variáveis significativas: 97.1%
+
+2. DISTRIBUIÇÃO POR CLASSIFICAÇÃO DE FORÇA
+--------------------------------------------------
+
+Forte: 1 variáveis (0.7%)
+Relativamente forte: 4 variáveis (3.0%)
+Moderada: 4 variáveis (3.0%)
+Fraca: 76 variáveis (56.3%)
+Negligenciável: 50 variáveis (37.0%)
+Não calculável: 0 variáveis (0.0%)
+
+3. TOP 20 VARIÁVEIS MAIS FORTEMENTE ASSOCIADAS
+--------------------------------------------------
+
+1. k25_mamadeira
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.6815
+   Classificação: Forte
+   Método utilizado: Cramer's V
+
+2. k18_somente
+   Tipo: Numérica discreta
+   Valor p: 0.00000000
+   Força de associação: 0.6177
+   Classificação: Relativamente forte
+   Método utilizado: Point-Biserial Correlation
+
+3. b05a_idade_em_meses
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.3489
+   Classificação: Relativamente forte
+   Método utilizado: Cramer's V
+
+4. s00d_idade_peso
+   Tipo: Numérica discreta
+   Valor p: 0.00000000
+   Força de associação: 0.3420
+   Classificação: Moderada
+   Método utilizado: Point-Biserial Correlation
+
+5. s00f_idade_altura
+   Tipo: Numérica discreta
+   Valor p: 0.00000000
+   Força de associação: 0.3420
+   Classificação: Moderada
+   Método utilizado: Point-Biserial Correlation
+
+6. i000c_idade_em_meses
+   Tipo: Categórica ordinal
+   Valor p: 0.00000000
+   Força de associação: 0.3231
+   Classificação: Relativamente forte
+   Método utilizado: Cramer's V
+
+7. k14_ainda
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.3060
+   Classificação: Relativamente forte
+   Método utilizado: Cramer's V
+
+8. s02_peso_medida1
+   Tipo: Numérica contínua
+   Valor p: 0.00000000
+   Força de associação: 0.2870
+   Classificação: Fraca
+   Método utilizado: Point-Biserial Correlation
+
+9. s07_altura_medida1
+   Tipo: Numérica contínua
+   Valor p: 0.00000000
+   Força de associação: 0.2844
+   Classificação: Fraca
+   Método utilizado: Point-Biserial Correlation
+
+10. h05_chupeta_usou
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.2643
+   Classificação: Moderada
+   Método utilizado: Cramer's V
+
+11. k24_utilizou
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.2250
+   Classificação: Moderada
+   Método utilizado: Cramer's V
+
+12. s03_peso_medida2
+   Tipo: Numérica contínua
+   Valor p: 0.00000000
+   Força de associação: 0.2141
+   Classificação: Fraca
+   Método utilizado: Point-Biserial Correlation
+
+13. vd_supl1_com_ferro_indep_nutrisus
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1712
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+14. vd_supl1_com_vitd
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1711
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+15. vd_supl1_com_ferro
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1707
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+16. vd_supl1_somente_ferro
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1676
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+17. vd_num_supl
+   Tipo: Categórica ordinal
+   Valor p: 0.00000000
+   Força de associação: 0.1652
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+18. vd_supl1_somente_vita
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1625
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+19. vd_supl1_ferro_nao_sus
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1623
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+20. vd_supl1_vita_sus
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1611
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+4. MÉTODOS ESTATÍSTICOS UTILIZADOS
+--------------------------------------------------
+
+Cramer's V: 113 variáveis (83.7%)
+Point-Biserial Correlation: 22 variáveis (16.3%)
+
+5. DISTRIBUIÇÃO POR TIPO DE VARIÁVEL
+--------------------------------------------------
+
+Categórica nominal: 110 variáveis (79.1%)
+Numérica discreta: 16 variáveis (11.5%)
+Numérica contínua: 10 variáveis (7.2%)
+Categórica ordinal: 3 variáveis (2.2%)
+
+6. CONCLUSÕES PRINCIPAIS
+--------------------------------------------------
+
+Foram identificadas 5 variáveis com associação forte ou relativamente forte.
+
+As principais variáveis associadas ao aleitamento materno exclusivo são:
+1. k25_mamadeira (Forte, força = 0.6815)
+2. k18_somente (Relativamente forte, força = 0.6177)
+3. b05a_idade_em_meses (Relativamente forte, força = 0.3489)
+4. i000c_idade_em_meses (Relativamente forte, força = 0.3231)
+5. k14_ainda (Relativamente forte, força = 0.3060)
+
+Estas variáveis devem ser consideradas prioritárias para análise e intervenções relacionadas ao aleitamento materno exclusivo.
