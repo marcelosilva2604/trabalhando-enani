@@ -1,0 +1,323 @@
+RESUMO DA ANÁLISE ESTATÍSTICA - ASSOCIAÇÃO COM ALEITAMENTO MATERNO EXCLUSIVO
+================================================================================
+
+1. VISÃO GERAL
+--------------------------------------------------
+
+Total de variáveis analisadas: 139
+Variáveis com associação significativa (p<0.05): 135
+Porcentagem de variáveis significativas: 97.1%
+
+2. DISTRIBUIÇÃO POR CLASSIFICAÇÃO DE FORÇA
+--------------------------------------------------
+
+Forte: 1 variáveis (0.7%)
+Relativamente forte: 4 variáveis (3.0%)
+Moderada: 4 variáveis (3.0%)
+Fraca: 76 variáveis (56.3%)
+Negligenciável: 50 variáveis (37.0%)
+Não calculável: 0 variáveis (0.0%)
+
+3. TOP 20 VARIÁVEIS MAIS FORTEMENTE ASSOCIADAS
+--------------------------------------------------
+
+1. k25_mamadeira
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.6815
+   Classificação: Forte
+   Método utilizado: Cramer's V
+
+2. k18_somente
+   Tipo: Numérica discreta
+   Valor p: 0.00000000
+   Força de associação: 0.6177
+   Classificação: Relativamente forte
+   Método utilizado: Point-Biserial Correlation
+
+3. b05a_idade_em_meses
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.3489
+   Classificação: Relativamente forte
+   Método utilizado: Cramer's V
+
+4. s00d_idade_peso
+   Tipo: Numérica discreta
+   Valor p: 0.00000000
+   Força de associação: 0.3420
+   Classificação: Moderada
+   Método utilizado: Point-Biserial Correlation
+
+5. s00f_idade_altura
+   Tipo: Numérica discreta
+   Valor p: 0.00000000
+   Força de associação: 0.3420
+   Classificação: Moderada
+   Método utilizado: Point-Biserial Correlation
+
+6. i000c_idade_em_meses
+   Tipo: Categórica ordinal
+   Valor p: 0.00000000
+   Força de associação: 0.3231
+   Classificação: Relativamente forte
+   Método utilizado: Cramer's V
+
+7. k14_ainda
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.3060
+   Classificação: Relativamente forte
+   Método utilizado: Cramer's V
+
+8. s02_peso_medida1
+   Tipo: Numérica contínua
+   Valor p: 0.00000000
+   Força de associação: 0.2870
+   Classificação: Fraca
+   Método utilizado: Point-Biserial Correlation
+
+9. s07_altura_medida1
+   Tipo: Numérica contínua
+   Valor p: 0.00000000
+   Força de associação: 0.2844
+   Classificação: Fraca
+   Método utilizado: Point-Biserial Correlation
+
+10. h05_chupeta_usou
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.2643
+   Classificação: Moderada
+   Método utilizado: Cramer's V
+
+11. k24_utilizou
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.2250
+   Classificação: Moderada
+   Método utilizado: Cramer's V
+
+12. s03_peso_medida2
+   Tipo: Numérica contínua
+   Valor p: 0.00000000
+   Força de associação: 0.2141
+   Classificação: Fraca
+   Método utilizado: Point-Biserial Correlation
+
+13. vd_supl1_com_ferro_indep_nutrisus
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1712
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+14. vd_supl1_com_vitd
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1711
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+15. vd_supl1_com_ferro
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1707
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+16. vd_supl1_somente_ferro
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1676
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+17. vd_num_supl
+   Tipo: Categórica ordinal
+   Valor p: 0.00000000
+   Força de associação: 0.1652
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+18. vd_supl1_somente_vita
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1625
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+19. vd_supl1_ferro_nao_sus
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1623
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+20. vd_supl1_vita_sus
+   Tipo: Categórica nominal
+   Valor p: 0.00000000
+   Força de associação: 0.1611
+   Classificação: Fraca
+   Método utilizado: Cramer's V
+
+4. MÉTODOS ESTATÍSTICOS UTILIZADOS
+--------------------------------------------------
+
+Cramer's V: 113 variáveis (83.7%)
+Point-Biserial Correlation: 22 variáveis (16.3%)
+
+5. DISTRIBUIÇÃO POR TIPO DE VARIÁVEL
+--------------------------------------------------
+
+Categórica nominal: 110 variáveis (79.1%)
+Numérica discreta: 16 variáveis (11.5%)
+Numérica contínua: 10 variáveis (7.2%)
+Categórica ordinal: 3 variáveis (2.2%)
+
+6. CONCLUSÕES PRINCIPAIS
+--------------------------------------------------
+
+Foram identificadas 5 variáveis com associação forte ou relativamente forte.
+
+As principais variáveis associadas ao aleitamento materno exclusivo são:
+1. k25_mamadeira (Forte, força = 0.6815)
+2. k18_somente (Relativamente forte, força = 0.6177)
+3. b05a_idade_em_meses (Relativamente forte, força = 0.3489)
+4. i000c_idade_em_meses (Relativamente forte, força = 0.3231)
+5. k14_ainda (Relativamente forte, força = 0.3060)
+
+Estas variáveis devem ser consideradas prioritárias para análise e intervenções relacionadas ao aleitamento materno exclusivo.
+
+================================================================================
+
+7. SIGNIFICADO DAS VARIÁVEIS IMPORTANTES
+--------------------------------------------------
+
+Variável: vd_supl1_somente_vita
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente Vit A nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+Variável: k24_utilizou
+Significado: Desde que amamenta a criança utilizou
+Valores possíveis:
+  A: Concha de amamentação
+  B: Protetor de mamilo
+  C: Bico de silicone
+  D: Bomba tira-leite
+  E: Mamadeira ou chuquinha
+  (mais valores...)
+
+Variável: b05a_idade_em_meses
+Significado: Idade em meses da criança
+Valores possíveis:
+  0: 0 meses
+  1: 1 mês
+  2: 2 meses
+  3: 3 meses
+  4: 4 meses
+  (mais valores...)
+
+Variável: k18_somente
+Significado: Durante quanto tempo deu somente leite do peito para a criança, sem água, chá, suco ou outros alimentos
+Valores possíveis:
+  nsa: nsa
+  88: Ainda está amamentando exclusivamente
+
+Variável: vd_num_supl
+Significado: Quantidade de tipos de suplementos usados nos últimos 6 meses
+Valores possíveis:
+  nsa: nsa
+
+Variável: vd_supl1_ferro_nao_sus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro não adquirido no Serviço público de saúde  nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+Variável: vd_supl1_com_ferro_indep_nutrisus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro independente do uso de NUTRISUS nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+Variável: s00f_idade_altura
+Significado: Idade em dias da criança no dia da medida da altura
+Valores possíveis:
+  nsa: nsa
+
+Variável: vd_supl1_vita_sus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit A adquirido no Serviço público de saúde  nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+Variável: k25_mamadeira
+Significado: A criança usa ou já usou mamadeira
+Valores possíveis:
+  1: Não, nunca usou
+  2: Sim, já usou mas não usa mais
+  3: Sim, ainda usa
+  9: Não sabe/ não quis responder
+
+Variável: s07_altura_medida1
+Significado: Medida 1 da altura/comprimento da criança (cm)
+Valores possíveis:
+  nsa: nsa
+
+Variável: s00d_idade_peso
+Significado: Idade em dias da criança no dia da medida 1 do peso
+Valores possíveis:
+  nsa: nsa
+
+Variável: h05_chupeta_usou
+Significado: Desde o nascimento da criança até hoje, ele(ela)
+Valores possíveis:
+  1: Usa chupeta
+  2: Já usou chupeta, mas não usa mais
+  3: Recusou o uso de chupeta
+  4: Nunca usou porque nunca foi oferecido
+  9: Não sabe/ não quis responder
+
+Variável: vd_supl1_com_ferro
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+Variável: i000c_idade_em_meses
+Significado: Idade da criança em meses, recalculada
+Valores possíveis:
+  nsa: nsa
+
+Variável: vd_supl1_com_vitd
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit D nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+Variável: s02_peso_medida1
+Significado: Medida 1 do peso da criança (kg)
+Valores possíveis:
+  nsa: nsa
+
+Variável: vd_supl1_somente_ferro
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente ferro nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+Variável: s03_peso_medida2
+Significado: Medida 2 do peso da criança (kg)
+Valores possíveis:
+  nsa: nsa
+
+Variável: k14_ainda
+Significado: Você ainda está amamentando a criança
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+

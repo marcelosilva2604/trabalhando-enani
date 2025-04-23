@@ -1,0 +1,1264 @@
+DICIONÁRIO DE VARIÁVEIS DO DATASET - ENANI 2019
+================================================================================
+
+Variável: aleitamento_materno_exclusivo
+Significado: Significado não encontrado no dicionário ENANI
+Valores possíveis: Não especificados
+
+--------------------------------------------------
+
+Variável: a00_regiao
+Significado: Macrorregião
+Valores possíveis:
+  1: Norte
+  2: Nordeste
+  3: Sudeste
+  4: Sul
+  5: Centro-Oeste
+
+--------------------------------------------------
+
+Variável: b05_data
+Significado: Data de nascimento da criança
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: b05a_idade_em_meses
+Significado: Idade em meses da criança
+Valores possíveis:
+  0: 0 meses
+  1: 1 mês
+  2: 2 meses
+  3: 3 meses
+  4: 4 meses
+  5: 5 meses
+  6: 6 meses
+  7: 7 meses
+  8: 8 meses
+  9: 9 meses
+  10: 10 meses
+  11: 11 meses
+  12: 12 meses
+  13: 13 meses
+  14: 14 meses
+  15: 15 meses
+  16: 16 meses
+  17: 17 meses
+  18: 18 meses
+  19: 19 meses
+  20: 20 meses
+  21: 21 meses
+  22: 22 meses
+  23: 23 meses
+  24: 24 meses
+  25: 25 meses
+  26: 26 meses
+  27: 27 meses
+  28: 28 meses
+  29: 29 meses
+  30: 30 meses
+  31: 31 meses
+  32: 32 meses
+  33: 33 meses
+  34: 34 meses
+  35: 35 meses
+  36: 36 meses
+  37: 37 meses
+  38: 38 meses
+  39: 39 meses
+  40: 40 meses
+  41: 41 meses
+  42: 42 meses
+  43: 43 meses
+  44: 44 meses
+  45: 45 meses
+  46: 46 meses
+  47: 47 meses
+  48: 48 meses
+  49: 49 meses
+  50: 50 meses
+  51: 51 meses
+  52: 52 meses
+  53: 53 meses
+  54: 54 meses
+  55: 55 meses
+  56: 56 meses
+  57: 57 meses
+  58: 58 meses
+  59: 59 meses
+
+--------------------------------------------------
+
+Variável: b06_numero_mae
+Significado: Número da mãe biológica na lista de moradores
+Valores possíveis:
+  98: Criança adotada
+  99: Mãe não é moradora (ausente, faleceu, etc)
+
+--------------------------------------------------
+
+Variável: bbb08a_numero_mais_velho1
+Significado: Identificação do filho mais velho na lista de moradores
+Valores possíveis:
+  2 a 14: nsa
+
+--------------------------------------------------
+
+Variável: d02_matriculado
+Significado: A criança está matriculada em creche ou escola?
+Valores possíveis:
+  1: Sim, creche ou escola pública
+  2: Sim, creche ou escola particular
+  3: Não
+  4: Não, nunca frequentou
+
+--------------------------------------------------
+
+Variável: estrato_sel_anon
+Significado: estrato
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: f001_esta_usando
+Significado: A criança ESTÁ USANDO algum tipo de vitamina ou mineral
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: g001_usou
+Significado: A criança usou nos últimos 6 meses algum tipo de vitamina ou mineral
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: g150_vitaminas
+Significado: A criança recebeu, nos últimos 6 meses, no posto de saúde ou no dia da vacinação, uma dose de alguma dessas vitaminas?
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: h02_peso
+Significado: Peso ao nascer (em gramas) da criança
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: h04_parto
+Significado: Tipo de parto da criança
+Valores possíveis:
+  1: Normal
+  2: Cesariana agendada (eletiva)
+  3: Cesariana de urgência (não agendada)
+
+--------------------------------------------------
+
+Variável: h05_chupeta_usou
+Significado: Desde o nascimento da criança até hoje, ele(ela)
+Valores possíveis:
+  1: Usa chupeta
+  2: Já usou chupeta, mas não usa mais
+  3: Recusou o uso de chupeta
+  4: Nunca usou porque nunca foi oferecido
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: h13_diarreia
+Significado: A criança está ou esteve com diarreia nos últimos 15 dias
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: h14_tosse
+Significado: A criança está ou esteve com tosse nos últimos 15 dias
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: h15_respiracao
+Significado: A criança está ou esteve com respiração difícil nos últimos 15 dias
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: h16_canseira
+Significado: A criança está ou esteve com canseira, falta de ar nos últimos 15 dias
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: h17_nariz
+Significado: A criança está ou esteve com nariz entupido nos últimos 15 dias
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: h18_ronqueira
+Significado: A criança está ou esteve com ronqueira ou catarro nos últimos 15 dias
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: h19_febre
+Significado: A criança está ou esteve com febre nos últimos 15 dias
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: h216_internado_nao
+Significado: 
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: i000c_idade_em_meses
+Significado: Idade da criança em meses, recalculada
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: i000d_data_ajustada
+Significado: Data de nascimento ajustada
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: j04_vive
+Significado: A mãe/responsável vive com companheiro(a)
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: j0503_rel_evangelica_pentecostal
+Significado: Religião ou culto da mãe/ responsável
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: j06_ocupacao
+Significado: Principal situação de emprego atual da mãe/responsável
+Valores possíveis:
+  1: Trabalho regular ou com horário fixo
+  2: Trabalho irregular e sem horário fixo (bicos)
+  3: Desempregado e ativamente procurando por trabalho
+  4: Fora do mercado de trabalho ? não trabalha e não procura ativamente por trabalho
+
+--------------------------------------------------
+
+Variável: k04_prenatal_semanas
+Significado: Com quantas semanas de gravidez você iniciou o pré-natal da criança
+Valores possíveis:
+  nsa: nsa
+  99: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: k05_prenatal_consultas
+Significado: Quantas consultas de pré-natal teve durante a gravidez da criança
+Valores possíveis:
+  nsa: nsa
+  99: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: k12_tempo
+Significado: Quanto tempo depois do nascimento a criança foi colocada no peito pela primeira vez para mamar
+Valores possíveis:
+  0: < 1 hora
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: k13_tempo_medida
+Significado: Horas ou dias
+Valores possíveis:
+  1: Horas
+  2: Dias
+
+--------------------------------------------------
+
+Variável: k14_ainda
+Significado: Você ainda está amamentando a criança
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: k15_recebeu
+Significado: Durante sua permanência na maternidade a criança recebeu algum outro leite que não fosse o leite de peito
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: k16_liquido
+Significado: Nos primeiros dias após o parto, e antes que o seu leite estivesse descendo, foi dado algum outro líquido para a criança beber que não fosse leite materno
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: k17_alimento
+Significado: Alimento que foi dado para a criança beber antes que o seu leite descesse
+Valores possíveis:
+  A: Leite líquido (de vaca, cabra, soja, arroz)
+  B: Fórmulas infantis (Exemplos: Nan, Nestogeno, Aptamil, Enfamil)
+  C: Chá
+  D: Água
+  E: Água com açúcar
+  F: Outro
+  G: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: k18_somente
+Significado: Durante quanto tempo deu somente leite do peito para a criança, sem água, chá, suco ou outros alimentos
+Valores possíveis:
+  nsa: nsa
+  88: Ainda está amamentando exclusivamente
+
+--------------------------------------------------
+
+Variável: k23_deixou
+Significado: Desde que amamenta a criança deixou seu filho ser amamentado por outra mulher
+Valores possíveis:
+  1: Sim
+  2: Não
+  9: Não sabe/não quis responder
+
+--------------------------------------------------
+
+Variável: k24_utilizou
+Significado: Desde que amamenta a criança utilizou
+Valores possíveis:
+  A: Concha de amamentação
+  B: Protetor de mamilo
+  C: Bico de silicone
+  D: Bomba tira-leite
+  E: Mamadeira ou chuquinha
+  F: Sondinha
+  G: Copo
+  H: Não utilizou nenhum dos utensílios listados
+  I: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: k242_utilizou_protetor
+Significado: 
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: k243_utilizou_bico
+Significado: 
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: k244_utilizou_bomba
+Significado: 
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: k245_utilizou_mamadeira
+Significado: 
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: k248_utilizou_nao
+Significado: 
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: k25_mamadeira
+Significado: A criança usa ou já usou mamadeira
+Valores possíveis:
+  1: Não, nunca usou
+  2: Sim, já usou mas não usa mais
+  3: Sim, ainda usa
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: k28_aleitamento
+Significado: Você acessa ou acessou a internet para buscar informações sobre aleitamento materno
+Valores possíveis:
+  1: Muito
+  2: Mais ou menos
+  3: Pouco
+  4: Não
+  9: Não sabe/ não quis responder
+
+--------------------------------------------------
+
+Variável: l02_morador_alim_acabaram
+Significado: EBIA_Os alimentos acabaram antes que os moradores tivessem dinheiro para comprar mais comida
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: l03_morador_saudavel
+Significado: EBIA_Os moradores ficaram sem dinheiro para ter uma alimentação saudável e variada
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: l04_morador_insuficiente
+Significado: EBIA_Os moradores comeram apenas alguns alimentos que ainda tinham porque o dinheiro acabou
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: l05_adulto_saltou_refeicao
+Significado: EBIA_O respondente ou algum adulto da casa deixou de fazer alguma refeição porque não havia dinheiro para comprar comida
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: n01_frutas
+Significado: Com que frequência esse alimento esteve disponível na casa do respondente nos últimos 30 dias
+Valores possíveis:
+  1: Nunca
+  2: Raramente
+  3: Às vezes
+  4: Quase sempre
+  5: Sempre
+
+--------------------------------------------------
+
+Variável: n02_legumes
+Significado: Com que frequência esse alimento estive disponível na casa do respondente nos últimos 30 dias
+Valores possíveis:
+  1: Nunca
+  2: Raramente
+  3: Às vezes
+  4: Quase sempre
+  5: Sempre
+
+--------------------------------------------------
+
+Variável: o01_frutas_comprar
+Significado: É fácil comprar frutas, legumes e verduras no seu bairro
+Valores possíveis:
+  1: Discordo totalmente
+  2: Discordo parcialmente
+  3: Nem concordo nem discordo
+  4: Concordo parcialmente
+  5: Concordo totalmente
+
+--------------------------------------------------
+
+Variável: p02_tipo_de_domicilio
+Significado: Tipo de domicílio
+Valores possíveis:
+  1: Casa
+  2: Casa de vila ou condomínio
+  3: Apartamento
+  4: Habitação em casa de cômodos, cortiço ou cabeça de porco
+  5: Outro
+
+--------------------------------------------------
+
+Variável: p05_comodos
+Significado: Quantos cômodos existem no domicílio
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: p08_banheiros_exclusivo
+Significado: Quantos banheiros de uso exclusivo dos moradores existem no domicílio
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: posestrato
+Significado: Contagem de subgrupos para pós estratificação
+Valores possíveis:
+  nsa: Centro-OesteFeminino1
+  nsa: Centro-OesteFeminino2
+  nsa: Centro-OesteFeminino3
+  nsa: Centro-OesteFeminino4
+  nsa: Centro-OesteFeminino5
+  nsa: Centro-OesteFeminino6
+  nsa: Centro-OesteMasculino1
+  nsa: Centro-OesteMasculino2
+  nsa: Centro-OesteMasculino3
+  nsa: Centro-OesteMasculino4
+  nsa: Centro-OesteMasculino5
+  nsa: Centro-OesteMasculino6
+  nsa: NordesteFeminino1
+  nsa: NordesteFeminino2
+  nsa: NordesteFeminino3
+  nsa: NordesteFeminino4
+  nsa: NordesteFeminino5
+  nsa: NordesteFeminino6
+  nsa: NordesteMasculino1
+  nsa: NordesteMasculino2
+  nsa: NordesteMasculino3
+  nsa: NordesteMasculino4
+  nsa: NordesteMasculino5
+  nsa: NordesteMasculino6
+  nsa: NorteFeminino1
+  nsa: NorteFeminino2
+  nsa: NorteFeminino3
+  nsa: NorteFeminino4
+  nsa: NorteFeminino5
+  nsa: NorteFeminino6
+  nsa: NorteMasculino1
+  nsa: NorteMasculino2
+  nsa: NorteMasculino3
+  nsa: NorteMasculino4
+  nsa: NorteMasculino5
+  nsa: NorteMasculino6
+  nsa: SudesteFeminino1
+  nsa: SudesteFeminino2
+  nsa: SudesteFeminino3
+  nsa: SudesteFeminino4
+  nsa: SudesteFeminino5
+  nsa: SudesteFeminino6
+  nsa: SudesteMasculino1
+  nsa: SudesteMasculino2
+  nsa: SudesteMasculino3
+  nsa: SudesteMasculino4
+  nsa: SudesteMasculino5
+  nsa: SudesteMasculino6
+  nsa: SulFeminino1
+  nsa: SulFeminino2
+  nsa: SulFeminino3
+  nsa: SulFeminino4
+  nsa: SulFeminino5
+  nsa: SulFeminino6
+  nsa: SulMasculino1
+  nsa: SulMasculino2
+  nsa: SulMasculino3
+  nsa: SulMasculino4
+  nsa: SulMasculino5
+  nsa: SulMasculino6
+
+--------------------------------------------------
+
+Variável: q06_renda
+Significado: Renda mensal do domicílio
+Valores possíveis:
+  0: Sem renda
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: r02_automoveis
+Significado: Quantos automóveis tem neste domicílio
+Valores possíveis:
+  0: Nenhum automovel
+  1: 1 automóvel
+  2: 2 automóveis
+  3: 3 automóveis
+  4: 4 ou mais automóveis
+
+--------------------------------------------------
+
+Variável: r06_lavadora
+Significado: Você(s) têm máquina de lavar roupa no domicílio
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: r07_micro_ondas
+Significado: Você(s) têm forno de micro-ondas no domicílio
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: r08_telefone_fixo
+Significado: Você(s) têm telefone fixo (convencional) no domicílio
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: r09_microcomputador
+Significado: Você(s) têm microcomputador/tablet/notebook no domicílio
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: r11_tv_a_cabo
+Significado: Você(s) têm TV a cabo ou TV por assinatura no domicílio
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: r12_internet_domicilio
+Significado: Você(s) têm acesso à internet no domicílio (inclusive rede sem fio)
+Valores possíveis:
+  1: Não
+  2: Sim, só internet a cabo
+  3: Sim, internet a cabo e rede sem fio
+
+--------------------------------------------------
+
+Variável: s00d_idade_peso
+Significado: Idade em dias da criança no dia da medida 1 do peso
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: s00f_idade_altura
+Significado: Idade em dias da criança no dia da medida da altura
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: s02_peso_medida1
+Significado: Medida 1 do peso da criança (kg)
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: s03_peso_medida2
+Significado: Medida 2 do peso da criança (kg)
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: s07_altura_medida1
+Significado: Medida 1 da altura/comprimento da criança (cm)
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: s08_altura_medida2
+Significado: Medida 2 da altura/comprimento da criança(cm)
+Valores possíveis:
+  0: sem a medida
+
+--------------------------------------------------
+
+Variável: s39a_medida1_altura_refeita
+Significado: 
+Valores possíveis:
+  1: Não foi refeita ou não se aplica
+  2: Refeita
+
+--------------------------------------------------
+
+Variável: t05_altura_medida1
+Significado: Medida 1 da altura/comprimento da mãe (cm)
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: t06_altura_medida2
+Significado: Medida 2 da altura/comprimento da mãe (cm)
+Valores possíveis:
+  nsa: nsa
+  0: nsa
+
+--------------------------------------------------
+
+Variável: x06_total_pessoas
+Significado: Total de moradores no domicílio
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: vd_ebia_escore
+Significado: Escore da Escala Brasileira de Insegurança Alimentar no domicílio
+Valores possíveis:
+  0 a 14: nsa
+
+--------------------------------------------------
+
+Variável: vd_suplemento
+Significado: Uso de suplementos de micronutrientes atual ou nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_suplemento_sus
+Significado: Uso de suplementos de micronutrientes atual ou nos últimos 6 meses adquirido no Serviço público de saúde
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_suplemento_comercial
+Significado: Uso de suplementos de micronutrientes atual ou nos últimos 6 meses não adquirido no Serviço público de saúde
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_num_supl
+Significado: Quantidade de tipos de suplementos usados nos últimos 6 meses
+Valores possíveis:
+  nsa: nsa
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_selenio
+Significado: Uso de qualquer suplemento de micronutrientes que contenha selênio  nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_molibdenio
+Significado: Uso de qualquer suplemento de micronutrientes que contenha molibdenio nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_manganes
+Significado: Uso de qualquer suplemento de micronutrientes que contenha manganês nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_magnesio
+Significado: Uso de qualquer suplemento de micronutrientes que contenha magnésio nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_fosforo
+Significado: Uso de qualquer suplemento de micronutrientes que contenha fosforo nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_iodo
+Significado: Uso de qualquer suplemento de micronutrientes que contenha iodo nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_cobre
+Significado: Uso de qualquer suplemento de micronutrientes que contenha cobre nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_cromo
+Significado: Uso de qualquer suplemento de micronutrientes que contenha cromo nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_ferro
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_somente_ferro
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente ferro nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_exclusivamente_ferro
+Significado: Uso de apenas um suplemento de micronutrientes que contenha somente ferro nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_ferro_indep_nutrisus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro independente do uso de NUTRISUS nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_ferro_sus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro adquirido no Serviço público de saúde  nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_ferro_nao_sus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro não adquirido no Serviço público de saúde  nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_calcio
+Significado: Uso de qualquer suplemento de micronutrientes que contenha calcio nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_zinco
+Significado: Uso de qualquer suplemento de micronutrientes que contenha zinco nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_somente_zinco
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente zinco nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vita
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit A nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_somente_vita
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente Vit A nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_exclusivamente_vita
+Significado: Uso de apenas um suplemento de micronutrientes que contenha somente Vit A nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_vita_indep_mega_nutrisus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ferro independente do uso de megadose de Vit A e NUTRISUS nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_vita_sus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit A adquirido no Serviço público de saúde  nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_vita_nao_sus
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit A não adquirido no Serviço público de saúde  nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb1
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B1 nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb2
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B2 nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb3
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B3 nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb5
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B5 nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb6
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B6 nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb7
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B7 nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb8
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B8 nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb9
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B9 nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitb12
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit B12 nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitc
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit C nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_somente_vitc
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente Vit C nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_exclusivamente_vitc
+Significado: Uso de apenas um suplemento de micronutrientes que contenha somente Vit C nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitd
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit D nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_somente_vitd
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente Vit D nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_exclusivamente_vitd
+Significado: Uso de apenas um suplemento de micronutrientes que contenha somente Vit D nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vite
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit E nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_vitk
+Significado: Uso de qualquer suplemento de micronutrientes que contenha Vit K nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_somente_vitsad
+Significado: Uso de qualquer suplemento de micronutrientes que contenha somente Vit A e Vit D nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais
+Significado: Uso de qualquer suplemento de micronutrientes que contenha apenas vitaminas nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_com_minerais
+Significado: Uso de qualquer suplemento de micronutrientes que contenha vitaminas e minerais nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multi_sem_com_minerais
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem ou com minerais
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_bc_cipro
+Significado: Uso de qualquer suplemento de micronutrientes que contenha apenas Vit B e Vit C associada à ciproeptadina nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_com_cipro
+Significado: Uso de qualquer suplemento de micronutrientes que contenha ciproeptadina nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_outros_supl
+Significado: Uso de outros suplementos de micronutrientes não contemplados nas combinações anteriores nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_sobreposicao
+Significado: Uso de mais de um suplementos de micronutrientes em que se sobrepõe pelo menos um nutriente nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_abcde
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit B, Vit C, Vit D, Vit E nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_ade
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit D, Vit E nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_bc
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit B, Vit C nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_b
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit B nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_abcdek
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit B, Vit C, Vit D, Vit E, Vit K nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_abcd
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha Vit A, Vit B, Vit C, Vit D nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_sem_minerais_outros
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico sem minerais que contenha outra combinação de vitaminas não contemplado em combinações anteriores nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_supl1_multivitaminico_com_minerais_bcferro
+Significado: Uso de qualquer suplemento de micronutrientes multivitamínico com  minerais que contenha Vit B, Vit C, ferro nos últimos 6 meses
+Valores possíveis:
+  1: Sim
+  2: Não
+
+--------------------------------------------------
+
+Variável: vd_zwaz
+Significado: Escore z do índice peso/idade da criança
+Valores possíveis: Não especificados
+
+--------------------------------------------------
+
+Variável: vd_zimc
+Significado: Escore z do índice imc/idade da criança
+Valores possíveis: Não especificados
+
+--------------------------------------------------
+
+Variável: vd_zhaz
+Significado: Escore z do índice altura/idade da criança
+Valores possíveis: Não especificados
+
+--------------------------------------------------
+
+Variável: vd_anthro_zwfl
+Significado: Escore z do índice peso/altura da criança
+Valores possíveis: Não especificados
+
+--------------------------------------------------
+
+Variável: vd_prematura_igb
+Significado: Significado não encontrado no dicionário ENANI
+Valores possíveis: Não especificados
+
+--------------------------------------------------
+

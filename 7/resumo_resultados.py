@@ -2,7 +2,7 @@ import pandas as pd
 
 # Carregar os resultados da análise
 print("Carregando resultados da análise estatística...")
-resultados = pd.read_csv('./7/analise_associacoes.csv')
+resultados = pd.read_csv('./7 - avaliação de força estatistica/analise_associacoes.csv')
 
 # Filtrar resultados significativos
 resultados_significativos = resultados[resultados['significancia'] == 'Significativa']
