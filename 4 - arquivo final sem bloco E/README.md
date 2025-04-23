@@ -18,6 +18,47 @@ O objetivo deste processamento é simplificar o conjunto de dados, removendo as 
 - **reorganizar_csv.py**: Script que reorganiza o CSV movendo a coluna 'aleitamento_materno_exclusivo' para a primeira posição (coluna A)
 - **criancas_menores_6_meses_reorganizado.csv**: Arquivo final reorganizado com a coluna AME na primeira posição
 
+## Fluxograma de Transformação de Features
+
+```
+┌───────────────────────┐
+│ Conjunto Original     │
+│ Total: 742 features   │
+└───────────┬───────────┘
+            │
+            ▼
+┌───────────────────────┐
+│ Remoção do Bloco E    │
+│ (51 features removidas)│
+│                       │
+│ Motivo: Bloco E define│
+│ aleitamento materno e │
+│ não é fator preditivo │
+└───────────┬───────────┘
+            │
+            ▼
+┌───────────────────────┐
+│ Adição da feature     │
+│ 'aleitamento_materno_ │
+│ exclusivo'            │
+│ (+1 feature derivada) │
+└───────────┬───────────┘
+            │
+            ▼
+┌───────────────────────┐
+│ Conjunto Final        │
+│ Total: 691 features   │
+│ (742 - 51 + 0 = 691)  │
+└───────────────────────┘
+```
+
+**Observações:**
+- Foram retiradas 51 features do bloco E, que representavam informações brutas de consumo alimentar
+- A feature "aleitamento_materno_exclusivo" já havia sido criada na etapa anterior a partir do bloco E
+- O bloco E foi removido pois seus dados já foram utilizados para criar a classificação AME, que é o objetivo principal da análise
+- As 51 features do bloco E não são fatores preditivos neste caso, mas sim as variáveis que definem o desfecho (AME)
+- O conjunto final possui 691 features, com a coluna de AME reorganizada para a primeira posição para facilitar a análise
+
 ## Como Executar
 
 Para executar o script e gerar o arquivo sem o bloco E, utilize:
