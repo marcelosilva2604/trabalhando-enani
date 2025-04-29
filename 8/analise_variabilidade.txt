@@ -1,0 +1,162 @@
+Análise de Variabilidade das Features
+================================================================================
+
+Dataset: /Users/marcelosilva/Desktop/artigo_novo/8/dataset.csv
+Total de registros: 1960
+Total de features: 140
+
+FEATURE                                  VALOR DOMINANTE                %          #VALORES  
+------------------------------------------------------------------------------------------
+s39a_medida1_altura_refeita              Não foi refeita ou não se...   94.54% 2         
+h216_internado_nao                       Sim                            93.67% 2         
+h16_canseira                             Não                            91.99% 2         
+l05_adulto_saltou_refeicao               Não                            91.63% 2         
+vd_prematura_igb                         Não                            91.28% 2         
+h13_diarreia                             Não                            90.46% 3         
+g150_vitaminas                           Não                            90.05% 3         
+k23_deixou                               Não                            89.23% 4         
+k243_utilizou_bico                       Não                            88.16% 3         
+p02_tipo_de_domicilio                    Casa                           87.55% 5         
+g001_usou                                Não                            87.19% 2         
+k13_tempo_medida                         Horas                          86.94% 3         
+k242_utilizou_protetor                   Não                            86.12% 3         
+k14_ainda                                Sim                            85.71% 3         
+k17_alimento                                                            85.41% 12        
+r08_telefone_fixo                        Não                            85.00% 2         
+h19_febre                                Não                            84.69% 3         
+k245_utilizou_mamadeira                  Não                            84.49% 3         
+h15_respiracao                           Não                            83.57% 2         
+d02_matriculado                          Não                            82.91% 4         
+j0503_rel_evangelica_pentecostal         Não                            82.65% 2         
+p08_banheiros_exclusivo                  1                              80.97% 7         
+k16_liquido                              Não                            80.61% 4         
+vd_suplemento_sus                        Não                            80.56% 2         
+h18_ronqueira                            Não                            79.44% 3         
+l02_morador_alim_acabaram                Não                            78.11% 2         
+l03_morador_saudavel                     Não                            78.11% 2         
+l04_morador_insuficiente                 Não                            77.60% 2         
+k244_utilizou_bomba                      Não                            76.68% 3         
+j04_vive                                 Sim                            75.31% 2         
+h14_tosse                                Não                            75.20% 3         
+k15_recebeu                              Não                            74.23% 4         
+r11_tv_a_cabo                            Não                            72.70% 2         
+h17_nariz                                Não                            67.55% 2         
+vd_suplemento_comercial                  Não                            67.24% 2         
+r06_lavadora                             Sim                            66.63% 2         
+o01_frutas_comprar                       Concordo totalmente            66.22% 5         
+r09_microcomputador                      Não                            63.06% 2         
+f001_esta_usando                         Não                            60.00% 2         
+k24_utilizou                             H                              59.59% 70        
+k248_utilizou_nao                        Sim                            59.59% 3         
+vd_ebia_escore                           0                              59.44% 15        
+b06_numero_mae                           1.0                            58.16% 12        
+r02_automoveis                           Nenhum automóvel               57.65% 5         
+aleitamento_materno_exclusivo            2                              53.06% 2         
+h04_parto                                Normal                         52.81% 3         
+n01_frutas                               Sempre                         52.70% 5         
+k28_aleitamento                          Não                            52.50% 6         
+vd_suplemento                            Não                            52.35% 2         
+vd_num_supl                              0                              52.35% 4         
+vd_supl1_com_selenio                     Não usa suplementos            52.35% 3         
+vd_supl1_com_molibdenio                  Não usa suplementos            52.35% 2         
+vd_supl1_com_manganes                    Não usa suplementos            52.35% 3         
+vd_supl1_com_magnesio                    Não usa suplementos            52.35% 3         
+vd_supl1_com_fosforo                     Não usa suplementos            52.35% 3         
+vd_supl1_com_iodo                        Não usa suplementos            52.35% 3         
+vd_supl1_com_cobre                       Não usa suplementos            52.35% 3         
+vd_supl1_com_cromo                       Não usa suplementos            52.35% 3         
+vd_supl1_com_ferro                       Não usa suplementos            52.35% 3         
+vd_supl1_somente_ferro                   Não usa suplementos            52.35% 3         
+vd_supl1_exclusivamente_ferro            Não usa suplementos            52.35% 3         
+vd_supl1_com_ferro_indep_nutrisus        Não usa suplementos            52.35% 3         
+vd_supl1_ferro_sus                       Não usa suplementos            52.35% 3         
+vd_supl1_ferro_nao_sus                   Não usa suplementos            52.35% 3         
+vd_supl1_com_calcio                      Não usa suplementos            52.35% 3         
+vd_supl1_com_zinco                       Não usa suplementos            52.35% 3         
+vd_supl1_somente_zinco                   Não usa suplementos            52.35% 2         
+vd_supl1_com_vita                        Não usa suplementos            52.35% 3         
+vd_supl1_somente_vita                    Não usa suplementos            52.35% 3         
+vd_supl1_exclusivamente_vita             Não usa suplementos            52.35% 3         
+vd_supl1_vita_indep_mega_nutrisus        Não usa suplementos            52.35% 3         
+vd_supl1_vita_sus                        Não usa suplementos            52.35% 3         
+vd_supl1_vita_nao_sus                    Não usa suplementos            52.35% 3         
+vd_supl1_com_vitb1                       Não usa suplementos            52.35% 3         
+vd_supl1_com_vitb2                       Não usa suplementos            52.35% 3         
+vd_supl1_com_vitb3                       Não usa suplementos            52.35% 3         
+vd_supl1_com_vitb5                       Não usa suplementos            52.35% 3         
+vd_supl1_com_vitb6                       Não usa suplementos            52.35% 3         
+vd_supl1_com_vitb7                       Não usa suplementos            52.35% 3         
+vd_supl1_com_vitb8                       Não usa suplementos            52.35% 2         
+vd_supl1_com_vitb9                       Não usa suplementos            52.35% 3         
+vd_supl1_com_vitb12                      Não usa suplementos            52.35% 3         
+vd_supl1_com_vitc                        Não usa suplementos            52.35% 3         
+vd_supl1_somente_vitc                    Não usa suplementos            52.35% 3         
+vd_supl1_exclusivamente_vitc             Não usa suplementos            52.35% 3         
+vd_supl1_com_vitd                        Não usa suplementos            52.35% 3         
+vd_supl1_somente_vitd                    Não usa suplementos            52.35% 3         
+vd_supl1_exclusivamente_vitd             Não usa suplementos            52.35% 3         
+vd_supl1_com_vite                        Não usa suplementos            52.35% 3         
+vd_supl1_com_vitk                        Não usa suplementos            52.35% 3         
+vd_supl1_somente_vitsad                  Não usa suplementos            52.35% 3         
+vd_supl1_multivitaminico_sem_minerais    Não usa suplementos            52.35% 3         
+vd_supl1_multivitaminico_com_minerais    Não usa suplementos            52.35% 3         
+vd_supl1_multi_sem_com_minerais          Não usa suplementos            52.35% 3         
+vd_supl1_bc_cipro                        Não usa suplementos            52.35% 3         
+vd_supl1_com_cipro                       Não usa suplementos            52.35% 3         
+vd_supl1_outros_supl                     Não usa suplementos            52.35% 3         
+vd_supl1_sobreposicao                    Não usa suplementos            52.35% 3         
+vd_supl1_multivitaminico_sem_minerais_abcde Não usa suplementos            52.35% 3         
+vd_supl1_multivitaminico_sem_minerais_ade Não usa suplementos            52.35% 3         
+vd_supl1_multivitaminico_sem_minerais_bc Não usa suplementos            52.35% 3         
+vd_supl1_multivitaminico_sem_minerais_b  Não usa suplementos            52.35% 3         
+vd_supl1_multivitaminico_sem_minerais_abcdek Não usa suplementos            52.35% 2         
+vd_supl1_multivitaminico_sem_minerais_abcd Não usa suplementos            52.35% 3         
+vd_supl1_multivitaminico_sem_minerais_outros Não usa suplementos            52.35% 3         
+vd_supl1_multivitaminico_com_minerais_bcferro Não usa suplementos            52.35% 3         
+r07_micro_ondas                          Sim                            52.04% 2         
+k25_mamadeira                            Não, nunca usou                51.12% 5         
+n02_legumes                              Sempre                         50.51% 5         
+j06_ocupacao                             Fora do mercado de trabal...   45.51% 4         
+r12_internet_domicilio                   Sim, internet a cabo e re...   44.29% 3         
+h05_chupeta_usou                         Usa chupeta                    40.61% 5         
+bbb08a_numero_mais_velho1                3                              38.98% 13        
+k12_tempo                                0.0                            37.91% 28        
+p05_comodos                              5                              33.47% 17        
+x06_total_pessoas                        3                              31.17% 14        
+k18_somente                              88.0                           29.39% 48        
+a00_regiao                               Centro-Oeste                   23.62% 5         
+i000c_idade_em_meses                     3                              18.88% 7         
+b05a_idade_em_meses                      3 meses                        18.78% 6         
+k04_prenatal_semanas                     8.0                            16.99% 40        
+k05_prenatal_consultas                   9.0                            15.61% 30        
+posestrato                               SulFeminino1                   12.60% 10        
+s08_altura_medida2                       0.0                            10.15% 236       
+estrato_sel_anon                         1014                           9.74% 52        
+q06_renda                                2000                           9.74% 187       
+vd_anthro_zwfl                           MISSING                        8.78% 104       
+vd_zimc                                  MISSING                        8.72% 87        
+t06_altura_medida2                       0.0                            6.38% 294       
+s07_altura_medida1                       63.0                           4.59% 218       
+s03_peso_medida2                         0.0                            4.39% 664       
+vd_zhaz                                  -0.2                           4.08% 102       
+vd_zwaz                                  0.0                            3.88% 86        
+t05_altura_medida1                       160.0                          3.01% 297       
+h02_peso                                 3250                           2.14% 573       
+s02_peso_medida1                         5.2                            1.33% 643       
+s00d_idade_peso                          124                            1.02% 202       
+s00f_idade_altura                        124                            1.02% 202       
+b05_data                                 28012019                       0.77% 457       
+i000d_data_ajustada                      28012019                       0.71% 458       
+
+
+================================================================================
+SUGESTÕES DE FEATURES PARA REMOVER (> 90% em um único valor)
+================================================================================
+
+s39a_medida1_altura_refeita              94.54%
+h216_internado_nao                       93.67%
+h16_canseira                             91.99%
+l05_adulto_saltou_refeicao               91.63%
+vd_prematura_igb                         91.28%
+h13_diarreia                             90.46%
+g150_vitaminas                           90.05%

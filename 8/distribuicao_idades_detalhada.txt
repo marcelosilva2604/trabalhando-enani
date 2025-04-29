@@ -1,0 +1,10 @@
+Análise de Distribuição de Idades em Meses
+==================================================
+
+Distribuição de Idades em Meses:
+3 meses: 368.0 (18.78%)
+4 meses: 364.0 (18.57%)
+2 meses: 359.0 (18.32%)
+5 meses: 328.0 (16.73%)
+1 mês: 327.0 (16.68%)
+0 meses: 214.0 (10.92%)
